@@ -1,0 +1,13 @@
+{
+  "name": "plantapi",
+  "version": "0.1.0",
+  "private": true,
+  "description": "이세계 엘프들 팀원용 Pl@ntNet 식별 API 테스트 프로토타입",
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "start": "node src/server.mjs",
+    "dev": "node --env-file-if-exists=.env --watch src/server.mjs",
+    "check": "node --check src/server.mjs && node --check src/identify.mjs && node --check public/app.js && node --test"
+  }
+}

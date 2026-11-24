@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "appId": "plantapi",
+  "imageRepository": "ghcr.io/hurdoo/plantapi",
+  "displayName": "식물 식별 테스트",
+  "description": "이세계 엘프들 팀원용 Pl@ntNet 식별 API 테스트 프로토타입",
+  "containerPort": 3000,
+  "healthPath": "/healthz",
+  "access": "public",
+  "dataEnabled": false,
+  "resources": {
+    "memoryMiB": 256,
+    "cpus": 1,
+    "pids": 64
+  },
+  "ingressProfile": "standard",
+  "environment": {
+    "IDENTIFY_DAILY_LIMIT": "150"
+  },
+  "requiredSecrets": ["PLANTNET_API_KEY"],
+  "optionalSecrets": [],
+  "platform": "linux/arm64",
+  "dockerfile": "Dockerfile",
+  "context": ".",
+  "checks": [["npm", "run", "check"]]
+}

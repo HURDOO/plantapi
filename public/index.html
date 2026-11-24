@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#2f6b3f">
+  <title>식물 식별 테스트</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="top">
+    <p class="eyebrow">이세계 엘프들 · 팀 테스트용</p>
+    <h1>식물 식별 API 테스트</h1>
+    <p class="lead">사진을 올리면 Pl@ntNet 결과와 <b>API 초안 3.3 I-1</b> 응답 모양을 함께 보여줘요.</p>
+  </header>
+
+  <main>
+    <section class="card" aria-labelledby="step-photo">
+      <h2 id="step-photo">1. 사진</h2>
+      <div class="pick">
+        <label class="btn primary">
+          <input id="camera" type="file" accept="image/*" capture="environment" hidden>
+          카메라로 찍기
+        </label>
+        <label class="btn">
+          <input id="gallery" type="file" accept="image/jpeg,image/png,image/webp,image/*" hidden>
+          앨범에서 고르기
+        </label>
+      </div>
+      <figure id="preview" class="preview" hidden>
+        <img id="preview-img" alt="선택한 사진 미리보기">
+        <figcaption id="preview-info"></figcaption>
+      </figure>
+    </section>
+
+    <section class="card" aria-labelledby="step-organ">
+      <h2 id="step-organ">2. 사진 부위 <span class="muted">(organ)</span></h2>
+      <div class="segments" role="radiogroup" aria-labelledby="step-organ">
+        <label><input type="radio" name="organ" value="auto" checked><span>자동</span></label>
+        <label><input type="radio" name="organ" value="leaf"><span>잎</span></label>
+        <label><input type="radio" name="organ" value="flower"><span>꽃</span></label>
+        <label><input type="radio" name="organ" value="fruit"><span>열매</span></label>
+        <label><input type="radio" name="organ" value="bark"><span>수피</span></label>
+      </div>
+      <p class="hint">앱 기본값은 <b>자동</b>이에요. 부위를 직접 고르면 정확도가 달라지는지 비교해 보세요 (회의 안건).</p>
+    </section>
+
+    <button id="submit" class="btn primary wide" type="button" disabled>식별하기</button>
+    <p id="quota" class="hint center" aria-live="polite"></p>
+
+    <section id="error" class="card error" role="alert" hidden></section>
+
+    <section id="result" hidden>
+      <div class="card">
+        <h2>3. 후보</h2>
+        <dl class="meta" id="meta"></dl>
+        <ol id="candidates" class="candidates"></ol>
+      </div>
+
+      <div class="card">
+        <div class="tabs" role="tablist">
+          <button role="tab" aria-selected="true" data-tab="draft">I-1 응답 (초안 형식)</button>
+          <button role="tab" aria-selected="false" data-tab="raw">Pl@ntNet 원본</button>
+        </div>
+        <div class="tab-note" data-note="draft">
+          <code>species_id</code>, <code>korean_name</code>, <code>character_id</code>, <code>is_collected</code>는
+          DB(plant_species·taxon_groups·discoveries)에서 채우는 칸이라 프로토타입에서는 <code>null</code>이에요.
+        </div>
+        <div class="tab-note" data-note="raw" hidden>Pl@ntNet <code>/v2/identify/all</code>이 돌려준 그대로예요.</div>
+        <pre id="json" class="json" tabindex="0"></pre>
+        <button id="copy" class="btn small" type="button">JSON 복사</button>
+      </div>
+    </section>
+
+    <details class="card">
+      <summary>에러 코드 (API 초안 3.3)</summary>
+      <table class="codes">
+        <tr><td>400</td><td><code>INVALID_PHOTO</code></td><td>사진이 없거나 형식이 맞지 않음</td></tr>
+        <tr><td>404</td><td><code>NO_PLANT_FOUND</code></td><td>식물로 인식하지 못함</td></tr>
+        <tr><td>429</td><td><code>DAILY_LIMIT</code></td><td>테스트 서버의 하루 한도 초과</td></tr>
+        <tr><td>502</td><td><code>IDENTIFY_FAILED</code></td><td>Pl@ntNet 오류 또는 Pl@ntNet 한도 초과</td></tr>
+      </table>
+    </details>
+  </main>
+
+  <footer class="foot">
+    식물 식별: <a href="https://plantnet.org" rel="noopener">Pl@ntNet</a> (my-api.plantnet.org) ·
+    사진은 저장하지 않아요.
+  </footer>
+
+  <script src="/app.js" type="module"></script>
+</body>
+</html>
