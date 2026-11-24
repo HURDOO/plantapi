@@ -1,0 +1,373 @@
+[
+ {
+  "id": "ginkgo",
+  "file": "ginkgo.jpg",
+  "korean_name": "은행나무",
+  "scientific_name": "Ginkgo biloba",
+  "synonyms": [],
+  "genus": "Ginkgo",
+  "family": "Ginkgoaceae",
+  "group": "street",
+  "organ": "habit",
+  "note": "",
+  "credit": {
+   "artist": "EecherplazGinkgo06.jpg: Cayambe derivative work: Ginkgotree (talk)",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:GINKGOBAUM-2.jpg"
+  }
+ },
+ {
+  "id": "yoshino-cherry",
+  "file": "yoshino-cherry.jpg",
+  "korean_name": "왕벚나무",
+  "scientific_name": "Prunus × yedoensis",
+  "synonyms": [
+   "Cerasus × yedoensis",
+   "Prunus yedoensis",
+   "Cerasus yedoensis"
+  ],
+  "genus": "Prunus",
+  "family": "Rosaceae",
+  "group": "street",
+  "organ": "flower",
+  "note": "",
+  "credit": {
+   "artist": "松岡明芳",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2020-04-07_Prunus_%C3%97_yedoensis_Tambasasayama,Hyogo(%E4%B8%B9%E6%B3%A2%E7%AF%A0%E5%B1%B1%E5%B8%82%E7%AF%A0%E5%B1%B1%E5%B7%9D%E3%81%AE%E3%82%BD%E3%83%A1%E3%82%A4%E3%83%A8%E3%82%B7%E3%83%8E)DSCF2986%E2%98%86%E5%BD%A1.jpg"
+  }
+ },
+ {
+  "id": "korean-rhododendron",
+  "file": "korean-rhododendron.jpg",
+  "korean_name": "진달래",
+  "scientific_name": "Rhododendron mucronulatum",
+  "synonyms": [],
+  "genus": "Rhododendron",
+  "family": "Ericaceae",
+  "group": "street",
+  "organ": "flower",
+  "note": "",
+  "credit": {
+   "artist": "Tae Hoon Kang",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Korea-Jindallae-Rhododendron_mucronulatum-01.jpg"
+  }
+ },
+ {
+  "id": "dandelion",
+  "file": "dandelion.jpg",
+  "korean_name": "서양민들레",
+  "scientific_name": "Taraxacum officinale",
+  "synonyms": [
+   "Taraxacum campylodes",
+   "Taraxacum sect. Taraxacum"
+  ],
+  "genus": "Taraxacum",
+  "family": "Asteraceae",
+  "group": "street",
+  "organ": "flower",
+  "note": "민들레속은 종 구분이 원래 어려워 속까지만 의미가 있음",
+  "credit": {
+   "artist": "Greg Hume",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:DandelionFlower.jpg"
+  }
+ },
+ {
+  "id": "rose-of-sharon",
+  "file": "rose-of-sharon.jpg",
+  "korean_name": "무궁화",
+  "scientific_name": "Hibiscus syriacus",
+  "synonyms": [],
+  "genus": "Hibiscus",
+  "family": "Malvaceae",
+  "group": "street",
+  "organ": "flower",
+  "note": "",
+  "credit": {
+   "artist": "Eric Kounce TexasRaiser",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hibiscus_Syriacus.JPG"
+  }
+ },
+ {
+  "id": "korean-red-pine",
+  "file": "korean-red-pine.jpg",
+  "korean_name": "소나무",
+  "scientific_name": "Pinus densiflora",
+  "synonyms": [],
+  "genus": "Pinus",
+  "family": "Pinaceae",
+  "group": "street",
+  "organ": "habit",
+  "note": "",
+  "credit": {
+   "artist": "Dalgial",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pinus_densiflora_01.JPG"
+  }
+ },
+ {
+  "id": "japanese-maple",
+  "file": "japanese-maple.jpg",
+  "korean_name": "단풍나무",
+  "scientific_name": "Acer palmatum",
+  "synonyms": [],
+  "genus": "Acer",
+  "family": "Sapindaceae",
+  "group": "street",
+  "organ": "leaf",
+  "note": "",
+  "credit": {
+   "artist": "Kurt Stüber [1]",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Acer_palmatum0.jpg"
+  }
+ },
+ {
+  "id": "sunflower",
+  "file": "sunflower.jpg",
+  "korean_name": "해바라기",
+  "scientific_name": "Helianthus annuus",
+  "synonyms": [],
+  "genus": "Helianthus",
+  "family": "Asteraceae",
+  "group": "street",
+  "organ": "flower",
+  "note": "",
+  "credit": {
+   "artist": "Fir0002",
+   "license": "GFDL 1.2",
+   "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunflower_sky_backdrop.jpg"
+  }
+ },
+ {
+  "id": "cosmos",
+  "file": "cosmos.jpg",
+  "korean_name": "코스모스",
+  "scientific_name": "Cosmos bipinnatus",
+  "synonyms": [],
+  "genus": "Cosmos",
+  "family": "Asteraceae",
+  "group": "street",
+  "organ": "flower",
+  "note": "",
+  "credit": {
+   "artist": "Joydeep",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cosmos_bipinnatus_pink,_Burdwan,_West_Bengal,_India_10_01_2013.jpg"
+  }
+ },
+ {
+  "id": "kobus-magnolia",
+  "file": "kobus-magnolia.jpg",
+  "korean_name": "목련",
+  "scientific_name": "Magnolia kobus",
+  "synonyms": [
+   "Yulania kobus"
+  ],
+  "genus": "Magnolia",
+  "family": "Magnoliaceae",
+  "group": "street",
+  "organ": "habit",
+  "note": "",
+  "credit": {
+   "artist": "Bruce Marlin",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Magnolia_kobus_borealis.jpg"
+  }
+ },
+ {
+  "id": "white-clover",
+  "file": "white-clover.jpg",
+  "korean_name": "토끼풀",
+  "scientific_name": "Trifolium repens",
+  "synonyms": [],
+  "genus": "Trifolium",
+  "family": "Fabaceae",
+  "group": "street",
+  "organ": "leaf",
+  "note": "",
+  "credit": {
+   "artist": "Vinayaraj",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Trifolium_repens_-_white_clover_on_way_from_Govindghat_to_Gangria_at_Valley_of_Flowers_National_Park_-_during_LGFC_-_VOF_2019_(1).jpg"
+  }
+ },
+ {
+  "id": "green-foxtail",
+  "file": "green-foxtail.jpg",
+  "korean_name": "강아지풀",
+  "scientific_name": "Setaria viridis",
+  "synonyms": [],
+  "genus": "Setaria",
+  "family": "Poaceae",
+  "group": "street",
+  "organ": "flower",
+  "note": "",
+  "credit": {
+   "artist": "Rasbak",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Groene_naaldaar_aarpluim_(Setaria_viridis).jpg"
+  }
+ },
+ {
+  "id": "sycamore",
+  "file": "sycamore.jpg",
+  "korean_name": "양버즘나무",
+  "scientific_name": "Platanus occidentalis",
+  "synonyms": [],
+  "genus": "Platanus",
+  "family": "Platanaceae",
+  "group": "street",
+  "organ": "habit",
+  "note": "",
+  "credit": {
+   "artist": "Marty Aligata",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pawling_Sycamore,_Valley_Forge_National_Historic_Park,_Pennsylvania_June_2024.jpg"
+  }
+ },
+ {
+  "id": "zelkova",
+  "file": "zelkova.jpg",
+  "korean_name": "느티나무",
+  "scientific_name": "Zelkova serrata",
+  "synonyms": [],
+  "genus": "Zelkova",
+  "family": "Ulmaceae",
+  "group": "street",
+  "organ": "habit",
+  "note": "",
+  "credit": {
+   "artist": "ja:User:Miya",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_Noma_keyaki01.jpg"
+  }
+ },
+ {
+  "id": "monstera",
+  "file": "monstera.jpg",
+  "korean_name": "몬스테라",
+  "scientific_name": "Monstera deliciosa",
+  "synonyms": [],
+  "genus": "Monstera",
+  "family": "Araceae",
+  "group": "indoor",
+  "organ": "leaf",
+  "note": "",
+  "credit": {
+   "artist": "",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Monstera_deliciosa2.jpg"
+  }
+ },
+ {
+  "id": "pothos",
+  "file": "pothos.jpg",
+  "korean_name": "스킨답서스",
+  "scientific_name": "Epipremnum aureum",
+  "synonyms": [],
+  "genus": "Epipremnum",
+  "family": "Araceae",
+  "group": "indoor",
+  "organ": "leaf",
+  "note": "",
+  "credit": {
+   "artist": "Mokkie",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Money_Plant_(Epipremnum_aureum)_4.jpg"
+  }
+ },
+ {
+  "id": "rubber-plant",
+  "file": "rubber-plant.jpg",
+  "korean_name": "고무나무",
+  "scientific_name": "Ficus elastica",
+  "synonyms": [],
+  "genus": "Ficus",
+  "family": "Moraceae",
+  "group": "indoor",
+  "organ": "leaf",
+  "note": "",
+  "credit": {
+   "artist": "B.navez",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ficus_elastica_leaves_02.JPG"
+  }
+ },
+ {
+  "id": "snake-plant",
+  "file": "snake-plant.jpg",
+  "korean_name": "산세베리아",
+  "scientific_name": "Dracaena trifasciata",
+  "synonyms": [
+   "Sansevieria trifasciata"
+  ],
+  "genus": "Dracaena",
+  "family": "Asparagaceae",
+  "group": "indoor",
+  "organ": "leaf",
+  "note": "예전 학명 Sansevieria trifasciata",
+  "credit": {
+   "artist": "Mokkie",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Snake_Plant_(Sansevieria_trifasciata_%27Laurentii%27).jpg"
+  }
+ },
+ {
+  "id": "zz-plant",
+  "file": "zz-plant.jpg",
+  "korean_name": "금전수",
+  "scientific_name": "Zamioculcas zamiifolia",
+  "synonyms": [],
+  "genus": "Zamioculcas",
+  "family": "Araceae",
+  "group": "indoor",
+  "organ": "leaf",
+  "note": "",
+  "credit": {
+   "artist": "User:WeFt",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Zamioculcas_zamiifolia_1.jpg"
+  }
+ },
+ {
+  "id": "spider-plant",
+  "file": "spider-plant.jpg",
+  "korean_name": "접란",
+  "scientific_name": "Chlorophytum comosum",
+  "synonyms": [],
+  "genus": "Chlorophytum",
+  "family": "Asparagaceae",
+  "group": "indoor",
+  "organ": "leaf",
+  "note": "",
+  "credit": {
+   "artist": "Hierbabuena_0611.JPG: Dtarazona derivative work: Peter coxhead (talk)",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:Hierbabuena_0611_Revised.jpg"
+  }
+ }
+]

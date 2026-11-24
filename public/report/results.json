@@ -1,0 +1,1595 @@
+{
+ "tested_at": "2026-11-24T04:09:05.311Z",
+ "plantnet_remaining_after": 463,
+ "results": [
+  {
+   "id": "ginkgo",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 3176,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Ginkgo biloba",
+       "genus": "Ginkgo",
+       "family": "Ginkgoaceae",
+       "common_names": [
+        "Ginkgo",
+        "Maidenhair tree"
+       ],
+       "confidence": 0.9365
+      },
+      {
+       "scientific_name": "Populus tremula",
+       "genus": "Populus",
+       "family": "Salicaceae",
+       "common_names": [
+        "Aspen",
+        "European aspen"
+       ],
+       "confidence": 0.0031
+      },
+      {
+       "scientific_name": "Fagus sylvatica",
+       "genus": "Fagus",
+       "family": "Fagaceae",
+       "common_names": [
+        "Beech",
+        "European beech"
+       ],
+       "confidence": 0.003
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 497
+    }
+   ]
+  },
+  {
+   "id": "yoshino-cherry",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 800,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Prunus × yedoensis",
+       "genus": "Prunus",
+       "family": "Rosaceae",
+       "common_names": [
+        "Yoshino cherry",
+        "Hybrid cherry"
+       ],
+       "confidence": 0.1885
+      },
+      {
+       "scientific_name": "Prunus × subhirtella",
+       "genus": "Prunus",
+       "family": "Rosaceae",
+       "common_names": [
+        "Winter flowering cherry",
+        "Higan cherry"
+       ],
+       "confidence": 0.1216
+      },
+      {
+       "scientific_name": "Prunus amygdalus",
+       "genus": "Prunus",
+       "family": "Rosaceae",
+       "common_names": [
+        "Almond",
+        "Sweet almond"
+       ],
+       "confidence": 0.1173
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 496
+    },
+    {
+     "organ": "flower",
+     "ok": true,
+     "elapsed_ms": 575,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Prunus × yedoensis",
+       "genus": "Prunus",
+       "family": "Rosaceae",
+       "common_names": [
+        "Yoshino cherry",
+        "Hybrid cherry"
+       ],
+       "confidence": 0.1885
+      },
+      {
+       "scientific_name": "Prunus × subhirtella",
+       "genus": "Prunus",
+       "family": "Rosaceae",
+       "common_names": [
+        "Winter flowering cherry",
+        "Higan cherry"
+       ],
+       "confidence": 0.1216
+      },
+      {
+       "scientific_name": "Prunus amygdalus",
+       "genus": "Prunus",
+       "family": "Rosaceae",
+       "common_names": [
+        "Almond",
+        "Sweet almond"
+       ],
+       "confidence": 0.1173
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 495
+    }
+   ]
+  },
+  {
+   "id": "korean-rhododendron",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 521,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Rhododendron mucronulatum",
+       "genus": "Rhododendron",
+       "family": "Ericaceae",
+       "common_names": [
+        "Korean rhododendron",
+        "Azalea"
+       ],
+       "confidence": 0.8345
+      },
+      {
+       "scientific_name": "Rhododendron dauricum",
+       "genus": "Rhododendron",
+       "family": "Ericaceae",
+       "common_names": [
+        "Daurian rhododendron",
+        "Dahurian rhododendron"
+       ],
+       "confidence": 0.0477
+      },
+      {
+       "scientific_name": "Rhododendron dilatatum",
+       "genus": "Rhododendron",
+       "family": "Ericaceae",
+       "common_names": [
+        "Japanese Azalea"
+       ],
+       "confidence": 0.0363
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 494
+    },
+    {
+     "organ": "flower",
+     "ok": true,
+     "elapsed_ms": 542,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Rhododendron mucronulatum",
+       "genus": "Rhododendron",
+       "family": "Ericaceae",
+       "common_names": [
+        "Korean rhododendron",
+        "Azalea"
+       ],
+       "confidence": 0.8345
+      },
+      {
+       "scientific_name": "Rhododendron dauricum",
+       "genus": "Rhododendron",
+       "family": "Ericaceae",
+       "common_names": [
+        "Daurian rhododendron",
+        "Dahurian rhododendron"
+       ],
+       "confidence": 0.0477
+      },
+      {
+       "scientific_name": "Rhododendron dilatatum",
+       "genus": "Rhododendron",
+       "family": "Ericaceae",
+       "common_names": [
+        "Japanese Azalea"
+       ],
+       "confidence": 0.0363
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 493
+    }
+   ]
+  },
+  {
+   "id": "dandelion",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 638,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Taraxacum sect. Taraxacum",
+       "genus": "Taraxacum",
+       "family": "Asteraceae",
+       "common_names": [
+        "Common dandelion",
+        "Dandelion"
+       ],
+       "confidence": 0.4292
+      },
+      {
+       "scientific_name": "Taraxacum mediterraneum",
+       "genus": "Taraxacum",
+       "family": "Asteraceae",
+       "common_names": [
+        "Mediterranean Dandelion"
+       ],
+       "confidence": 0.1086
+      },
+      {
+       "scientific_name": "Taraxacum campylodes",
+       "genus": "Taraxacum",
+       "family": "Asteraceae",
+       "common_names": [
+        "Dandelion",
+        "Garden Dandelion"
+       ],
+       "confidence": 0.0515
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 492
+    },
+    {
+     "organ": "flower",
+     "ok": true,
+     "elapsed_ms": 955,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Taraxacum sect. Taraxacum",
+       "genus": "Taraxacum",
+       "family": "Asteraceae",
+       "common_names": [
+        "Common dandelion",
+        "Dandelion"
+       ],
+       "confidence": 0.4292
+      },
+      {
+       "scientific_name": "Taraxacum mediterraneum",
+       "genus": "Taraxacum",
+       "family": "Asteraceae",
+       "common_names": [
+        "Mediterranean Dandelion"
+       ],
+       "confidence": 0.1086
+      },
+      {
+       "scientific_name": "Taraxacum campylodes",
+       "genus": "Taraxacum",
+       "family": "Asteraceae",
+       "common_names": [
+        "Dandelion",
+        "Garden Dandelion"
+       ],
+       "confidence": 0.0515
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 491
+    }
+   ]
+  },
+  {
+   "id": "rose-of-sharon",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 486,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Hibiscus syriacus",
+       "genus": "Hibiscus",
+       "family": "Malvaceae",
+       "common_names": [
+        "Rose Of Sharon",
+        "Shrub althaea"
+       ],
+       "confidence": 0.8014
+      },
+      {
+       "scientific_name": "Hibiscus mutabilis",
+       "genus": "Hibiscus",
+       "family": "Malvaceae",
+       "common_names": [
+        "Confederate rose",
+        "Dixie Rosemallow"
+       ],
+       "confidence": 0.0389
+      },
+      {
+       "scientific_name": "Hibiscus moscheutos",
+       "genus": "Hibiscus",
+       "family": "Malvaceae",
+       "common_names": [
+        "Crimsoneyed rosemallow",
+        "Swamp rose mallow"
+       ],
+       "confidence": 0.0113
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 490
+    },
+    {
+     "organ": "flower",
+     "ok": true,
+     "elapsed_ms": 495,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Hibiscus syriacus",
+       "genus": "Hibiscus",
+       "family": "Malvaceae",
+       "common_names": [
+        "Rose Of Sharon",
+        "Shrub althaea"
+       ],
+       "confidence": 0.8014
+      },
+      {
+       "scientific_name": "Hibiscus mutabilis",
+       "genus": "Hibiscus",
+       "family": "Malvaceae",
+       "common_names": [
+        "Confederate rose",
+        "Dixie Rosemallow"
+       ],
+       "confidence": 0.0389
+      },
+      {
+       "scientific_name": "Hibiscus moscheutos",
+       "genus": "Hibiscus",
+       "family": "Malvaceae",
+       "common_names": [
+        "Crimsoneyed rosemallow",
+        "Swamp rose mallow"
+       ],
+       "confidence": 0.0113
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 489
+    }
+   ]
+  },
+  {
+   "id": "korean-red-pine",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 647,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Pinus pinea",
+       "genus": "Pinus",
+       "family": "Pinaceae",
+       "common_names": [
+        "Italian stone pine",
+        "Stone pine"
+       ],
+       "confidence": 0.4869
+      },
+      {
+       "scientific_name": "Pinus sylvestris",
+       "genus": "Pinus",
+       "family": "Pinaceae",
+       "common_names": [
+        "Scots pine",
+        "Scotch pine"
+       ],
+       "confidence": 0.1082
+      },
+      {
+       "scientific_name": "Pinus densiflora",
+       "genus": "Pinus",
+       "family": "Pinaceae",
+       "common_names": [
+        "Japanese red pine",
+        "Japanese umbrella pine"
+       ],
+       "confidence": 0.0556
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 488
+    }
+   ]
+  },
+  {
+   "id": "japanese-maple",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 494,
+     "predicted_organ": "fruit",
+     "candidates": [
+      {
+       "scientific_name": "Acer palmatum",
+       "genus": "Acer",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Japanese maple",
+        "Smooth Japanese maple"
+       ],
+       "confidence": 0.8005
+      },
+      {
+       "scientific_name": "Acer japonicum",
+       "genus": "Acer",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Japanese maple",
+        "Downy Japanese maple"
+       ],
+       "confidence": 0.078
+      },
+      {
+       "scientific_name": "Acer shirasawanum",
+       "genus": "Acer",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Full moon maple",
+        "Shirasawa maple"
+       ],
+       "confidence": 0.0072
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 487
+    },
+    {
+     "organ": "leaf",
+     "ok": true,
+     "elapsed_ms": 1994,
+     "predicted_organ": "fruit",
+     "candidates": [
+      {
+       "scientific_name": "Acer palmatum",
+       "genus": "Acer",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Japanese maple",
+        "Smooth Japanese maple"
+       ],
+       "confidence": 0.8005
+      },
+      {
+       "scientific_name": "Acer japonicum",
+       "genus": "Acer",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Japanese maple",
+        "Downy Japanese maple"
+       ],
+       "confidence": 0.078
+      },
+      {
+       "scientific_name": "Acer shirasawanum",
+       "genus": "Acer",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Full moon maple",
+        "Shirasawa maple"
+       ],
+       "confidence": 0.0072
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 486
+    }
+   ]
+  },
+  {
+   "id": "sunflower",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 584,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Helianthus giganteus",
+       "genus": "Helianthus",
+       "family": "Asteraceae",
+       "common_names": [
+        "Giant sunflower",
+        "Tall sunflower"
+       ],
+       "confidence": 0.5875
+      },
+      {
+       "scientific_name": "Helianthus annuus",
+       "genus": "Helianthus",
+       "family": "Asteraceae",
+       "common_names": [
+        "Sunflower",
+        "Common Sunflower"
+       ],
+       "confidence": 0.3565
+      },
+      {
+       "scientific_name": "Helianthus petiolaris",
+       "genus": "Helianthus",
+       "family": "Asteraceae",
+       "common_names": [
+        "Prairie sunflower",
+        "Lesser sunflower"
+       ],
+       "confidence": 0.0068
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 485
+    },
+    {
+     "organ": "flower",
+     "ok": true,
+     "elapsed_ms": 505,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Helianthus giganteus",
+       "genus": "Helianthus",
+       "family": "Asteraceae",
+       "common_names": [
+        "Giant sunflower",
+        "Tall sunflower"
+       ],
+       "confidence": 0.5875
+      },
+      {
+       "scientific_name": "Helianthus annuus",
+       "genus": "Helianthus",
+       "family": "Asteraceae",
+       "common_names": [
+        "Sunflower",
+        "Common Sunflower"
+       ],
+       "confidence": 0.3565
+      },
+      {
+       "scientific_name": "Helianthus petiolaris",
+       "genus": "Helianthus",
+       "family": "Asteraceae",
+       "common_names": [
+        "Prairie sunflower",
+        "Lesser sunflower"
+       ],
+       "confidence": 0.0068
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 484
+    }
+   ]
+  },
+  {
+   "id": "cosmos",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 476,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Cosmos caudatus",
+       "genus": "Cosmos",
+       "family": "Asteraceae",
+       "common_names": [
+        "Wild cosmos",
+        "Cosmos"
+       ],
+       "confidence": 0.7143
+      },
+      {
+       "scientific_name": "Cosmos parviflorus",
+       "genus": "Cosmos",
+       "family": "Asteraceae",
+       "common_names": [
+        "Southwestern Cosmos"
+       ],
+       "confidence": 0.0479
+      },
+      {
+       "scientific_name": "Cosmos bipinnatus",
+       "genus": "Cosmos",
+       "family": "Asteraceae",
+       "common_names": [
+        "Cosmos",
+        "Garden cosmos"
+       ],
+       "confidence": 0.0379
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 483
+    },
+    {
+     "organ": "flower",
+     "ok": true,
+     "elapsed_ms": 477,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Cosmos caudatus",
+       "genus": "Cosmos",
+       "family": "Asteraceae",
+       "common_names": [
+        "Wild cosmos",
+        "Cosmos"
+       ],
+       "confidence": 0.7143
+      },
+      {
+       "scientific_name": "Cosmos parviflorus",
+       "genus": "Cosmos",
+       "family": "Asteraceae",
+       "common_names": [
+        "Southwestern Cosmos"
+       ],
+       "confidence": 0.0479
+      },
+      {
+       "scientific_name": "Cosmos bipinnatus",
+       "genus": "Cosmos",
+       "family": "Asteraceae",
+       "common_names": [
+        "Cosmos",
+        "Garden cosmos"
+       ],
+       "confidence": 0.0379
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 482
+    }
+   ]
+  },
+  {
+   "id": "kobus-magnolia",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 683,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Magnolia stellata",
+       "genus": "Magnolia",
+       "family": "Magnoliaceae",
+       "common_names": [
+        "Star magnolia",
+        "Japanese Star Magnolia"
+       ],
+       "confidence": 0.2912
+      },
+      {
+       "scientific_name": "Magnolia kobus",
+       "genus": "Magnolia",
+       "family": "Magnoliaceae",
+       "common_names": [
+        "Kobus magnolia",
+        "Northern Japanese Magnolia"
+       ],
+       "confidence": 0.1256
+      },
+      {
+       "scientific_name": "Prunus × yedoensis",
+       "genus": "Prunus",
+       "family": "Rosaceae",
+       "common_names": [
+        "Yoshino cherry",
+        "Hybrid cherry"
+       ],
+       "confidence": 0.0635
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 481
+    }
+   ]
+  },
+  {
+   "id": "white-clover",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 578,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Trifolium repens",
+       "genus": "Trifolium",
+       "family": "Fabaceae",
+       "common_names": [
+        "White clover",
+        "Dutch clover"
+       ],
+       "confidence": 0.7282
+      },
+      {
+       "scientific_name": "Trifolium nigrescens",
+       "genus": "Trifolium",
+       "family": "Fabaceae",
+       "common_names": [
+        "Small white clover",
+        "Ball clover"
+       ],
+       "confidence": 0.1804
+      },
+      {
+       "scientific_name": "Trifolium stoloniferum",
+       "genus": "Trifolium",
+       "family": "Fabaceae",
+       "common_names": [
+        "Running buffalo clover"
+       ],
+       "confidence": 0.0194
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 480
+    },
+    {
+     "organ": "leaf",
+     "ok": true,
+     "elapsed_ms": 535,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Trifolium repens",
+       "genus": "Trifolium",
+       "family": "Fabaceae",
+       "common_names": [
+        "White clover",
+        "Dutch clover"
+       ],
+       "confidence": 0.7282
+      },
+      {
+       "scientific_name": "Trifolium nigrescens",
+       "genus": "Trifolium",
+       "family": "Fabaceae",
+       "common_names": [
+        "Small white clover",
+        "Ball clover"
+       ],
+       "confidence": 0.1804
+      },
+      {
+       "scientific_name": "Trifolium stoloniferum",
+       "genus": "Trifolium",
+       "family": "Fabaceae",
+       "common_names": [
+        "Running buffalo clover"
+       ],
+       "confidence": 0.0194
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 479
+    }
+   ]
+  },
+  {
+   "id": "green-foxtail",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 498,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Setaria viridis",
+       "genus": "Setaria",
+       "family": "Poaceae",
+       "common_names": [
+        "Green foxtail",
+        "Green Bristle Grass"
+       ],
+       "confidence": 0.4294
+      },
+      {
+       "scientific_name": "Setaria italica",
+       "genus": "Setaria",
+       "family": "Poaceae",
+       "common_names": [
+        "Foxtail Millet",
+        "Foxtail Bristle Grass"
+       ],
+       "confidence": 0.3125
+      },
+      {
+       "scientific_name": "Setaria verticillata",
+       "genus": "Setaria",
+       "family": "Poaceae",
+       "common_names": [
+        "Rough Bristle Grass",
+        "Bristly foxtail"
+       ],
+       "confidence": 0.0795
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 478
+    },
+    {
+     "organ": "flower",
+     "ok": true,
+     "elapsed_ms": 540,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Setaria viridis",
+       "genus": "Setaria",
+       "family": "Poaceae",
+       "common_names": [
+        "Green foxtail",
+        "Green Bristle Grass"
+       ],
+       "confidence": 0.4294
+      },
+      {
+       "scientific_name": "Setaria italica",
+       "genus": "Setaria",
+       "family": "Poaceae",
+       "common_names": [
+        "Foxtail Millet",
+        "Foxtail Bristle Grass"
+       ],
+       "confidence": 0.3125
+      },
+      {
+       "scientific_name": "Setaria verticillata",
+       "genus": "Setaria",
+       "family": "Poaceae",
+       "common_names": [
+        "Rough Bristle Grass",
+        "Bristly foxtail"
+       ],
+       "confidence": 0.0795
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 477
+    }
+   ]
+  },
+  {
+   "id": "sycamore",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 562,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Platanus occidentalis",
+       "genus": "Platanus",
+       "family": "Platanaceae",
+       "common_names": [
+        "American sycamore",
+        "Sycamore"
+       ],
+       "confidence": 0.4248
+      },
+      {
+       "scientific_name": "Platanus × hispanica",
+       "genus": "Platanus",
+       "family": "Platanaceae",
+       "common_names": [
+        "London planetree",
+        "London Plane"
+       ],
+       "confidence": 0.3021
+      },
+      {
+       "scientific_name": "Platanus orientalis",
+       "genus": "Platanus",
+       "family": "Platanaceae",
+       "common_names": [
+        "Oriental plane",
+        "Oriental planetree"
+       ],
+       "confidence": 0.1694
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 476
+    }
+   ]
+  },
+  {
+   "id": "zelkova",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 504,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Ceiba pentandra",
+       "genus": "Ceiba",
+       "family": "Malvaceae",
+       "common_names": [
+        "White silk cotton tree",
+        "Silk Cotton Tree"
+       ],
+       "confidence": 0.2178
+      },
+      {
+       "scientific_name": "Samanea saman",
+       "genus": "Samanea",
+       "family": "Fabaceae",
+       "common_names": [
+        "Raintree",
+        "Monkey pod"
+       ],
+       "confidence": 0.0872
+      },
+      {
+       "scientific_name": "Adansonia digitata",
+       "genus": "Adansonia",
+       "family": "Malvaceae",
+       "common_names": [
+        "Baobab",
+        "African Baobab"
+       ],
+       "confidence": 0.0481
+      }
+     ],
+     "species_top1": false,
+     "species_top3": false,
+     "genus_top1": false,
+     "family_top1": false,
+     "remaining": 475
+    }
+   ]
+  },
+  {
+   "id": "monstera",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 543,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Monstera deliciosa",
+       "genus": "Monstera",
+       "family": "Araceae",
+       "common_names": [
+        "Monstera",
+        "Tarovine"
+       ],
+       "confidence": 0.8003
+      },
+      {
+       "scientific_name": "Monstera adansonii",
+       "genus": "Monstera",
+       "family": "Araceae",
+       "common_names": [
+        "Swiss cheese-plant",
+        "Adanson's monstera"
+       ],
+       "confidence": 0.035
+      },
+      {
+       "scientific_name": "Monstera dubia",
+       "genus": "Monstera",
+       "family": "Araceae",
+       "common_names": [
+        "Shingles plant",
+        "Wall painting creeper"
+       ],
+       "confidence": 0.023
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 474
+    },
+    {
+     "organ": "leaf",
+     "ok": true,
+     "elapsed_ms": 606,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Monstera deliciosa",
+       "genus": "Monstera",
+       "family": "Araceae",
+       "common_names": [
+        "Monstera",
+        "Tarovine"
+       ],
+       "confidence": 0.8003
+      },
+      {
+       "scientific_name": "Monstera adansonii",
+       "genus": "Monstera",
+       "family": "Araceae",
+       "common_names": [
+        "Swiss cheese-plant",
+        "Adanson's monstera"
+       ],
+       "confidence": 0.035
+      },
+      {
+       "scientific_name": "Monstera dubia",
+       "genus": "Monstera",
+       "family": "Araceae",
+       "common_names": [
+        "Shingles plant",
+        "Wall painting creeper"
+       ],
+       "confidence": 0.023
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 473
+    }
+   ]
+  },
+  {
+   "id": "pothos",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 545,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Epipremnum pinnatum",
+       "genus": "Epipremnum",
+       "family": "Araceae",
+       "common_names": [
+        "Pothos",
+        "Centipede tongavine"
+       ],
+       "confidence": 0.8085
+      },
+      {
+       "scientific_name": "Epipremnum aureum",
+       "genus": "Epipremnum",
+       "family": "Araceae",
+       "common_names": [
+        "Golden pothos",
+        "Money Plant"
+       ],
+       "confidence": 0.1606
+      },
+      {
+       "scientific_name": "Philodendron giganteum",
+       "genus": "Philodendron",
+       "family": "Araceae",
+       "common_names": [
+        "Giant philodendron",
+        "Chinabush"
+       ],
+       "confidence": 0.0019
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 472
+    },
+    {
+     "organ": "leaf",
+     "ok": true,
+     "elapsed_ms": 552,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Epipremnum pinnatum",
+       "genus": "Epipremnum",
+       "family": "Araceae",
+       "common_names": [
+        "Pothos",
+        "Centipede tongavine"
+       ],
+       "confidence": 0.8085
+      },
+      {
+       "scientific_name": "Epipremnum aureum",
+       "genus": "Epipremnum",
+       "family": "Araceae",
+       "common_names": [
+        "Golden pothos",
+        "Money Plant"
+       ],
+       "confidence": 0.1607
+      },
+      {
+       "scientific_name": "Philodendron giganteum",
+       "genus": "Philodendron",
+       "family": "Araceae",
+       "common_names": [
+        "Giant philodendron",
+        "Chinabush"
+       ],
+       "confidence": 0.0019
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 471
+    }
+   ]
+  },
+  {
+   "id": "rubber-plant",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 501,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Ficus elastica",
+       "genus": "Ficus",
+       "family": "Moraceae",
+       "common_names": [
+        "Rubberplant",
+        "Indian rubberplant"
+       ],
+       "confidence": 0.8629
+      },
+      {
+       "scientific_name": "Ficus robusta",
+       "genus": "Ficus",
+       "family": "Moraceae",
+       "common_names": [
+        "Rubber Plant",
+        "Fine rubber"
+       ],
+       "confidence": 0.0084
+      },
+      {
+       "scientific_name": "Ficus rubiginosa",
+       "genus": "Ficus",
+       "family": "Moraceae",
+       "common_names": [
+        "Port Jackson fig",
+        "Rusty fig"
+       ],
+       "confidence": 0.0031
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 470
+    },
+    {
+     "organ": "leaf",
+     "ok": true,
+     "elapsed_ms": 501,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Ficus elastica",
+       "genus": "Ficus",
+       "family": "Moraceae",
+       "common_names": [
+        "Rubberplant",
+        "Indian rubberplant"
+       ],
+       "confidence": 0.8629
+      },
+      {
+       "scientific_name": "Ficus robusta",
+       "genus": "Ficus",
+       "family": "Moraceae",
+       "common_names": [
+        "Rubber Plant",
+        "Fine rubber"
+       ],
+       "confidence": 0.0084
+      },
+      {
+       "scientific_name": "Ficus rubiginosa",
+       "genus": "Ficus",
+       "family": "Moraceae",
+       "common_names": [
+        "Port Jackson fig",
+        "Rusty fig"
+       ],
+       "confidence": 0.0031
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 469
+    }
+   ]
+  },
+  {
+   "id": "snake-plant",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 513,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Dracaena trifasciata",
+       "genus": "Dracaena",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Snake plant",
+        "Mother in laws tongue"
+       ],
+       "confidence": 0.5374
+      },
+      {
+       "scientific_name": "Dracaena zeylanica",
+       "genus": "Dracaena",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Snake plant"
+       ],
+       "confidence": 0.0194
+      },
+      {
+       "scientific_name": "Dracaena zebra",
+       "genus": "Dracaena",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Snake plant",
+        "Mother in-law's tongue"
+       ],
+       "confidence": 0.0132
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 468
+    },
+    {
+     "organ": "leaf",
+     "ok": true,
+     "elapsed_ms": 495,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Dracaena trifasciata",
+       "genus": "Dracaena",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Snake plant",
+        "Mother in laws tongue"
+       ],
+       "confidence": 0.5374
+      },
+      {
+       "scientific_name": "Dracaena zeylanica",
+       "genus": "Dracaena",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Snake plant"
+       ],
+       "confidence": 0.0194
+      },
+      {
+       "scientific_name": "Dracaena zebra",
+       "genus": "Dracaena",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Snake plant",
+        "Mother in-law's tongue"
+       ],
+       "confidence": 0.0132
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 467
+    }
+   ]
+  },
+  {
+   "id": "zz-plant",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 553,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Zamioculcas zamiifolia",
+       "genus": "Zamioculcas",
+       "family": "Araceae",
+       "common_names": [
+        "ZZ Plant",
+        "Zanzibar gem"
+       ],
+       "confidence": 0.5748
+      },
+      {
+       "scientific_name": "Zamia furfuracea",
+       "genus": "Zamia",
+       "family": "Zamiaceae",
+       "common_names": [
+        "Cardboard cycad",
+        "Cardboard Palm"
+       ],
+       "confidence": 0.0029
+      },
+      {
+       "scientific_name": "Dictamnus albus",
+       "genus": "Dictamnus",
+       "family": "Rutaceae",
+       "common_names": [
+        "Gasplant",
+        "Burning Bush"
+       ],
+       "confidence": 0.0022
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 466
+    },
+    {
+     "organ": "leaf",
+     "ok": true,
+     "elapsed_ms": 561,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Zamioculcas zamiifolia",
+       "genus": "Zamioculcas",
+       "family": "Araceae",
+       "common_names": [
+        "ZZ Plant",
+        "Zanzibar gem"
+       ],
+       "confidence": 0.5748
+      },
+      {
+       "scientific_name": "Zamia furfuracea",
+       "genus": "Zamia",
+       "family": "Zamiaceae",
+       "common_names": [
+        "Cardboard cycad",
+        "Cardboard Palm"
+       ],
+       "confidence": 0.0029
+      },
+      {
+       "scientific_name": "Dictamnus albus",
+       "genus": "Dictamnus",
+       "family": "Rutaceae",
+       "common_names": [
+        "Gasplant",
+        "Burning Bush"
+       ],
+       "confidence": 0.0022
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 465
+    }
+   ]
+  },
+  {
+   "id": "spider-plant",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 546,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Chlorophytum comosum",
+       "genus": "Chlorophytum",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Spider Plant",
+        "Spider ivy"
+       ],
+       "confidence": 0.7545
+      },
+      {
+       "scientific_name": "Chlorophytum capense",
+       "genus": "Chlorophytum",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Spider plant",
+        "Bracketplant"
+       ],
+       "confidence": 0.2165
+      },
+      {
+       "scientific_name": "Rohdea nepalensis",
+       "genus": "Rohdea",
+       "family": "Asparagaceae",
+       "common_names": [],
+       "confidence": 0.0013
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 464
+    },
+    {
+     "organ": "leaf",
+     "ok": true,
+     "elapsed_ms": 509,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Chlorophytum comosum",
+       "genus": "Chlorophytum",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Spider Plant",
+        "Spider ivy"
+       ],
+       "confidence": 0.7545
+      },
+      {
+       "scientific_name": "Chlorophytum capense",
+       "genus": "Chlorophytum",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Spider plant",
+        "Bracketplant"
+       ],
+       "confidence": 0.2165
+      },
+      {
+       "scientific_name": "Rohdea nepalensis",
+       "genus": "Rohdea",
+       "family": "Asparagaceae",
+       "common_names": [],
+       "confidence": 0.0013
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 463
+    }
+   ]
+  }
+ ]
+}

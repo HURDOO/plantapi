@@ -1,0 +1,333 @@
+[
+ {
+  "id": "inat-409376495",
+  "file": "inat-409376495.jpg",
+  "korean_name": "은행나무",
+  "scientific_name": "Ginkgo biloba",
+  "synonyms": [],
+  "genus": "Ginkgo",
+  "family": "Ginkgoaceae",
+  "credit": {
+   "artist": "Meng-Chi Hung",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/409376495",
+   "photo": "https://www.inaturalist.org/photos/752697627"
+  }
+ },
+ {
+  "id": "inat-414695708",
+  "file": "inat-414695708.jpg",
+  "korean_name": "미국자리공",
+  "scientific_name": "Phytolacca americana",
+  "synonyms": [],
+  "genus": "Phytolacca",
+  "family": "Phytolaccaceae",
+  "credit": {
+   "artist": "Jamie Griffiths",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/414695708",
+   "photo": "https://www.inaturalist.org/photos/763462800"
+  }
+ },
+ {
+  "id": "inat-404436364",
+  "file": "inat-404436364.jpg",
+  "korean_name": "닭의장풀",
+  "scientific_name": "Commelina communis",
+  "synonyms": [],
+  "genus": "Commelina",
+  "family": "Commelinaceae",
+  "credit": {
+   "artist": "Hilda Chan",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/404436364",
+   "photo": "https://www.inaturalist.org/photos/742719047"
+  }
+ },
+ {
+  "id": "inat-389626151",
+  "file": "inat-389626151.jpg",
+  "korean_name": "배롱나무",
+  "scientific_name": "Lagerstroemia indica",
+  "synonyms": [],
+  "genus": "Lagerstroemia",
+  "family": "Lythraceae",
+  "credit": {
+   "artist": "Martin Kalfatovic",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/389626151",
+   "photo": "https://www.inaturalist.org/photos/713710583"
+  }
+ },
+ {
+  "id": "inat-412279180",
+  "file": "inat-412279180.jpg",
+  "korean_name": "콩짜개덩굴",
+  "scientific_name": "Lemmaphyllum microphyllum",
+  "synonyms": [],
+  "genus": "Lemmaphyllum",
+  "family": "Polypodiaceae",
+  "credit": {
+   "artist": "Thompson Hyggen",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://www.inaturalist.org/observations/412279180",
+   "photo": "https://www.inaturalist.org/photos/758583467"
+  }
+ },
+ {
+  "id": "inat-412282315",
+  "file": "inat-412282315.jpg",
+  "korean_name": "붉은토끼풀",
+  "scientific_name": "Trifolium pratense",
+  "synonyms": [],
+  "genus": "Trifolium",
+  "family": "Fabaceae",
+  "credit": {
+   "artist": "岸本年郎",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/412282315",
+   "photo": "https://www.inaturalist.org/photos/758589998"
+  }
+ },
+ {
+  "id": "inat-389961859",
+  "file": "inat-389961859.jpg",
+  "korean_name": "밤나무",
+  "scientific_name": "Castanea crenata",
+  "synonyms": [],
+  "genus": "Castanea",
+  "family": "Fagaceae",
+  "credit": {
+   "artist": "Martin Kalfatovic",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/389961859",
+   "photo": "https://www.inaturalist.org/photos/714370526"
+  }
+ },
+ {
+  "id": "inat-406707126",
+  "file": "inat-406707126.jpg",
+  "korean_name": "담쟁이덩굴",
+  "scientific_name": "Parthenocissus tricuspidata",
+  "synonyms": [],
+  "genus": "Parthenocissus",
+  "family": "Vitaceae",
+  "credit": {
+   "artist": "Étienne Lacroix-Carignan",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://www.inaturalist.org/observations/406707126",
+   "photo": "https://www.inaturalist.org/photos/747265608"
+  }
+ },
+ {
+  "id": "inat-388880787",
+  "file": "inat-388880787.jpg",
+  "korean_name": "일일초",
+  "scientific_name": "Catharanthus roseus",
+  "synonyms": [
+   "Vinca rosea"
+  ],
+  "genus": "Catharanthus",
+  "family": "Apocynaceae",
+  "credit": {
+   "artist": "들꽃ㅅr랑",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://www.inaturalist.org/observations/388880787",
+   "photo": "https://www.inaturalist.org/photos/712283732"
+  }
+ },
+ {
+  "id": "inat-412552015",
+  "file": "inat-412552015.jpg",
+  "korean_name": "단풍잎돼지풀",
+  "scientific_name": "Ambrosia trifida",
+  "synonyms": [],
+  "genus": "Ambrosia",
+  "family": "Asteraceae",
+  "credit": {
+   "artist": "岸本年郎",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/412552015",
+   "photo": "https://www.inaturalist.org/photos/759142112"
+  }
+ },
+ {
+  "id": "inat-406961612",
+  "file": "inat-406961612.jpg",
+  "korean_name": "모과나무",
+  "scientific_name": "Pseudocydonia sinensis",
+  "synonyms": [
+   "Chaenomeles sinensis",
+   "Cydonia sinensis"
+  ],
+  "genus": "Pseudocydonia",
+  "family": "Rosaceae",
+  "credit": {
+   "artist": "Иван Ковтун Ivan Kovtun",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/406961612",
+   "photo": "https://www.inaturalist.org/photos/747783018"
+  }
+ },
+ {
+  "id": "inat-409379832",
+  "file": "inat-409379832.jpg",
+  "korean_name": "벼",
+  "scientific_name": "Oryza sativa",
+  "synonyms": [],
+  "genus": "Oryza",
+  "family": "Poaceae",
+  "credit": {
+   "artist": "Meng-Chi Hung",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/409379832",
+   "photo": "https://www.inaturalist.org/photos/752704310"
+  }
+ },
+ {
+  "id": "inat-401745648",
+  "file": "inat-401745648.jpg",
+  "korean_name": "돌나물",
+  "scientific_name": "Sedum sarmentosum",
+  "synonyms": [],
+  "genus": "Sedum",
+  "family": "Crassulaceae",
+  "credit": {
+   "artist": "Hilda Chan",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/401745648",
+   "photo": "https://www.inaturalist.org/photos/737410552"
+  }
+ },
+ {
+  "id": "inat-412738823",
+  "file": "inat-412738823.jpg",
+  "korean_name": "주목",
+  "scientific_name": "Taxus cuspidata",
+  "synonyms": [],
+  "genus": "Taxus",
+  "family": "Taxaceae",
+  "credit": {
+   "artist": "Yinling Chen",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/412738823",
+   "photo": "https://www.inaturalist.org/photos/759523397"
+  }
+ },
+ {
+  "id": "inat-388357006",
+  "file": "inat-388357006.jpg",
+  "korean_name": "유홍초",
+  "scientific_name": "Ipomoea quamoclit",
+  "synonyms": [
+   "Quamoclit pennata"
+  ],
+  "genus": "Ipomoea",
+  "family": "Convolvulaceae",
+  "credit": {
+   "artist": "anbalemans",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://www.inaturalist.org/observations/388357006",
+   "photo": "https://www.inaturalist.org/photos/711260370"
+  }
+ },
+ {
+  "id": "inat-406707207",
+  "file": "inat-406707207.jpg",
+  "korean_name": "제비꽃",
+  "scientific_name": "Viola mandshurica",
+  "synonyms": [],
+  "genus": "Viola",
+  "family": "Violaceae",
+  "credit": {
+   "artist": "Étienne Lacroix-Carignan",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://www.inaturalist.org/observations/406707207",
+   "photo": "https://www.inaturalist.org/photos/747266131"
+  }
+ },
+ {
+  "id": "inat-407497162",
+  "file": "inat-407497162.jpg",
+  "korean_name": "미국쑥부쟁이",
+  "scientific_name": "Symphyotrichum pilosum",
+  "synonyms": [
+   "Aster pilosus"
+  ],
+  "genus": "Symphyotrichum",
+  "family": "Asteraceae",
+  "credit": {
+   "artist": "enaganoyukue",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/407497162",
+   "photo": "https://www.inaturalist.org/photos/748861501"
+  }
+ },
+ {
+  "id": "inat-412098591",
+  "file": "inat-412098591.jpg",
+  "korean_name": "계요등",
+  "scientific_name": "Paederia foetida",
+  "synonyms": [],
+  "genus": "Paederia",
+  "family": "Rubiaceae",
+  "credit": {
+   "artist": "Ken Puliafico",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/412098591",
+   "photo": "https://www.inaturalist.org/photos/758217331"
+  }
+ },
+ {
+  "id": "inat-385064570",
+  "file": "inat-385064570.jpg",
+  "korean_name": "참나리",
+  "scientific_name": "Lilium lancifolium",
+  "synonyms": [
+   "Lilium tigrinum"
+  ],
+  "genus": "Lilium",
+  "family": "Liliaceae",
+  "credit": {
+   "artist": "Andra Waagmeester",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://www.inaturalist.org/observations/385064570",
+   "photo": "https://www.inaturalist.org/photos/704927765"
+  }
+ },
+ {
+  "id": "inat-393381509",
+  "file": "inat-393381509.jpg",
+  "korean_name": "실고사리",
+  "scientific_name": "Lygodium japonicum",
+  "synonyms": [],
+  "genus": "Lygodium",
+  "family": "Lygodiaceae",
+  "credit": {
+   "artist": "Young Jun Lee",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/observations/393381509",
+   "photo": "https://www.inaturalist.org/photos/721039718"
+  }
+ }
+]

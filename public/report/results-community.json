@@ -1,0 +1,865 @@
+{
+ "tested_at": "2026-11-24T10:19:44.077Z",
+ "plantnet_remaining_after": 428,
+ "results": [
+  {
+   "id": "inat-409376495",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 2714,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Ginkgo biloba",
+       "genus": "Ginkgo",
+       "family": "Ginkgoaceae",
+       "common_names": [
+        "Ginkgo",
+        "Maidenhair tree"
+       ],
+       "confidence": 0.9428
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 447
+    }
+   ]
+  },
+  {
+   "id": "inat-414695708",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 951,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Phytolacca americana",
+       "genus": "Phytolacca",
+       "family": "Phytolaccaceae",
+       "common_names": [
+        "American Pokeweed",
+        "Pokeweed"
+       ],
+       "confidence": 0.8412
+      },
+      {
+       "scientific_name": "Phytolacca rivinoides",
+       "genus": "Phytolacca",
+       "family": "Phytolaccaceae",
+       "common_names": [
+        "Venezuelan Pokeweed",
+        "Purple Heart"
+       ],
+       "confidence": 0.0401
+      },
+      {
+       "scientific_name": "Phytolacca bogotensis",
+       "genus": "Phytolacca",
+       "family": "Phytolaccaceae",
+       "common_names": [
+        "Southern pokeweed",
+        "Andean Pokeweed"
+       ],
+       "confidence": 0.0243
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 446
+    }
+   ]
+  },
+  {
+   "id": "inat-404436364",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 965,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Commelina communis",
+       "genus": "Commelina",
+       "family": "Commelinaceae",
+       "common_names": [
+        "Dayflower",
+        "Asiatic dayflower"
+       ],
+       "confidence": 0.7847
+      },
+      {
+       "scientific_name": "Commelina cyanea",
+       "genus": "Commelina",
+       "family": "Commelinaceae",
+       "common_names": [
+        "Scurvy weed",
+        "Creeping Christian"
+       ],
+       "confidence": 0.0493
+      },
+      {
+       "scientific_name": "Commelina tuberosa",
+       "genus": "Commelina",
+       "family": "Commelinaceae",
+       "common_names": [
+        "Blue Spiderwort",
+        "Commelina"
+       ],
+       "confidence": 0.0398
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 445
+    }
+   ]
+  },
+  {
+   "id": "inat-389626151",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 539,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Lagerstroemia speciosa",
+       "genus": "Lagerstroemia",
+       "family": "Lythraceae",
+       "common_names": [
+        "Queen's crape myrtle",
+        "Pride of India"
+       ],
+       "confidence": 0.8136
+      },
+      {
+       "scientific_name": "Lagerstroemia indica",
+       "genus": "Lagerstroemia",
+       "family": "Lythraceae",
+       "common_names": [
+        "Crapemyrtle",
+        "Crape myrtle"
+       ],
+       "confidence": 0.1675
+      },
+      {
+       "scientific_name": "Lagerstroemia subcostata",
+       "genus": "Lagerstroemia",
+       "family": "Lythraceae",
+       "common_names": [
+        "Hasayux",
+        "Subcostate Crape Myrtle"
+       ],
+       "confidence": 0.0038
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 444
+    }
+   ]
+  },
+  {
+   "id": "inat-412279180",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 612,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Pyrrosia piloselloides",
+       "genus": "Pyrrosia",
+       "family": "Polypodiaceae",
+       "common_names": [
+        "Dragon Scale fern",
+        "Dragon's scale fern"
+       ],
+       "confidence": 0.4928
+      },
+      {
+       "scientific_name": "Pyrrosia nummulariifolia",
+       "genus": "Pyrrosia",
+       "family": "Polypodiaceae",
+       "common_names": [
+        "Creeping Button Fern"
+       ],
+       "confidence": 0.0869
+      },
+      {
+       "scientific_name": "Pyrrosia eleagnifolia",
+       "genus": "Pyrrosia",
+       "family": "Polypodiaceae",
+       "common_names": [
+        "Leather leaf fern"
+       ],
+       "confidence": 0.0188
+      }
+     ],
+     "species_top1": false,
+     "species_top3": false,
+     "genus_top1": false,
+     "family_top1": true,
+     "remaining": 443
+    }
+   ]
+  },
+  {
+   "id": "inat-412282315",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 585,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Trifolium alpestre",
+       "genus": "Trifolium",
+       "family": "Fabaceae",
+       "common_names": [
+        "Purple globe clover",
+        "Owl head clover"
+       ],
+       "confidence": 0.53
+      },
+      {
+       "scientific_name": "Trifolium pratense",
+       "genus": "Trifolium",
+       "family": "Fabaceae",
+       "common_names": [
+        "Red clover",
+        "Meadow Honeysuckle"
+       ],
+       "confidence": 0.2927
+      },
+      {
+       "scientific_name": "Trifolium medium",
+       "genus": "Trifolium",
+       "family": "Fabaceae",
+       "common_names": [
+        "Zigzag clover",
+        "Mammoth clover"
+       ],
+       "confidence": 0.0609
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 442
+    }
+   ]
+  },
+  {
+   "id": "inat-389961859",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 526,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Castanea sativa",
+       "genus": "Castanea",
+       "family": "Fagaceae",
+       "common_names": [
+        "Sweet chestnut",
+        "Spanish chestnut"
+       ],
+       "confidence": 0.6264
+      },
+      {
+       "scientific_name": "Castanea dentata",
+       "genus": "Castanea",
+       "family": "Fagaceae",
+       "common_names": [
+        "American chestnut",
+        "Toothed chestnut"
+       ],
+       "confidence": 0.2604
+      },
+      {
+       "scientific_name": "Castanea crenata",
+       "genus": "Castanea",
+       "family": "Fagaceae",
+       "common_names": [
+        "Japanese chestnut",
+        "Japanese Chestnuts"
+       ],
+       "confidence": 0.065
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 441
+    }
+   ]
+  },
+  {
+   "id": "inat-406707126",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 828,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Parthenocissus tricuspidata",
+       "genus": "Parthenocissus",
+       "family": "Vitaceae",
+       "common_names": [
+        "Boston ivy",
+        "Japanese creeper"
+       ],
+       "confidence": 0.8668
+      },
+      {
+       "scientific_name": "Parthenocissus dalzielii",
+       "genus": "Parthenocissus",
+       "family": "Vitaceae",
+       "common_names": [
+        "Diverse leaved Creeper"
+       ],
+       "confidence": 0.0424
+      },
+      {
+       "scientific_name": "Vitis davidii",
+       "genus": "Vitis",
+       "family": "Vitaceae",
+       "common_names": [],
+       "confidence": 0.0113
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 440
+    }
+   ]
+  },
+  {
+   "id": "inat-388880787",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 3038,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Catharanthus roseus",
+       "genus": "Catharanthus",
+       "family": "Apocynaceae",
+       "common_names": [
+        "Periwinkle",
+        "Vinca"
+       ],
+       "confidence": 0.5421
+      },
+      {
+       "scientific_name": "Catharanthus coriaceus",
+       "genus": "Catharanthus",
+       "family": "Apocynaceae",
+       "common_names": [
+        "Periwinkles"
+       ],
+       "confidence": 0.0242
+      },
+      {
+       "scientific_name": "Vinca erecta",
+       "genus": "Vinca",
+       "family": "Apocynaceae",
+       "common_names": [
+        "Sadabahar"
+       ],
+       "confidence": 0.0174
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 439
+    }
+   ]
+  },
+  {
+   "id": "inat-412552015",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 868,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Ambrosia trifida",
+       "genus": "Ambrosia",
+       "family": "Asteraceae",
+       "common_names": [
+        "Giant ragweed",
+        "Great Ragweed"
+       ],
+       "confidence": 0.9935
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 438
+    }
+   ]
+  },
+  {
+   "id": "inat-406961612",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 651,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Pseudocydonia sinensis",
+       "genus": "Pseudocydonia",
+       "family": "Rosaceae",
+       "common_names": [
+        "Chinese Quince"
+       ],
+       "confidence": 0.9988
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 437
+    }
+   ]
+  },
+  {
+   "id": "inat-409379832",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 622,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Oryza sativa",
+       "genus": "Oryza",
+       "family": "Poaceae",
+       "common_names": [
+        "Rice",
+        "Asian rice"
+       ],
+       "confidence": 0.7517
+      },
+      {
+       "scientific_name": "Glyceria canadensis",
+       "genus": "Glyceria",
+       "family": "Poaceae",
+       "common_names": [
+        "Rattlesnake grass",
+        "Rattlesnake Mannagrass"
+       ],
+       "confidence": 0.0968
+      },
+      {
+       "scientific_name": "Leersia oryzoides",
+       "genus": "Leersia",
+       "family": "Poaceae",
+       "common_names": [
+        "Cut grass",
+        "Rice cutgrass"
+       ],
+       "confidence": 0.0302
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 436
+    }
+   ]
+  },
+  {
+   "id": "inat-401745648",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 562,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Sedum sarmentosum",
+       "genus": "Sedum",
+       "family": "Crassulaceae",
+       "common_names": [
+        "Stringy stonecrop",
+        "Graveyard Moss"
+       ],
+       "confidence": 0.9857
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 435
+    }
+   ]
+  },
+  {
+   "id": "inat-412738823",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 522,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Taxus canadensis",
+       "genus": "Taxus",
+       "family": "Taxaceae",
+       "common_names": [
+        "Canadian Yew",
+        "Canada yew"
+       ],
+       "confidence": 0.3347
+      },
+      {
+       "scientific_name": "Tsuga canadensis",
+       "genus": "Tsuga",
+       "family": "Pinaceae",
+       "common_names": [
+        "Eastern hemlock",
+        "Canadian hemlock"
+       ],
+       "confidence": 0.2683
+      },
+      {
+       "scientific_name": "Tsuga heterophylla",
+       "genus": "Tsuga",
+       "family": "Pinaceae",
+       "common_names": [
+        "Western hemlock",
+        "Western hemlock spruce"
+       ],
+       "confidence": 0.0696
+      }
+     ],
+     "species_top1": false,
+     "species_top3": false,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 434
+    }
+   ]
+  },
+  {
+   "id": "inat-388357006",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 638,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Ipomoea quamoclit",
+       "genus": "Ipomoea",
+       "family": "Convolvulaceae",
+       "common_names": [
+        "Cypressvine",
+        "Hummingbird vine"
+       ],
+       "confidence": 0.843
+      },
+      {
+       "scientific_name": "Ipomoea coccinea",
+       "genus": "Ipomoea",
+       "family": "Convolvulaceae",
+       "common_names": [
+        "Red morning glory",
+        "Redstar"
+       ],
+       "confidence": 0.1311
+      },
+      {
+       "scientific_name": "Ipomoea × multifida",
+       "genus": "Ipomoea",
+       "family": "Convolvulaceae",
+       "common_names": [
+        "Cardinal climber",
+        "Morningglory"
+       ],
+       "confidence": 0.0024
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 433
+    }
+   ]
+  },
+  {
+   "id": "inat-406707207",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 579,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Viola mandshurica",
+       "genus": "Viola",
+       "family": "Violaceae",
+       "common_names": [
+        "Manchurian violet",
+        "Manchuria violet"
+       ],
+       "confidence": 0.4134
+      },
+      {
+       "scientific_name": "Viola patrinii",
+       "genus": "Viola",
+       "family": "Violaceae",
+       "common_names": [
+        "China violet",
+        "White flower violet"
+       ],
+       "confidence": 0.1182
+      },
+      {
+       "scientific_name": "Viola sagittata",
+       "genus": "Viola",
+       "family": "Violaceae",
+       "common_names": [
+        "Arrowleaf violet",
+        "Fringed violet"
+       ],
+       "confidence": 0.0963
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 432
+    }
+   ]
+  },
+  {
+   "id": "inat-407497162",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 523,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Symphyotrichum ericoides",
+       "genus": "Symphyotrichum",
+       "family": "Asteraceae",
+       "common_names": [
+        "Heath Aster",
+        "White Heath Aster"
+       ],
+       "confidence": 0.3659
+      },
+      {
+       "scientific_name": "Symphyotrichum pilosum",
+       "genus": "Symphyotrichum",
+       "family": "Asteraceae",
+       "common_names": [
+        "Frost Aster",
+        "White Heath Aster"
+       ],
+       "confidence": 0.2528
+      },
+      {
+       "scientific_name": "Symphyotrichum lanceolatum",
+       "genus": "Symphyotrichum",
+       "family": "Asteraceae",
+       "common_names": [
+        "White Panicle Aster",
+        "Narrow leaved Michaelmas-daisy"
+       ],
+       "confidence": 0.1486
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 431
+    }
+   ]
+  },
+  {
+   "id": "inat-412098591",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 1451,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Paederia foetida",
+       "genus": "Paederia",
+       "family": "Rubiaceae",
+       "common_names": [
+        "Stinkvine",
+        "Skunkvine"
+       ],
+       "confidence": 0.9835
+      },
+      {
+       "scientific_name": "Pandorea pandorana",
+       "genus": "Pandorea",
+       "family": "Bignoniaceae",
+       "common_names": [
+        "Wonga wonga vine",
+        "Wonga wonga-vine"
+       ],
+       "confidence": 0.0011
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 430
+    }
+   ]
+  },
+  {
+   "id": "inat-385064570",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 533,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Lilium lancifolium",
+       "genus": "Lilium",
+       "family": "Liliaceae",
+       "common_names": [
+        "Tiger lily",
+        "Devil lily"
+       ],
+       "confidence": 0.9491
+      },
+      {
+       "scientific_name": "Lilium leichtlinii",
+       "genus": "Lilium",
+       "family": "Liliaceae",
+       "common_names": [
+        "Leichtlin's Lily"
+       ],
+       "confidence": 0.0262
+      },
+      {
+       "scientific_name": "Lilium superbum",
+       "genus": "Lilium",
+       "family": "Liliaceae",
+       "common_names": [
+        "Turk's cap lily",
+        "Lily royal"
+       ],
+       "confidence": 0.0082
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 429
+    }
+   ]
+  },
+  {
+   "id": "inat-393381509",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 541,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Lygodium japonicum",
+       "genus": "Lygodium",
+       "family": "Schizaeaceae",
+       "common_names": [
+        "Japanese climbing fern",
+        "Vine like fern"
+       ],
+       "confidence": 0.3962
+      },
+      {
+       "scientific_name": "Peucedanum oreoselinum",
+       "genus": "Peucedanum",
+       "family": "Apiaceae",
+       "common_names": [
+        "Mountain parsley"
+       ],
+       "confidence": 0.1242
+      },
+      {
+       "scientific_name": "Crataegus rhipidophylla",
+       "genus": "Crataegus",
+       "family": "Rosaceae",
+       "common_names": [
+        "Calycine Hawthorn",
+        "Large sepalled Hawthorn"
+       ],
+       "confidence": 0.0601
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": false,
+     "remaining": 428
+    }
+   ]
+  }
+ ]
+}

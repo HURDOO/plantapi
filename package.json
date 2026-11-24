@@ -8,6 +8,6 @@
   "scripts": {
     "start": "node src/server.mjs",
     "dev": "node --env-file-if-exists=.env --watch src/server.mjs",
-    "check": "node --check src/server.mjs && node --check src/identify.mjs && node --check public/app.js && node --test"
+    "check": "node --check src/server.mjs && node --check src/identify.mjs && node --check public/app.js && node --check public/report.js && node --check scripts/evaluate.mjs && node --check scripts/compare-nb.mjs && node --test"
   }
 }

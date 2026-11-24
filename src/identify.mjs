@@ -3,7 +3,12 @@
 export const PLANTNET_URL = "https://my-api.plantnet.org/v2/identify/all";
 export const ORGANS = ["auto", "leaf", "flower", "fruit", "bark"];
 export const MAX_PHOTO_BYTES = 8 * 1024 * 1024;
-const CANDIDATE_LIMIT = 3;
+const CANDIDATE_LIMIT = 3; // I-1 응답·화면에 보여주는 후보 수
+// Pl@ntNet에 요청하는 후보 수. 몇 개를 받든 요청 1회로 센다.
+// 60장 비교(public/report/nb-compare.json): 상위 3개는 같고, 4~10위에서 정답 종이 3장 더 나왔다 (응답 중앙값 +61ms).
+export const REQUEST_RESULTS = 10;
+// 엘프 판정 단계 규칙: 1위 속이 2위 속의 2배 이상이면 속, 아니면 한 과가 80% 이상일 때 과, 둘 다 아니면 다시 찍기.
+export const ELF_RULE = { genusRatio: 2, familyShare: 0.8 };
 
 export class ApiError extends Error {
   constructor(status, code, message) {
@@ -25,13 +30,27 @@ export function detectImageType(buf) {
   return null;
 }
 
-export async function callPlantNet({ apiKey, photo, mimeType, organ, fetchImpl = fetch, timeoutMs = 30_000 }) {
-  const params = new URLSearchParams({
+function plantNetParams(apiKey, nbResults = REQUEST_RESULTS) {
+  return new URLSearchParams({
     "api-key": apiKey,
     "include-related-images": "false",
-    "nb-results": String(CANDIDATE_LIMIT),
+    "nb-results": String(nbResults),
     lang: "en", // Pl@ntNet은 한국어 이름을 주지 않는다
   });
+}
+
+/** 화면의 "입력·출력"에 보여줄 Pl@ntNet 요청 모양. 키는 가린다. */
+export function describePlantNetRequest({ organ, mimeType, bytes }) {
+  return {
+    method: "POST",
+    url: `${PLANTNET_URL}?${plantNetParams("•••").toString().replace("%E2%80%A2%E2%80%A2%E2%80%A2", "•••")}`,
+    content_type: "multipart/form-data",
+    form: { organs: organ, images: `photo (${mimeType}, ${bytes} bytes)` },
+  };
+}
+
+export async function callPlantNet({ apiKey, photo, mimeType, organ, nbResults, fetchImpl = fetch, timeoutMs = 30_000 }) {
+  const params = plantNetParams(apiKey, nbResults);
   const form = new FormData();
   form.append("organs", organ);
   form.append("images", new Blob([photo], { type: mimeType }), "photo");
@@ -87,6 +106,9 @@ export function toDetails(plantnet) {
     predicted_organs: (plantnet?.predictedOrgans ?? []).map((o) => ({ organ: o.organ, score: roundScore(o.score) })),
     remaining_requests: plantnet?.remainingIdentificationRequests ?? null,
     plantnet_version: plantnet?.version ?? null,
+    genus_summary: genusSummary(plantnet),
+    elf_decision: elfDecision(plantnet),
+    more_candidates: moreCandidates(plantnet),
     candidates: topResults(plantnet).map((r) => ({
       scientific_name: r.species?.scientificNameWithoutAuthor ?? null,
       authorship: r.species?.scientificNameAuthorship ?? "",
@@ -99,12 +121,73 @@ export function toDetails(plantnet) {
   };
 }
 
-function topResults(plantnet) {
+/** 화면에는 안 보이는 4위 이후 후보 (DB에서 한국 종을 찾을 때 쓴다). */
+export function moreCandidates(plantnet) {
+  return sortedResults(plantnet).slice(CANDIDATE_LIMIT).map((r) => ({
+    scientific_name: r.species?.scientificNameWithoutAuthor ?? null,
+    genus: genusOf(r),
+    family: familyOf(r),
+    confidence: roundScore(r.score),
+  }));
+}
+
+/**
+ * 엘프를 어느 단계(속·과)까지 정할지. 받은 후보 전체(최대 10개)의 점수를 속별·과별로 더해 본다.
+ * - genus: 1위 속이 2위 속보다 2배 이상 (속이 하나뿐이어도 genus)
+ * - family: 속은 갈리지만 한 과가 전체 점수의 80% 이상 (예: 밀·호밀 → 벼과)
+ * - retake: 둘 다 아님 → 한 장 더 찍기
+ */
+export function elfDecision(plantnet) {
+  const all = sortedResults(plantnet);
+  if (!all.length) return null;
+  const total = all.reduce((sum, r) => sum + (r.score ?? 0), 0);
+  const sumBy = (key) => {
+    const m = new Map();
+    for (const r of all) m.set(key(r), (m.get(key(r)) ?? 0) + (r.score ?? 0));
+    return [...m].sort((a, b) => b[1] - a[1]);
+  };
+  const genera = sumBy(genusOf);
+  const families = sumBy(familyOf);
+  const topGenus = genusOf(all[0]);
+  const ratio = genera.length > 1 && genera[1][1] > 0 ? genera[0][1] / genera[1][1] : null;
+  const familyShare = total > 0 ? families[0][1] / total : 0;
+  let level = "retake";
+  if (genera[0][0] === topGenus && (ratio === null || ratio >= ELF_RULE.genusRatio)) level = "genus";
+  else if (familyShare >= ELF_RULE.familyShare) level = "family";
+  return {
+    level,
+    genus: level === "genus" ? topGenus : null,
+    family: level === "family" ? families[0][0] : familyOf(all[0]),
+    genus_ratio: ratio === null ? null : Math.round(ratio * 100) / 100,
+    family_share: roundScore(familyShare),
+    results_used: all.length,
+  };
+}
+
+const genusOf = (r) => r.species?.genus?.scientificNameWithoutAuthor ?? null;
+const familyOf = (r) => r.species?.family?.scientificNameWithoutAuthor ?? null;
+
+/** 엘프 판별용: 1순위의 속·과와, 후보 3개 중 같은 속 후보의 신뢰도 합. */
+function genusSummary(plantnet) {
+  const top = topResults(plantnet);
+  const genus = top[0]?.species?.genus?.scientificNameWithoutAuthor ?? null;
+  if (!genus) return null;
+  const same = top.filter((r) => r.species?.genus?.scientificNameWithoutAuthor === genus);
+  return {
+    genus,
+    family: top[0].species?.family?.scientificNameWithoutAuthor ?? null,
+    confidence: roundScore(same.reduce((sum, r) => sum + (r.score ?? 0), 0)),
+    candidates_in_genus: same.length,
+  };
+}
+
+function sortedResults(plantnet) {
   const results = Array.isArray(plantnet?.results) ? plantnet.results : [];
-  return results
-    .slice()
-    .sort((a, b) => (b.score ?? 0) - (a.score ?? 0))
-    .slice(0, CANDIDATE_LIMIT);
+  return results.slice().sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
+}
+
+function topResults(plantnet) {
+  return sortedResults(plantnet).slice(0, CANDIDATE_LIMIT);
 }
 
 function roundScore(score) {

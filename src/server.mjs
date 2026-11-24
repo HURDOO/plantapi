@@ -7,17 +7,24 @@ import {
   MAX_PHOTO_BYTES,
   ORGANS,
   callPlantNet,
+  describePlantNetRequest,
   detectImageType,
   toDetails,
   toDraftResponse,
 } from "./identify.mjs";
 
 const PUBLIC_DIR = new URL("../public/", import.meta.url);
-const STATIC_FILES = {
-  "/": ["index.html", "text/html; charset=utf-8"],
-  "/app.js": ["app.js", "text/javascript; charset=utf-8"],
-  "/style.css": ["style.css", "text/css; charset=utf-8"],
+const PAGE_ALIASES = { "/": "/index.html", "/report": "/report.html" };
+const CONTENT_TYPES = {
+  ".html": "text/html; charset=utf-8",
+  ".js": "text/javascript; charset=utf-8",
+  ".css": "text/css; charset=utf-8",
+  ".json": "application/json; charset=utf-8",
+  ".jpg": "image/jpeg",
+  ".svg": "image/svg+xml",
 };
+// public/ 아래의 알려진 확장자 파일만 내준다. 점으로 시작하는 이름과 상위 경로는 막는다.
+const SAFE_PATH = /^\/(?:[a-z0-9][a-z0-9_-]*\/)*[a-z0-9][a-z0-9_.-]*\.(html|js|css|json|jpg|svg)$/;
 const SECURITY_HEADERS = {
   "X-Content-Type-Options": "nosniff",
   "Referrer-Policy": "no-referrer",
@@ -79,6 +86,8 @@ export function createApp({ apiKey, dailyLimit = 100, fetchImpl = fetch, now = D
         photo_bytes: photo.length,
         elapsed_ms: now() - started,
         service_limit: counter.status(),
+        received: { method: "POST", path: `/api/identify?organ=${organ}`, content_type: mimeType, bytes: photo.length },
+        upstream: { ...describePlantNetRequest({ organ, mimeType, bytes: photo.length }), status: 200 },
       },
       plantnet_raw: plantnet,
     });
@@ -97,11 +106,12 @@ export function createApp({ apiKey, dailyLimit = 100, fetchImpl = fetch, now = D
         if (req.method !== "POST") throw new ApiError(405, "METHOD_NOT_ALLOWED", "POST로 요청해 주세요.");
         return await handleIdentify(req, res, url);
       }
-      if ((req.method === "GET" || req.method === "HEAD") && STATIC_FILES[url.pathname]) {
-        const [file, type] = STATIC_FILES[url.pathname];
-        const body = await readFile(fileURLToPath(new URL(file, PUBLIC_DIR)));
-        res.writeHead(200, { "Content-Type": type, "Cache-Control": "no-cache", ...SECURITY_HEADERS });
-        return res.end(req.method === "HEAD" ? undefined : body);
+      if (req.method === "GET" || req.method === "HEAD") {
+        const file = await readStatic(PAGE_ALIASES[url.pathname] ?? url.pathname);
+        if (file) {
+          res.writeHead(200, { "Content-Type": file.type, "Cache-Control": "no-cache", ...SECURITY_HEADERS });
+          return res.end(req.method === "HEAD" ? undefined : file.body);
+        }
       }
       throw new ApiError(404, "NOT_FOUND", "없는 주소예요.");
     } catch (err) {
@@ -111,6 +121,17 @@ export function createApp({ apiKey, dailyLimit = 100, fetchImpl = fetch, now = D
       return sendJson(res, 500, { error: { code: "INTERNAL", message: "서버 오류가 났어요." } });
     }
   };
+}
+
+async function readStatic(pathname) {
+  if (!SAFE_PATH.test(pathname) || pathname.includes("..")) return null;
+  try {
+    const body = await readFile(fileURLToPath(new URL(`.${pathname}`, PUBLIC_DIR)));
+    return { body, type: CONTENT_TYPES[pathname.slice(pathname.lastIndexOf("."))] };
+  } catch (err) {
+    if (err?.code === "ENOENT" || err?.code === "EISDIR") return null;
+    throw err;
+  }
 }
 
 function readBody(req, limit) {

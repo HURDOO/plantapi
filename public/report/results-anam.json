@@ -1,0 +1,945 @@
+{
+ "tested_at": "2026-11-24T11:04:25.873Z",
+ "plantnet_remaining_after": 408,
+ "results": [
+  {
+   "id": "inat-247988456",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 4076,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Lycoris radiata",
+       "genus": "Lycoris",
+       "family": "Amaryllidaceae",
+       "common_names": [
+        "Red spider lily",
+        "Hurricane lily"
+       ],
+       "confidence": 0.8629
+      },
+      {
+       "scientific_name": "Nerine sarniensis",
+       "genus": "Nerine",
+       "family": "Amaryllidaceae",
+       "common_names": [
+        "Guernsey lily",
+        "Jersey Lily"
+       ],
+       "confidence": 0.0089
+      },
+      {
+       "scientific_name": "Lycoris × albiflora",
+       "genus": "Lycoris",
+       "family": "Amaryllidaceae",
+       "common_names": [
+        "White flower surprise lily"
+       ],
+       "confidence": 0.004
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 427
+    }
+   ]
+  },
+  {
+   "id": "inat-405170453",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 878,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Lagerstroemia speciosa",
+       "genus": "Lagerstroemia",
+       "family": "Lythraceae",
+       "common_names": [
+        "Queen's crape myrtle",
+        "Pride of India"
+       ],
+       "confidence": 0.485
+      },
+      {
+       "scientific_name": "Lagerstroemia indica",
+       "genus": "Lagerstroemia",
+       "family": "Lythraceae",
+       "common_names": [
+        "Crapemyrtle",
+        "Crape myrtle"
+       ],
+       "confidence": 0.4768
+      },
+      {
+       "scientific_name": "Malpighia glabra",
+       "genus": "Malpighia",
+       "family": "Malpighiaceae",
+       "common_names": [
+        "Barbados Cherry",
+        "Wild crapemyrtle"
+       ],
+       "confidence": 0.0024
+      }
+     ],
+     "species_top1": false,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 426
+    }
+   ]
+  },
+  {
+   "id": "inat-363864351",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 809,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Acer palmatum",
+       "genus": "Acer",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Japanese maple",
+        "Smooth Japanese maple"
+       ],
+       "confidence": 0.6577
+      },
+      {
+       "scientific_name": "Acer japonicum",
+       "genus": "Acer",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Japanese maple",
+        "Downy Japanese maple"
+       ],
+       "confidence": 0.2043
+      },
+      {
+       "scientific_name": "Acer × freemanii",
+       "genus": "Acer",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Freeman maple",
+        "Autumn Blaze"
+       ],
+       "confidence": 0.017
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 425
+    }
+   ]
+  },
+  {
+   "id": "inat-391252821",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 746,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Crepidiastrum denticulatum",
+       "genus": "Crepidiastrum",
+       "family": "Asteraceae",
+       "common_names": [
+        "Teeth margin crepidiastrum",
+        "Frogspit"
+       ],
+       "confidence": 0.1177
+      },
+      {
+       "scientific_name": "Youngia japonica",
+       "genus": "Youngia",
+       "family": "Asteraceae",
+       "common_names": [
+        "Oriental false hawksbeard",
+        "Japanese hawksbeard"
+       ],
+       "confidence": 0.0455
+      },
+      {
+       "scientific_name": "Sonchus tenerrimus",
+       "genus": "Sonchus",
+       "family": "Asteraceae",
+       "common_names": [
+        "Slender sow thistle",
+        "Slender sowthistle"
+       ],
+       "confidence": 0.0387
+      }
+     ],
+     "species_top1": false,
+     "species_top3": false,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 424
+    }
+   ]
+  },
+  {
+   "id": "inat-203197717",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 748,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Jasminum nudiflorum",
+       "genus": "Jasminum",
+       "family": "Oleaceae",
+       "common_names": [
+        "Winter jasmine",
+        "Yellow Jasmine (పసుపు మల్లి)"
+       ],
+       "confidence": 0.6312
+      },
+      {
+       "scientific_name": "Jasminum mesnyi",
+       "genus": "Jasminum",
+       "family": "Oleaceae",
+       "common_names": [
+        "Japanese jasmine",
+        "Primrose jasmine"
+       ],
+       "confidence": 0.1831
+      },
+      {
+       "scientific_name": "Chrysojasminum fruticans",
+       "genus": "Chrysojasminum",
+       "family": "Oleaceae",
+       "common_names": [
+        "Wild Jasmine",
+        "Yellow jasmine"
+       ],
+       "confidence": 0.006
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 423
+    }
+   ]
+  },
+  {
+   "id": "inat-249453282",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 522,
+     "predicted_organ": "fruit",
+     "candidates": [
+      {
+       "scientific_name": "Taxus canadensis",
+       "genus": "Taxus",
+       "family": "Taxaceae",
+       "common_names": [
+        "Canadian Yew",
+        "Canada yew"
+       ],
+       "confidence": 0.6679
+      },
+      {
+       "scientific_name": "Taxus baccata",
+       "genus": "Taxus",
+       "family": "Taxaceae",
+       "common_names": [
+        "Yew",
+        "European yew"
+       ],
+       "confidence": 0.1516
+      },
+      {
+       "scientific_name": "Taxus globosa",
+       "genus": "Taxus",
+       "family": "Taxaceae",
+       "common_names": [
+        "Mexican yew",
+        "Mesoamerican Yew"
+       ],
+       "confidence": 0.0204
+      }
+     ],
+     "species_top1": false,
+     "species_top3": false,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 422
+    }
+   ]
+  },
+  {
+   "id": "inat-246280536",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 605,
+     "predicted_organ": "fruit",
+     "candidates": [
+      {
+       "scientific_name": "Styphnolobium japonicum",
+       "genus": "Styphnolobium",
+       "family": "Fabaceae",
+       "common_names": [
+        "Japanese pagoda tree",
+        "Pagoda tree"
+       ],
+       "confidence": 0.5351
+      },
+      {
+       "scientific_name": "Styphnolobium affine",
+       "genus": "Styphnolobium",
+       "family": "Fabaceae",
+       "common_names": [
+        "Eve's Necklacepod",
+        "Coralbean"
+       ],
+       "confidence": 0.0142
+      },
+      {
+       "scientific_name": "Caragana arborescens",
+       "genus": "Caragana",
+       "family": "Fabaceae",
+       "common_names": [
+        "Siberian Pea tree",
+        "Siberian peashrub"
+       ],
+       "confidence": 0.0052
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 421
+    }
+   ]
+  },
+  {
+   "id": "inat-328056855",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 545,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Ageratina altissima",
+       "genus": "Ageratina",
+       "family": "Asteraceae",
+       "common_names": [
+        "White Snakeroot",
+        "Richweed"
+       ],
+       "confidence": 0.6086
+      },
+      {
+       "scientific_name": "Ageratina aromatica",
+       "genus": "Ageratina",
+       "family": "Asteraceae",
+       "common_names": [
+        "Lesser snakeroot",
+        "Smaller white snakeroot"
+       ],
+       "confidence": 0.2374
+      },
+      {
+       "scientific_name": "Ageratina jucunda",
+       "genus": "Ageratina",
+       "family": "Asteraceae",
+       "common_names": [
+        "Hammock snakeroot",
+        "Lesser snakeroot"
+       ],
+       "confidence": 0.0157
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 420
+    }
+   ]
+  },
+  {
+   "id": "inat-344709463",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 631,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Chaenomeles speciosa",
+       "genus": "Chaenomeles",
+       "family": "Rosaceae",
+       "common_names": [
+        "Flowering quince",
+        "Chinese quince"
+       ],
+       "confidence": 0.1112
+      },
+      {
+       "scientific_name": "Spiraea prunifolia",
+       "genus": "Spiraea",
+       "family": "Rosaceae",
+       "common_names": [
+        "Bridalwreath Spirea",
+        "Bridal wreath spiraea"
+       ],
+       "confidence": 0.0477
+      },
+      {
+       "scientific_name": "Cotoneaster divaricatus",
+       "genus": "Cotoneaster",
+       "family": "Rosaceae",
+       "common_names": [
+        "Spreading Cotoneaster",
+        "Stretch fruit cotoneaster"
+       ],
+       "confidence": 0.0118
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 419
+    }
+   ]
+  },
+  {
+   "id": "inat-328869111",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 1958,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Erigeron annuus",
+       "genus": "Erigeron",
+       "family": "Asteraceae",
+       "common_names": [
+        "Daisy Fleabane",
+        "Annual fleabane"
+       ],
+       "confidence": 0.5572
+      },
+      {
+       "scientific_name": "Erigeron philadelphicus",
+       "genus": "Erigeron",
+       "family": "Asteraceae",
+       "common_names": [
+        "Philadelphia fleabane",
+        "Robin's plantain"
+       ],
+       "confidence": 0.2474
+      },
+      {
+       "scientific_name": "Erigeron strigosus",
+       "genus": "Erigeron",
+       "family": "Asteraceae",
+       "common_names": [
+        "Common eastern fleabane",
+        "Daisy fleabane"
+       ],
+       "confidence": 0.0895
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 418
+    }
+   ]
+  },
+  {
+   "id": "inat-388110017",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 531,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Ginkgo biloba",
+       "genus": "Ginkgo",
+       "family": "Ginkgoaceae",
+       "common_names": [
+        "Ginkgo",
+        "Maidenhair tree"
+       ],
+       "confidence": 0.9904
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 417
+    }
+   ]
+  },
+  {
+   "id": "inat-344709215",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 555,
+     "predicted_organ": "fruit",
+     "candidates": [
+      {
+       "scientific_name": "Cornus nuttallii",
+       "genus": "Cornus",
+       "family": "Cornaceae",
+       "common_names": [
+        "Pacific Dogwood",
+        "Mountain dogwood"
+       ],
+       "confidence": 0.1445
+      },
+      {
+       "scientific_name": "Betula populifolia",
+       "genus": "Betula",
+       "family": "Betulaceae",
+       "common_names": [
+        "Gray birch",
+        "White birch"
+       ],
+       "confidence": 0.1091
+      },
+      {
+       "scientific_name": "Amelanchier × lamarckii",
+       "genus": "Amelanchier",
+       "family": "Rosaceae",
+       "common_names": [
+        "Juneberry",
+        "Lamarck's serviceberry"
+       ],
+       "confidence": 0.0684
+      }
+     ],
+     "species_top1": false,
+     "species_top3": false,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 416
+    }
+   ]
+  },
+  {
+   "id": "inat-225664488",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 711,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Aegilops tauschii",
+       "genus": "Aegilops",
+       "family": "Poaceae",
+       "common_names": [
+        "Tausch's goatgrass",
+        "Tausch's goat grass"
+       ],
+       "confidence": 0.1787
+      },
+      {
+       "scientific_name": "Aegilops cylindrica",
+       "genus": "Aegilops",
+       "family": "Poaceae",
+       "common_names": [
+        "Jointed goatgrass",
+        "Jointed goat grass"
+       ],
+       "confidence": 0.082
+      },
+      {
+       "scientific_name": "Aegilops geniculata",
+       "genus": "Aegilops",
+       "family": "Poaceae",
+       "common_names": [
+        "Ovate Goatgrass",
+        "Geniculate goatgrass"
+       ],
+       "confidence": 0.0194
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 415
+    }
+   ]
+  },
+  {
+   "id": "inat-225664164",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 666,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Hordeum pusillum",
+       "genus": "Hordeum",
+       "family": "Poaceae",
+       "common_names": [
+        "Little barley",
+        "Little wild barley"
+       ],
+       "confidence": 0.2031
+      },
+      {
+       "scientific_name": "Brachypodium distachyon",
+       "genus": "Brachypodium",
+       "family": "Poaceae",
+       "common_names": [
+        "Stiff Brome",
+        "Purple false brome"
+       ],
+       "confidence": 0.108
+      },
+      {
+       "scientific_name": "Elymus glaucus",
+       "genus": "Elymus",
+       "family": "Poaceae",
+       "common_names": [
+        "Blue wild rye",
+        "Blue wildrye"
+       ],
+       "confidence": 0.0992
+      }
+     ],
+     "species_top1": false,
+     "species_top3": false,
+     "genus_top1": false,
+     "family_top1": true,
+     "remaining": 414
+    }
+   ]
+  },
+  {
+   "id": "inat-225664080",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 610,
+     "predicted_organ": "leaf",
+     "candidates": [
+      {
+       "scientific_name": "Hordeum vulgare",
+       "genus": "Hordeum",
+       "family": "Poaceae",
+       "common_names": [
+        "Common barley",
+        "Barley"
+       ],
+       "confidence": 0.1246
+      },
+      {
+       "scientific_name": "Miscanthus × longiberbis",
+       "genus": "Miscanthus",
+       "family": "Poaceae",
+       "common_names": [
+        "Small Japanese silvergrass",
+        "Small East Asian silvergrass"
+       ],
+       "confidence": 0.1211
+      },
+      {
+       "scientific_name": "Phalaris canariensis",
+       "genus": "Phalaris",
+       "family": "Poaceae",
+       "common_names": [
+        "Canary grass",
+        "Annual canarygrass"
+       ],
+       "confidence": 0.1055
+      }
+     ],
+     "species_top1": false,
+     "species_top3": false,
+     "genus_top1": false,
+     "family_top1": true,
+     "remaining": 413
+    }
+   ]
+  },
+  {
+   "id": "inat-203197791",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 561,
+     "predicted_organ": "flower",
+     "candidates": [
+      {
+       "scientific_name": "Mukdenia rossii",
+       "genus": "Mukdenia",
+       "family": "Saxifragaceae",
+       "common_names": [
+        "Maple leaf mukdenia",
+        "Red leafed mukdenia"
+       ],
+       "confidence": 0.0929
+      },
+      {
+       "scientific_name": "Brimeura fastigiata",
+       "genus": "Brimeura",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Brimeura",
+        "Pouzolz' Squill"
+       ],
+       "confidence": 0.0167
+      },
+      {
+       "scientific_name": "Sedum album",
+       "genus": "Sedum",
+       "family": "Crassulaceae",
+       "common_names": [
+        "White stonecrop",
+        "Small Houseleek"
+       ],
+       "confidence": 0.0085
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 412
+    }
+   ]
+  },
+  {
+   "id": "inat-343357094",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 512,
+     "predicted_organ": "habit",
+     "candidates": [
+      {
+       "scientific_name": "Commelina communis",
+       "genus": "Commelina",
+       "family": "Commelinaceae",
+       "common_names": [
+        "Dayflower",
+        "Asiatic dayflower"
+       ],
+       "confidence": 0.8297
+      },
+      {
+       "scientific_name": "Commelina cyanea",
+       "genus": "Commelina",
+       "family": "Commelinaceae",
+       "common_names": [
+        "Scurvy weed",
+        "Creeping Christian"
+       ],
+       "confidence": 0.0265
+      },
+      {
+       "scientific_name": "Commelina erecta",
+       "genus": "Commelina",
+       "family": "Commelinaceae",
+       "common_names": [
+        "Blue Commelina",
+        "Whitemouth dayflower"
+       ],
+       "confidence": 0.0252
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 411
+    }
+   ]
+  },
+  {
+   "id": "inat-343357068",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 631,
+     "predicted_organ": "fruit",
+     "candidates": [
+      {
+       "scientific_name": "Koelreuteria paniculata",
+       "genus": "Koelreuteria",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Goldenrain tree",
+        "Pride of-India"
+       ],
+       "confidence": 0.9609
+      },
+      {
+       "scientific_name": "Cardiospermum grandiflorum",
+       "genus": "Cardiospermum",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Balloon vine",
+        "Showy balloonvine"
+       ],
+       "confidence": 0.0053
+      },
+      {
+       "scientific_name": "Cardiospermum halicacabum",
+       "genus": "Cardiospermum",
+       "family": "Sapindaceae",
+       "common_names": [
+        "Balloon vine",
+        "Balloonvine"
+       ],
+       "confidence": 0.0026
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 410
+    }
+   ]
+  },
+  {
+   "id": "inat-330180552",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 516,
+     "predicted_organ": "fruit",
+     "candidates": [
+      {
+       "scientific_name": "Liriope muscari",
+       "genus": "Liriope",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Big Blue Lilyturf",
+        "Monkey grass"
+       ],
+       "confidence": 0.8969
+      },
+      {
+       "scientific_name": "Ophiopogon japonicus",
+       "genus": "Ophiopogon",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Mondo grass",
+        "Dwarf lilyturf"
+       ],
+       "confidence": 0.0132
+      },
+      {
+       "scientific_name": "Liriope spicata",
+       "genus": "Liriope",
+       "family": "Asparagaceae",
+       "common_names": [
+        "Creeping liriope",
+        "Creeping Lilyturf"
+       ],
+       "confidence": 0.0129
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 409
+    }
+   ]
+  },
+  {
+   "id": "inat-328984214",
+   "runs": [
+    {
+     "organ": "auto",
+     "ok": true,
+     "elapsed_ms": 2023,
+     "predicted_organ": "fruit",
+     "candidates": [
+      {
+       "scientific_name": "Solanum melongena",
+       "genus": "Solanum",
+       "family": "Solanaceae",
+       "common_names": [
+        "Eggplant",
+        "Aubergine"
+       ],
+       "confidence": 0.3186
+      },
+      {
+       "scientific_name": "Solanum campylacanthum",
+       "genus": "Solanum",
+       "family": "Solanaceae",
+       "common_names": [
+        "Bitter Apple",
+        "Apple of Sodom"
+       ],
+       "confidence": 0.0135
+      },
+      {
+       "scientific_name": "Datura metel",
+       "genus": "Datura",
+       "family": "Solanaceae",
+       "common_names": [
+        "Recurved Thorn Apple",
+        "Downy Thornapple"
+       ],
+       "confidence": 0.0063
+      }
+     ],
+     "species_top1": true,
+     "species_top3": true,
+     "genus_top1": true,
+     "family_top1": true,
+     "remaining": 408
+    }
+   ]
+  }
+ ]
+}

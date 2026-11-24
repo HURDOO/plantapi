@@ -1,0 +1,370 @@
+[
+ {
+  "id": "inat-247988456",
+  "file": "inat-247988456.jpg",
+  "korean_name": "석산",
+  "scientific_name": "Lycoris radiata",
+  "synonyms": [],
+  "genus": "Lycoris",
+  "family": "Amaryllidaceae",
+  "location": "안암동 · 고려대",
+  "reference": "커뮤니티 동정",
+  "credit": {
+   "artist": "jbegeranozh",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/247988456",
+   "photo": "https://www.inaturalist.org/photos/443015933"
+  }
+ },
+ {
+  "id": "inat-405170453",
+  "file": "inat-405170453.jpg",
+  "korean_name": "배롱나무",
+  "scientific_name": "Lagerstroemia indica",
+  "synonyms": [],
+  "genus": "Lagerstroemia",
+  "family": "Lythraceae",
+  "location": "안암동",
+  "reference": "커뮤니티 동정",
+  "credit": {
+   "artist": "김경식",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/405170453",
+   "photo": "https://www.inaturalist.org/photos/744174321"
+  }
+ },
+ {
+  "id": "inat-363864351",
+  "file": "inat-363864351.jpg",
+  "korean_name": "단풍나무",
+  "scientific_name": "Acer palmatum",
+  "synonyms": [],
+  "genus": "Acer",
+  "family": "Sapindaceae",
+  "location": "안암동",
+  "reference": "커뮤니티 동정",
+  "credit": {
+   "artist": "김경식",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/363864351",
+   "photo": "https://www.inaturalist.org/photos/664229469"
+  }
+ },
+ {
+  "id": "inat-391252821",
+  "file": "inat-391252821.jpg",
+  "korean_name": "고들빼기",
+  "scientific_name": "Crepidiastrum sonchifolium",
+  "synonyms": [
+   "Youngia sonchifolia"
+  ],
+  "genus": "Crepidiastrum",
+  "family": "Asteraceae",
+  "location": "안암동",
+  "reference": "커뮤니티 동정",
+  "credit": {
+   "artist": "saem05",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/391252821",
+   "photo": "https://www.inaturalist.org/photos/716890699"
+  }
+ },
+ {
+  "id": "inat-203197717",
+  "file": "inat-203197717.jpg",
+  "korean_name": "영춘화",
+  "scientific_name": "Jasminum nudiflorum",
+  "synonyms": [],
+  "genus": "Jasminum",
+  "family": "Oleaceae",
+  "location": "안암동4가",
+  "reference": "커뮤니티 동정",
+  "credit": {
+   "artist": "Mo",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/203197717",
+   "photo": "https://www.inaturalist.org/photos/358978072"
+  }
+ },
+ {
+  "id": "inat-249453282",
+  "file": "inat-249453282.jpg",
+  "korean_name": "주목",
+  "scientific_name": "Taxus cuspidata",
+  "synonyms": [],
+  "genus": "Taxus",
+  "family": "Taxaceae",
+  "location": "안암동",
+  "reference": "커뮤니티 동정",
+  "credit": {
+   "artist": "jbegeranozh",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/249453282",
+   "photo": "https://www.inaturalist.org/photos/445923607"
+  }
+ },
+ {
+  "id": "inat-246280536",
+  "file": "inat-246280536.jpg",
+  "korean_name": "회화나무",
+  "scientific_name": "Styphnolobium japonicum",
+  "synonyms": [
+   "Sophora japonica"
+  ],
+  "genus": "Styphnolobium",
+  "family": "Fabaceae",
+  "location": "안암동 · 고려대",
+  "reference": "관찰 기록의 종 이름",
+  "credit": {
+   "artist": "jbegeranozh",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/246280536",
+   "photo": "https://www.inaturalist.org/photos/439634517"
+  }
+ },
+ {
+  "id": "inat-328056855",
+  "file": "inat-328056855.jpg",
+  "korean_name": "서양등골나물",
+  "scientific_name": "Ageratina altissima",
+  "synonyms": [],
+  "genus": "Ageratina",
+  "family": "Asteraceae",
+  "location": "안암동",
+  "reference": "커뮤니티 동정",
+  "credit": {
+   "artist": "Sangyun Kim",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/328056855",
+   "photo": "https://www.inaturalist.org/photos/594389570"
+  }
+ },
+ {
+  "id": "inat-344709463",
+  "file": "inat-344709463.jpg",
+  "korean_name": "명자꽃",
+  "scientific_name": "Chaenomeles speciosa",
+  "synonyms": [],
+  "genus": "Chaenomeles",
+  "family": "Rosaceae",
+  "location": "안암동",
+  "reference": "관찰 기록의 종 이름",
+  "credit": {
+   "artist": "미니캐슬",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/344709463",
+   "photo": "https://www.inaturalist.org/photos/628113557"
+  }
+ },
+ {
+  "id": "inat-328869111",
+  "file": "inat-328869111.jpg",
+  "korean_name": "개망초",
+  "scientific_name": "Erigeron annuus",
+  "synonyms": [],
+  "genus": "Erigeron",
+  "family": "Asteraceae",
+  "location": "안암동",
+  "reference": "관찰 기록의 종 이름",
+  "credit": {
+   "artist": "미니캐슬",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/328869111",
+   "photo": "https://www.inaturalist.org/photos/596024919"
+  }
+ },
+ {
+  "id": "inat-388110017",
+  "file": "inat-388110017.jpg",
+  "korean_name": "은행나무",
+  "scientific_name": "Ginkgo biloba",
+  "synonyms": [],
+  "genus": "Ginkgo",
+  "family": "Ginkgoaceae",
+  "location": "안암동",
+  "reference": "커뮤니티 동정",
+  "credit": {
+   "artist": "cpumerci",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/388110017",
+   "photo": "https://www.inaturalist.org/photos/710778643"
+  }
+ },
+ {
+  "id": "inat-344709215",
+  "file": "inat-344709215.jpg",
+  "korean_name": "산딸나무",
+  "scientific_name": "Cornus kousa",
+  "synonyms": [
+   "Benthamidia kousa"
+  ],
+  "genus": "Cornus",
+  "family": "Cornaceae",
+  "location": "안암동",
+  "reference": "관찰 기록의 종 이름",
+  "credit": {
+   "artist": "미니캐슬",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/344709215",
+   "photo": "https://www.inaturalist.org/photos/628113023"
+  }
+ },
+ {
+  "id": "inat-225664488",
+  "file": "inat-225664488.jpg",
+  "korean_name": "야생염소풀",
+  "scientific_name": "Aegilops tauschii",
+  "synonyms": [],
+  "genus": "Aegilops",
+  "family": "Poaceae",
+  "location": "안암동 · 고려대 자연계캠퍼스",
+  "reference": "관찰 기록의 종 이름",
+  "credit": {
+   "artist": "Sang Heon Kim",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/225664488",
+   "photo": "https://www.inaturalist.org/photos/400127862"
+  }
+ },
+ {
+  "id": "inat-225664164",
+  "file": "inat-225664164.jpg",
+  "korean_name": "호밀",
+  "scientific_name": "Secale cereale",
+  "synonyms": [],
+  "genus": "Secale",
+  "family": "Poaceae",
+  "location": "안암동 · 고려대 자연계캠퍼스",
+  "reference": "관찰 기록의 종 이름",
+  "credit": {
+   "artist": "Sang Heon Kim",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/225664164",
+   "photo": "https://www.inaturalist.org/photos/400127182"
+  }
+ },
+ {
+  "id": "inat-225664080",
+  "file": "inat-225664080.jpg",
+  "korean_name": "밀",
+  "scientific_name": "Triticum aestivum",
+  "synonyms": [],
+  "genus": "Triticum",
+  "family": "Poaceae",
+  "location": "안암동 · 고려대 자연계캠퍼스",
+  "reference": "관찰 기록의 종 이름",
+  "credit": {
+   "artist": "Sang Heon Kim",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/225664080",
+   "photo": "https://www.inaturalist.org/photos/400126892"
+  }
+ },
+ {
+  "id": "inat-203197791",
+  "file": "inat-203197791.jpg",
+  "korean_name": "돌단풍",
+  "scientific_name": "Mukdenia rossii",
+  "synonyms": [
+   "Aceriphyllum rossii"
+  ],
+  "genus": "Mukdenia",
+  "family": "Saxifragaceae",
+  "location": "안암동4가 경계 인근",
+  "reference": "관찰 기록의 종 이름",
+  "credit": {
+   "artist": "Mo",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/203197791",
+   "photo": "https://www.inaturalist.org/photos/358978206"
+  }
+ },
+ {
+  "id": "inat-343357094",
+  "file": "inat-343357094.jpg",
+  "korean_name": "닭의장풀",
+  "scientific_name": "Commelina communis",
+  "synonyms": [],
+  "genus": "Commelina",
+  "family": "Commelinaceae",
+  "location": "성북천 · 안암2교 인근",
+  "reference": "커뮤니티 동정",
+  "credit": {
+   "artist": "Eva",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/343357094",
+   "photo": "https://www.inaturalist.org/photos/625438339"
+  }
+ },
+ {
+  "id": "inat-343357068",
+  "file": "inat-343357068.jpg",
+  "korean_name": "모감주나무",
+  "scientific_name": "Koelreuteria paniculata",
+  "synonyms": [],
+  "genus": "Koelreuteria",
+  "family": "Sapindaceae",
+  "location": "성북천 · 안암동 경계 인근",
+  "reference": "관찰 기록의 종 이름",
+  "credit": {
+   "artist": "Eva",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/343357068",
+   "photo": "https://www.inaturalist.org/photos/625438303"
+  }
+ },
+ {
+  "id": "inat-330180552",
+  "file": "inat-330180552.jpg",
+  "korean_name": "맥문동",
+  "scientific_name": "Liriope muscari",
+  "synonyms": [],
+  "genus": "Liriope",
+  "family": "Asparagaceae",
+  "location": "고려대 인근 · 종암동",
+  "reference": "관찰 기록의 종 이름",
+  "credit": {
+   "artist": "손신우",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/330180552",
+   "photo": "https://www.inaturalist.org/photos/598672951"
+  }
+ },
+ {
+  "id": "inat-328984214",
+  "file": "inat-328984214.jpg",
+  "korean_name": "가지",
+  "scientific_name": "Solanum melongena",
+  "synonyms": [],
+  "genus": "Solanum",
+  "family": "Solanaceae",
+  "location": "고려대 인근 · 종암동",
+  "reference": "관찰 기록의 종 이름",
+  "credit": {
+   "artist": "snuhs10227",
+   "license": "CC BY-NC 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/observations/328984214",
+   "photo": "https://www.inaturalist.org/photos/596254719"
+  }
+ }
+]

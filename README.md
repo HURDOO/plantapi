@@ -3,10 +3,14 @@
 **이세계 엘프들**(GDGoC 26-2) 팀원들이 Pl@ntNet 식별 API를 직접 써 보는 프로토타입입니다.
 사진을 올리면 Pl@ntNet 결과와, API 초안 **3.3 I-1** `POST /functions/v1/identify` 응답 모양을 함께 보여 줍니다.
 
-- 폰 카메라나 앨범에서 사진을 고르면, 앱 규칙대로 긴 변 1280px, JPEG 품질 0.7로 줄여서 보냅니다.
-- 사진 부위(organ)는 `auto`(기본), `leaf`, `flower`, `fruit`, `bark` 중에서 고릅니다. 회의 안건인 "부위를 직접 고르게 할지"를 비교해 보는 용도입니다.
+- 사진을 넣으면 바로 식별합니다. 카메라, 앨범(여러 장), 드래그, 붙여넣기 모두 됩니다. 앱 규칙대로 긴 변 1280px, JPEG 품질 0.7로 줄여서 한 장씩 차례로 보냅니다.
+- 샘플 60장(`public/samples/`)을 누르면 바로 식별하고 기준 종과 비교해 보여 줍니다. 안암 일대 사용자 사진, 국내 사용자 관찰 사진, 위키 대표 사진이 각각 20장씩 있습니다. `/?sample=<id>`로 바로 열 수도 있습니다.
+- `/report`: 샘플 60장(안암 일대 사진, 사용자 관찰 사진, 위키 대표 사진 20장씩) 정확도 보고서입니다. 수치는 `public/report/results-anam.json`, `results-community.json`, `results.json`에서 계산합니다.
+- 사진 부위(organ)는 고급 설정에 있습니다. 위키 사진 15장 테스트에서는 지정해도 결과가 같았습니다.
+- Pl@ntNet에는 후보 10개를 요청하고(요청 1회로 같음), 화면과 I-1 응답에는 3개만 보여 줍니다. 4~10위는 결과 카드에서 접어서 볼 수 있습니다.
+- 엘프 판정 단계(속 / 과 / 보류)를 함께 보여 줍니다. 1위 속이 2위 속의 2배 이상이면 속, 아니면 한 과가 80% 이상일 때 과, 둘 다 아니면 다시 찍기입니다 (`src/identify.mjs`의 `elfDecision`).
 - 후보 3개의 학명, 일반명, 신뢰도, 속·과와 Pl@ntNet이 판단한 부위, 남은 요청 수를 보여 줍니다.
-- 탭에서 두 가지 JSON을 볼 수 있습니다.
+- 결과 카드마다 두 가지 JSON을 펼쳐 보고 복사할 수 있습니다.
   - **I-1 응답(초안 형식)**: `species_id`, `korean_name`, `character_id`, `is_collected`, `is_character_collected`는 DB에서 채우는 칸이라 `null`입니다.
   - **Pl@ntNet 원본**: Pl@ntNet이 돌려준 응답 그대로입니다.
 - 에러는 초안 형식 `{ "error": { "code", "message" } }`을 따릅니다.
@@ -30,11 +34,27 @@ npm run dev               # http://127.0.0.1:3000
 npm run check             # 문법 검사 + 테스트
 ```
 
+## 평가 다시 돌리기
+
+```bash
+node --env-file=.env scripts/evaluate.mjs             # 위키 사진, Pl@ntNet 약 35회 호출 → public/report/results.json
+node --env-file=.env scripts/evaluate.mjs community   # 사용자 사진, 20회 호출 → public/report/results-community.json
+node --env-file=.env scripts/evaluate.mjs anam        # 안암 사진, 20회 호출 → public/report/results-anam.json
+```
+
+후보 3개와 10개 비교: `node --env-file=.env scripts/compare-nb.mjs` (120회 호출 → `public/report/nb-compare.json`).
+
+사용자·안암 사진은 앱과 같게 긴 변 1280px, JPEG 품질 0.7로 줄여서 보냅니다 (macOS `sips` 사용).
+
+보고서용 사진의 정답과 출처는 `public/samples/manifest.json`에 있습니다. iNaturalist 사진의 기준 종은 커뮤니티에서 확인한 관찰 기록을 따르며, 촬영자와 라이선스는 `public/samples/community.json`과 테스트 화면에서 확인할 수 있습니다.
+
+안암 사진의 촬영 위치, 동정 출처, 촬영자는 `public/samples/anam.json`에 있습니다. 안암동 15장과 성북천·고려대 인근 5장으로, 사진을 리사이즈했으며 CC BY-NC 4.0 비영리 이용 조건이 적용됩니다.
+
 ## 구조
 
 - `src/identify.mjs`: Pl@ntNet 호출, 에러 매핑, I-1 형식 변환
 - `src/server.mjs`: HTTP 서버 (`/`, `/healthz`, `/api/status`, `POST /api/identify?organ=`)
-- `public/`: 테스트 화면
+- `public/`: 테스트 화면(`index.html`, `app.js`), 보고서(`report.html`, `report.js`), 샘플 사진과 평가 결과
 - `test/`: Pl@ntNet을 흉내 낸 서버 테스트
 
 Pl@ntNet 키는 URL 쿼리로 전달됩니다. 그래서 요청 URL과 원본 에러는 로그에 남기지 않습니다.

@@ -1,0 +1,5172 @@
+{
+ "tested_at": "2026-11-24T11:35:49.207Z",
+ "plantnet_remaining_after": 279,
+ "results": [
+  {
+   "set": "anam",
+   "id": "inat-247988456",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 3454,
+    "bytes": 1956,
+    "remaining": 397,
+    "candidates": [
+     {
+      "scientific_name": "Lycoris radiata",
+      "genus": "Lycoris",
+      "family": "Amaryllidaceae",
+      "confidence": 0.8629
+     },
+     {
+      "scientific_name": "Nerine sarniensis",
+      "genus": "Nerine",
+      "family": "Amaryllidaceae",
+      "confidence": 0.0089
+     },
+     {
+      "scientific_name": "Lycoris × albiflora",
+      "genus": "Lycoris",
+      "family": "Amaryllidaceae",
+      "confidence": 0.004
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 881,
+    "bytes": 4542,
+    "remaining": 396,
+    "candidates": [
+     {
+      "scientific_name": "Lycoris radiata",
+      "genus": "Lycoris",
+      "family": "Amaryllidaceae",
+      "confidence": 0.8629
+     },
+     {
+      "scientific_name": "Nerine sarniensis",
+      "genus": "Nerine",
+      "family": "Amaryllidaceae",
+      "confidence": 0.0089
+     },
+     {
+      "scientific_name": "Lycoris × albiflora",
+      "genus": "Lycoris",
+      "family": "Amaryllidaceae",
+      "confidence": 0.004
+     },
+     {
+      "scientific_name": "Lycoris sanguinea",
+      "genus": "Lycoris",
+      "family": "Amaryllidaceae",
+      "confidence": 0.0021
+     },
+     {
+      "scientific_name": "Nerine humilis",
+      "genus": "Nerine",
+      "family": "Amaryllidaceae",
+      "confidence": 0.0015
+     },
+     {
+      "scientific_name": "Nyctaginia capitata",
+      "genus": "Nyctaginia",
+      "family": "Nyctaginaceae",
+      "confidence": 0.0015
+     },
+     {
+      "scientific_name": "Lycoris aurea",
+      "genus": "Lycoris",
+      "family": "Amaryllidaceae",
+      "confidence": 0.0013
+     },
+     {
+      "scientific_name": "Hippeastrum striatum",
+      "genus": "Hippeastrum",
+      "family": "Amaryllidaceae",
+      "confidence": 0.0011
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-405170453",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 1125,
+    "bytes": 2097,
+    "remaining": 394,
+    "candidates": [
+     {
+      "scientific_name": "Lagerstroemia speciosa",
+      "genus": "Lagerstroemia",
+      "family": "Lythraceae",
+      "confidence": 0.485
+     },
+     {
+      "scientific_name": "Lagerstroemia indica",
+      "genus": "Lagerstroemia",
+      "family": "Lythraceae",
+      "confidence": 0.4768
+     },
+     {
+      "scientific_name": "Malpighia glabra",
+      "genus": "Malpighia",
+      "family": "Malpighiaceae",
+      "confidence": 0.0024
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 869,
+    "bytes": 2097,
+    "remaining": 395,
+    "candidates": [
+     {
+      "scientific_name": "Lagerstroemia speciosa",
+      "genus": "Lagerstroemia",
+      "family": "Lythraceae",
+      "confidence": 0.485
+     },
+     {
+      "scientific_name": "Lagerstroemia indica",
+      "genus": "Lagerstroemia",
+      "family": "Lythraceae",
+      "confidence": 0.4768
+     },
+     {
+      "scientific_name": "Malpighia glabra",
+      "genus": "Malpighia",
+      "family": "Malpighiaceae",
+      "confidence": 0.0024
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-363864351",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 597,
+    "bytes": 1993,
+    "remaining": 393,
+    "candidates": [
+     {
+      "scientific_name": "Acer palmatum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.6577
+     },
+     {
+      "scientific_name": "Acer japonicum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.2043
+     },
+     {
+      "scientific_name": "Acer × freemanii",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.017
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 516,
+    "bytes": 5639,
+    "remaining": 392,
+    "candidates": [
+     {
+      "scientific_name": "Acer palmatum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.6577
+     },
+     {
+      "scientific_name": "Acer japonicum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.2043
+     },
+     {
+      "scientific_name": "Acer × freemanii",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.017
+     },
+     {
+      "scientific_name": "Liquidambar styraciflua",
+      "genus": "Liquidambar",
+      "family": "Altingiaceae",
+      "confidence": 0.0135
+     },
+     {
+      "scientific_name": "Acer rubrum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.0129
+     },
+     {
+      "scientific_name": "Acer saccharum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.005
+     },
+     {
+      "scientific_name": "Acer serrulatum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.004
+     },
+     {
+      "scientific_name": "Pistacia chinensis",
+      "genus": "Pistacia",
+      "family": "Anacardiaceae",
+      "confidence": 0.0028
+     },
+     {
+      "scientific_name": "Acer truncatum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.0024
+     },
+     {
+      "scientific_name": "Quercus palustris",
+      "genus": "Quercus",
+      "family": "Fagaceae",
+      "confidence": 0.0024
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-391252821",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 479,
+    "bytes": 2054,
+    "remaining": 390,
+    "candidates": [
+     {
+      "scientific_name": "Crepidiastrum denticulatum",
+      "genus": "Crepidiastrum",
+      "family": "Asteraceae",
+      "confidence": 0.1177
+     },
+     {
+      "scientific_name": "Youngia japonica",
+      "genus": "Youngia",
+      "family": "Asteraceae",
+      "confidence": 0.0455
+     },
+     {
+      "scientific_name": "Sonchus tenerrimus",
+      "genus": "Sonchus",
+      "family": "Asteraceae",
+      "confidence": 0.0387
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 811,
+    "bytes": 5443,
+    "remaining": 391,
+    "candidates": [
+     {
+      "scientific_name": "Crepidiastrum denticulatum",
+      "genus": "Crepidiastrum",
+      "family": "Asteraceae",
+      "confidence": 0.1177
+     },
+     {
+      "scientific_name": "Youngia japonica",
+      "genus": "Youngia",
+      "family": "Asteraceae",
+      "confidence": 0.0455
+     },
+     {
+      "scientific_name": "Sonchus tenerrimus",
+      "genus": "Sonchus",
+      "family": "Asteraceae",
+      "confidence": 0.0387
+     },
+     {
+      "scientific_name": "Lactuca sativa",
+      "genus": "Lactuca",
+      "family": "Asteraceae",
+      "confidence": 0.0321
+     },
+     {
+      "scientific_name": "Crepis palaestina",
+      "genus": "Crepis",
+      "family": "Asteraceae",
+      "confidence": 0.0169
+     },
+     {
+      "scientific_name": "Crepis tectorum",
+      "genus": "Crepis",
+      "family": "Asteraceae",
+      "confidence": 0.013
+     },
+     {
+      "scientific_name": "Sonchus oleraceus",
+      "genus": "Sonchus",
+      "family": "Asteraceae",
+      "confidence": 0.0095
+     },
+     {
+      "scientific_name": "Hieracium virosum",
+      "genus": "Hieracium",
+      "family": "Asteraceae",
+      "confidence": 0.0083
+     },
+     {
+      "scientific_name": "Lapsana communis",
+      "genus": "Lapsana",
+      "family": "Asteraceae",
+      "confidence": 0.008
+     },
+     {
+      "scientific_name": "Lactuca serriola",
+      "genus": "Lactuca",
+      "family": "Asteraceae",
+      "confidence": 0.0077
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-203197717",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 524,
+    "bytes": 2019,
+    "remaining": 389,
+    "candidates": [
+     {
+      "scientific_name": "Jasminum nudiflorum",
+      "genus": "Jasminum",
+      "family": "Oleaceae",
+      "confidence": 0.6312
+     },
+     {
+      "scientific_name": "Jasminum mesnyi",
+      "genus": "Jasminum",
+      "family": "Oleaceae",
+      "confidence": 0.1831
+     },
+     {
+      "scientific_name": "Chrysojasminum fruticans",
+      "genus": "Chrysojasminum",
+      "family": "Oleaceae",
+      "confidence": 0.006
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 611,
+    "bytes": 3025,
+    "remaining": 388,
+    "candidates": [
+     {
+      "scientific_name": "Jasminum nudiflorum",
+      "genus": "Jasminum",
+      "family": "Oleaceae",
+      "confidence": 0.6312
+     },
+     {
+      "scientific_name": "Jasminum mesnyi",
+      "genus": "Jasminum",
+      "family": "Oleaceae",
+      "confidence": 0.1831
+     },
+     {
+      "scientific_name": "Chrysojasminum fruticans",
+      "genus": "Chrysojasminum",
+      "family": "Oleaceae",
+      "confidence": 0.006
+     },
+     {
+      "scientific_name": "Reinwardtia indica",
+      "genus": "Reinwardtia",
+      "family": "Linaceae",
+      "confidence": 0.0054
+     },
+     {
+      "scientific_name": "Allamanda cathartica",
+      "genus": "Allamanda",
+      "family": "Apocynaceae",
+      "confidence": 0.002
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-249453282",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 512,
+    "bytes": 1960,
+    "remaining": 386,
+    "candidates": [
+     {
+      "scientific_name": "Taxus canadensis",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.6679
+     },
+     {
+      "scientific_name": "Taxus baccata",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.1516
+     },
+     {
+      "scientific_name": "Taxus globosa",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.0204
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 1227,
+    "bytes": 5543,
+    "remaining": 387,
+    "candidates": [
+     {
+      "scientific_name": "Taxus canadensis",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.6679
+     },
+     {
+      "scientific_name": "Taxus baccata",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.1516
+     },
+     {
+      "scientific_name": "Taxus globosa",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.0204
+     },
+     {
+      "scientific_name": "Taxus floridana",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.0183
+     },
+     {
+      "scientific_name": "Taxus cuspidata",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.0136
+     },
+     {
+      "scientific_name": "Taxus wallichiana",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.0133
+     },
+     {
+      "scientific_name": "Taxus brevifolia",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.0119
+     },
+     {
+      "scientific_name": "Taxus × media",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.009
+     },
+     {
+      "scientific_name": "Taxus contorta",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.0057
+     },
+     {
+      "scientific_name": "Torreya taxifolia",
+      "genus": "Torreya",
+      "family": "Taxaceae",
+      "confidence": 0.0016
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-246280536",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 500,
+    "bytes": 2104,
+    "remaining": 385,
+    "candidates": [
+     {
+      "scientific_name": "Styphnolobium japonicum",
+      "genus": "Styphnolobium",
+      "family": "Fabaceae",
+      "confidence": 0.5351
+     },
+     {
+      "scientific_name": "Styphnolobium affine",
+      "genus": "Styphnolobium",
+      "family": "Fabaceae",
+      "confidence": 0.0142
+     },
+     {
+      "scientific_name": "Caragana arborescens",
+      "genus": "Caragana",
+      "family": "Fabaceae",
+      "confidence": 0.0052
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 598,
+    "bytes": 4878,
+    "remaining": 384,
+    "candidates": [
+     {
+      "scientific_name": "Styphnolobium japonicum",
+      "genus": "Styphnolobium",
+      "family": "Fabaceae",
+      "confidence": 0.5351
+     },
+     {
+      "scientific_name": "Styphnolobium affine",
+      "genus": "Styphnolobium",
+      "family": "Fabaceae",
+      "confidence": 0.0142
+     },
+     {
+      "scientific_name": "Caragana arborescens",
+      "genus": "Caragana",
+      "family": "Fabaceae",
+      "confidence": 0.0052
+     },
+     {
+      "scientific_name": "Sophora flavescens",
+      "genus": "Sophora",
+      "family": "Fabaceae",
+      "confidence": 0.0044
+     },
+     {
+      "scientific_name": "Calpurnia aurea",
+      "genus": "Calpurnia",
+      "family": "Fabaceae",
+      "confidence": 0.0021
+     },
+     {
+      "scientific_name": "Tipuana tipu",
+      "genus": "Tipuana",
+      "family": "Fabaceae",
+      "confidence": 0.0017
+     },
+     {
+      "scientific_name": "Laburnum alpinum",
+      "genus": "Laburnum",
+      "family": "Fabaceae",
+      "confidence": 0.0016
+     },
+     {
+      "scientific_name": "Dermatophyllum secundiflorum",
+      "genus": "Dermatophyllum",
+      "family": "Fabaceae",
+      "confidence": 0.0013
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-328056855",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 518,
+    "bytes": 2067,
+    "remaining": 382,
+    "candidates": [
+     {
+      "scientific_name": "Ageratina altissima",
+      "genus": "Ageratina",
+      "family": "Asteraceae",
+      "confidence": 0.6086
+     },
+     {
+      "scientific_name": "Ageratina aromatica",
+      "genus": "Ageratina",
+      "family": "Asteraceae",
+      "confidence": 0.2374
+     },
+     {
+      "scientific_name": "Ageratina jucunda",
+      "genus": "Ageratina",
+      "family": "Asteraceae",
+      "confidence": 0.0157
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 1667,
+    "bytes": 5752,
+    "remaining": 383,
+    "candidates": [
+     {
+      "scientific_name": "Ageratina altissima",
+      "genus": "Ageratina",
+      "family": "Asteraceae",
+      "confidence": 0.6086
+     },
+     {
+      "scientific_name": "Ageratina aromatica",
+      "genus": "Ageratina",
+      "family": "Asteraceae",
+      "confidence": 0.2374
+     },
+     {
+      "scientific_name": "Ageratina jucunda",
+      "genus": "Ageratina",
+      "family": "Asteraceae",
+      "confidence": 0.0157
+     },
+     {
+      "scientific_name": "Ageratina roanensis",
+      "genus": "Ageratina",
+      "family": "Asteraceae",
+      "confidence": 0.0143
+     },
+     {
+      "scientific_name": "Ageratina herbacea",
+      "genus": "Ageratina",
+      "family": "Asteraceae",
+      "confidence": 0.0124
+     },
+     {
+      "scientific_name": "Ageratina glechonophylla",
+      "genus": "Ageratina",
+      "family": "Asteraceae",
+      "confidence": 0.01
+     },
+     {
+      "scientific_name": "Eupatorium serotinum",
+      "genus": "Eupatorium",
+      "family": "Asteraceae",
+      "confidence": 0.0096
+     },
+     {
+      "scientific_name": "Ageratina adenophora",
+      "genus": "Ageratina",
+      "family": "Asteraceae",
+      "confidence": 0.0088
+     },
+     {
+      "scientific_name": "Ageratina riparia",
+      "genus": "Ageratina",
+      "family": "Asteraceae",
+      "confidence": 0.0068
+     },
+     {
+      "scientific_name": "Chromolaena odorata",
+      "genus": "Chromolaena",
+      "family": "Asteraceae",
+      "confidence": 0.0066
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-344709463",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 518,
+    "bytes": 2068,
+    "remaining": 381,
+    "candidates": [
+     {
+      "scientific_name": "Chaenomeles speciosa",
+      "genus": "Chaenomeles",
+      "family": "Rosaceae",
+      "confidence": 0.1112
+     },
+     {
+      "scientific_name": "Spiraea prunifolia",
+      "genus": "Spiraea",
+      "family": "Rosaceae",
+      "confidence": 0.0477
+     },
+     {
+      "scientific_name": "Cotoneaster divaricatus",
+      "genus": "Cotoneaster",
+      "family": "Rosaceae",
+      "confidence": 0.0118
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 627,
+    "bytes": 5716,
+    "remaining": 380,
+    "candidates": [
+     {
+      "scientific_name": "Chaenomeles speciosa",
+      "genus": "Chaenomeles",
+      "family": "Rosaceae",
+      "confidence": 0.1112
+     },
+     {
+      "scientific_name": "Spiraea prunifolia",
+      "genus": "Spiraea",
+      "family": "Rosaceae",
+      "confidence": 0.0477
+     },
+     {
+      "scientific_name": "Cotoneaster divaricatus",
+      "genus": "Cotoneaster",
+      "family": "Rosaceae",
+      "confidence": 0.0118
+     },
+     {
+      "scientific_name": "Ceanothus impressus",
+      "genus": "Ceanothus",
+      "family": "Rhamnaceae",
+      "confidence": 0.0092
+     },
+     {
+      "scientific_name": "Cotoneaster horizontalis",
+      "genus": "Cotoneaster",
+      "family": "Rosaceae",
+      "confidence": 0.0087
+     },
+     {
+      "scientific_name": "Salix repens",
+      "genus": "Salix",
+      "family": "Salicaceae",
+      "confidence": 0.0075
+     },
+     {
+      "scientific_name": "Berberis thunbergii",
+      "genus": "Berberis",
+      "family": "Berberidaceae",
+      "confidence": 0.006
+     },
+     {
+      "scientific_name": "Ceanothus tomentosus",
+      "genus": "Ceanothus",
+      "family": "Rhamnaceae",
+      "confidence": 0.006
+     },
+     {
+      "scientific_name": "Cotoneaster dielsianus",
+      "genus": "Cotoneaster",
+      "family": "Rosaceae",
+      "confidence": 0.0059
+     },
+     {
+      "scientific_name": "Salix myrsinifolia",
+      "genus": "Salix",
+      "family": "Salicaceae",
+      "confidence": 0.0059
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-328869111",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 526,
+    "bytes": 1990,
+    "remaining": 378,
+    "candidates": [
+     {
+      "scientific_name": "Erigeron annuus",
+      "genus": "Erigeron",
+      "family": "Asteraceae",
+      "confidence": 0.5572
+     },
+     {
+      "scientific_name": "Erigeron philadelphicus",
+      "genus": "Erigeron",
+      "family": "Asteraceae",
+      "confidence": 0.2474
+     },
+     {
+      "scientific_name": "Erigeron strigosus",
+      "genus": "Erigeron",
+      "family": "Asteraceae",
+      "confidence": 0.0895
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 628,
+    "bytes": 4020,
+    "remaining": 379,
+    "candidates": [
+     {
+      "scientific_name": "Erigeron annuus",
+      "genus": "Erigeron",
+      "family": "Asteraceae",
+      "confidence": 0.5572
+     },
+     {
+      "scientific_name": "Erigeron philadelphicus",
+      "genus": "Erigeron",
+      "family": "Asteraceae",
+      "confidence": 0.2474
+     },
+     {
+      "scientific_name": "Erigeron strigosus",
+      "genus": "Erigeron",
+      "family": "Asteraceae",
+      "confidence": 0.0895
+     },
+     {
+      "scientific_name": "Erigeron quercifolius",
+      "genus": "Erigeron",
+      "family": "Asteraceae",
+      "confidence": 0.0113
+     },
+     {
+      "scientific_name": "Erigeron speciosus",
+      "genus": "Erigeron",
+      "family": "Asteraceae",
+      "confidence": 0.0068
+     },
+     {
+      "scientific_name": "Erigeron aliceae",
+      "genus": "Erigeron",
+      "family": "Asteraceae",
+      "confidence": 0.0018
+     },
+     {
+      "scientific_name": "Erigeron pulchellus",
+      "genus": "Erigeron",
+      "family": "Asteraceae",
+      "confidence": 0.0013
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-388110017",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 1741,
+    "bytes": 943,
+    "remaining": 377,
+    "candidates": [
+     {
+      "scientific_name": "Ginkgo biloba",
+      "genus": "Ginkgo",
+      "family": "Ginkgoaceae",
+      "confidence": 0.9904
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 3849,
+    "bytes": 943,
+    "remaining": 376,
+    "candidates": [
+     {
+      "scientific_name": "Ginkgo biloba",
+      "genus": "Ginkgo",
+      "family": "Ginkgoaceae",
+      "confidence": 0.9904
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-344709215",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 528,
+    "bytes": 2096,
+    "remaining": 374,
+    "candidates": [
+     {
+      "scientific_name": "Cornus nuttallii",
+      "genus": "Cornus",
+      "family": "Cornaceae",
+      "confidence": 0.1445
+     },
+     {
+      "scientific_name": "Betula populifolia",
+      "genus": "Betula",
+      "family": "Betulaceae",
+      "confidence": 0.1091
+     },
+     {
+      "scientific_name": "Amelanchier × lamarckii",
+      "genus": "Amelanchier",
+      "family": "Rosaceae",
+      "confidence": 0.0684
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 487,
+    "bytes": 5910,
+    "remaining": 375,
+    "candidates": [
+     {
+      "scientific_name": "Cornus nuttallii",
+      "genus": "Cornus",
+      "family": "Cornaceae",
+      "confidence": 0.1445
+     },
+     {
+      "scientific_name": "Betula populifolia",
+      "genus": "Betula",
+      "family": "Betulaceae",
+      "confidence": 0.1091
+     },
+     {
+      "scientific_name": "Amelanchier × lamarckii",
+      "genus": "Amelanchier",
+      "family": "Rosaceae",
+      "confidence": 0.0684
+     },
+     {
+      "scientific_name": "Pyrus calleryana",
+      "genus": "Pyrus",
+      "family": "Rosaceae",
+      "confidence": 0.0426
+     },
+     {
+      "scientific_name": "Liquidambar orientalis",
+      "genus": "Liquidambar",
+      "family": "Altingiaceae",
+      "confidence": 0.0384
+     },
+     {
+      "scientific_name": "Viburnum lentago",
+      "genus": "Viburnum",
+      "family": "Viburnaceae",
+      "confidence": 0.0277
+     },
+     {
+      "scientific_name": "Sorbus decora",
+      "genus": "Sorbus",
+      "family": "Rosaceae",
+      "confidence": 0.0255
+     },
+     {
+      "scientific_name": "Rhododendron eastmanii",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0227
+     },
+     {
+      "scientific_name": "Rhododendron viscosum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0204
+     },
+     {
+      "scientific_name": "Amelanchier arborea",
+      "genus": "Amelanchier",
+      "family": "Rosaceae",
+      "confidence": 0.012
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-225664488",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 471,
+    "bytes": 2059,
+    "remaining": 373,
+    "candidates": [
+     {
+      "scientific_name": "Aegilops tauschii",
+      "genus": "Aegilops",
+      "family": "Poaceae",
+      "confidence": 0.1787
+     },
+     {
+      "scientific_name": "Aegilops cylindrica",
+      "genus": "Aegilops",
+      "family": "Poaceae",
+      "confidence": 0.082
+     },
+     {
+      "scientific_name": "Aegilops geniculata",
+      "genus": "Aegilops",
+      "family": "Poaceae",
+      "confidence": 0.0194
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 596,
+    "bytes": 5757,
+    "remaining": 372,
+    "candidates": [
+     {
+      "scientific_name": "Aegilops tauschii",
+      "genus": "Aegilops",
+      "family": "Poaceae",
+      "confidence": 0.1787
+     },
+     {
+      "scientific_name": "Aegilops cylindrica",
+      "genus": "Aegilops",
+      "family": "Poaceae",
+      "confidence": 0.082
+     },
+     {
+      "scientific_name": "Aegilops geniculata",
+      "genus": "Aegilops",
+      "family": "Poaceae",
+      "confidence": 0.0194
+     },
+     {
+      "scientific_name": "Panicum virgatum",
+      "genus": "Panicum",
+      "family": "Poaceae",
+      "confidence": 0.01
+     },
+     {
+      "scientific_name": "Pseudoroegneria spicata",
+      "genus": "Pseudoroegneria",
+      "family": "Poaceae",
+      "confidence": 0.0083
+     },
+     {
+      "scientific_name": "Aegilops triuncialis",
+      "genus": "Aegilops",
+      "family": "Poaceae",
+      "confidence": 0.0075
+     },
+     {
+      "scientific_name": "Thelepogon elegans",
+      "genus": "Thelepogon",
+      "family": "Poaceae",
+      "confidence": 0.0063
+     },
+     {
+      "scientific_name": "Zoysia matrella",
+      "genus": "Zoysia",
+      "family": "Poaceae",
+      "confidence": 0.0052
+     },
+     {
+      "scientific_name": "Typha minima",
+      "genus": "Typha",
+      "family": "Typhaceae",
+      "confidence": 0.0049
+     },
+     {
+      "scientific_name": "Brachypodium retusum",
+      "genus": "Brachypodium",
+      "family": "Poaceae",
+      "confidence": 0.0048
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-225664164",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 513,
+    "bytes": 1965,
+    "remaining": 370,
+    "candidates": [
+     {
+      "scientific_name": "Hordeum pusillum",
+      "genus": "Hordeum",
+      "family": "Poaceae",
+      "confidence": 0.2031
+     },
+     {
+      "scientific_name": "Brachypodium distachyon",
+      "genus": "Brachypodium",
+      "family": "Poaceae",
+      "confidence": 0.108
+     },
+     {
+      "scientific_name": "Elymus glaucus",
+      "genus": "Elymus",
+      "family": "Poaceae",
+      "confidence": 0.0992
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 510,
+    "bytes": 5563,
+    "remaining": 371,
+    "candidates": [
+     {
+      "scientific_name": "Hordeum pusillum",
+      "genus": "Hordeum",
+      "family": "Poaceae",
+      "confidence": 0.2031
+     },
+     {
+      "scientific_name": "Brachypodium distachyon",
+      "genus": "Brachypodium",
+      "family": "Poaceae",
+      "confidence": 0.108
+     },
+     {
+      "scientific_name": "Elymus glaucus",
+      "genus": "Elymus",
+      "family": "Poaceae",
+      "confidence": 0.0992
+     },
+     {
+      "scientific_name": "Elymus violaceus",
+      "genus": "Elymus",
+      "family": "Poaceae",
+      "confidence": 0.0568
+     },
+     {
+      "scientific_name": "Gastridium phleoides",
+      "genus": "Gastridium",
+      "family": "Poaceae",
+      "confidence": 0.0534
+     },
+     {
+      "scientific_name": "Hordelymus europaeus",
+      "genus": "Hordelymus",
+      "family": "Poaceae",
+      "confidence": 0.0405
+     },
+     {
+      "scientific_name": "Hordeum brachyantherum",
+      "genus": "Hordeum",
+      "family": "Poaceae",
+      "confidence": 0.0382
+     },
+     {
+      "scientific_name": "Hordeum murinum",
+      "genus": "Hordeum",
+      "family": "Poaceae",
+      "confidence": 0.0298
+     },
+     {
+      "scientific_name": "Secale cereale",
+      "genus": "Secale",
+      "family": "Poaceae",
+      "confidence": 0.0206
+     },
+     {
+      "scientific_name": "Festuca myuros",
+      "genus": "Festuca",
+      "family": "Poaceae",
+      "confidence": 0.0164
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-225664080",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 565,
+    "bytes": 1952,
+    "remaining": 369,
+    "candidates": [
+     {
+      "scientific_name": "Hordeum vulgare",
+      "genus": "Hordeum",
+      "family": "Poaceae",
+      "confidence": 0.1246
+     },
+     {
+      "scientific_name": "Miscanthus × longiberbis",
+      "genus": "Miscanthus",
+      "family": "Poaceae",
+      "confidence": 0.1211
+     },
+     {
+      "scientific_name": "Phalaris canariensis",
+      "genus": "Phalaris",
+      "family": "Poaceae",
+      "confidence": 0.1055
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 515,
+    "bytes": 5299,
+    "remaining": 368,
+    "candidates": [
+     {
+      "scientific_name": "Hordeum vulgare",
+      "genus": "Hordeum",
+      "family": "Poaceae",
+      "confidence": 0.1246
+     },
+     {
+      "scientific_name": "Miscanthus × longiberbis",
+      "genus": "Miscanthus",
+      "family": "Poaceae",
+      "confidence": 0.1211
+     },
+     {
+      "scientific_name": "Phalaris canariensis",
+      "genus": "Phalaris",
+      "family": "Poaceae",
+      "confidence": 0.1055
+     },
+     {
+      "scientific_name": "Avena sativa",
+      "genus": "Avena",
+      "family": "Poaceae",
+      "confidence": 0.0762
+     },
+     {
+      "scientific_name": "Secale cereale",
+      "genus": "Secale",
+      "family": "Poaceae",
+      "confidence": 0.0514
+     },
+     {
+      "scientific_name": "Triticum aestivum",
+      "genus": "Triticum",
+      "family": "Poaceae",
+      "confidence": 0.0394
+     },
+     {
+      "scientific_name": "Allium sativum",
+      "genus": "Allium",
+      "family": "Amaryllidaceae",
+      "confidence": 0.0261
+     },
+     {
+      "scientific_name": "Saccharum officinarum",
+      "genus": "Saccharum",
+      "family": "Poaceae",
+      "confidence": 0.016
+     },
+     {
+      "scientific_name": "Miscanthus lutarioriparius",
+      "genus": "Miscanthus",
+      "family": "Poaceae",
+      "confidence": 0.0107
+     },
+     {
+      "scientific_name": "Bromus japonicus",
+      "genus": "Bromus",
+      "family": "Poaceae",
+      "confidence": 0.0097
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-203197791",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 488,
+    "bytes": 1958,
+    "remaining": 366,
+    "candidates": [
+     {
+      "scientific_name": "Mukdenia rossii",
+      "genus": "Mukdenia",
+      "family": "Saxifragaceae",
+      "confidence": 0.0929
+     },
+     {
+      "scientific_name": "Brimeura fastigiata",
+      "genus": "Brimeura",
+      "family": "Asparagaceae",
+      "confidence": 0.0167
+     },
+     {
+      "scientific_name": "Sedum album",
+      "genus": "Sedum",
+      "family": "Crassulaceae",
+      "confidence": 0.0085
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 482,
+    "bytes": 5483,
+    "remaining": 367,
+    "candidates": [
+     {
+      "scientific_name": "Mukdenia rossii",
+      "genus": "Mukdenia",
+      "family": "Saxifragaceae",
+      "confidence": 0.0929
+     },
+     {
+      "scientific_name": "Brimeura fastigiata",
+      "genus": "Brimeura",
+      "family": "Asparagaceae",
+      "confidence": 0.0167
+     },
+     {
+      "scientific_name": "Sedum album",
+      "genus": "Sedum",
+      "family": "Crassulaceae",
+      "confidence": 0.0085
+     },
+     {
+      "scientific_name": "Bergenia ciliata",
+      "genus": "Bergenia",
+      "family": "Saxifragaceae",
+      "confidence": 0.0079
+     },
+     {
+      "scientific_name": "Heuchera caespitosa",
+      "genus": "Heuchera",
+      "family": "Saxifragaceae",
+      "confidence": 0.0071
+     },
+     {
+      "scientific_name": "Sedum rubens",
+      "genus": "Sedum",
+      "family": "Crassulaceae",
+      "confidence": 0.0063
+     },
+     {
+      "scientific_name": "Allium robinsonii",
+      "genus": "Allium",
+      "family": "Amaryllidaceae",
+      "confidence": 0.0056
+     },
+     {
+      "scientific_name": "Sedum dasyphyllum",
+      "genus": "Sedum",
+      "family": "Crassulaceae",
+      "confidence": 0.0055
+     },
+     {
+      "scientific_name": "Sedum anglicum",
+      "genus": "Sedum",
+      "family": "Crassulaceae",
+      "confidence": 0.0047
+     },
+     {
+      "scientific_name": "Phedimus spurius",
+      "genus": "Phedimus",
+      "family": "Crassulaceae",
+      "confidence": 0.0041
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-343357094",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 520,
+    "bytes": 1978,
+    "remaining": 365,
+    "candidates": [
+     {
+      "scientific_name": "Commelina communis",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.8297
+     },
+     {
+      "scientific_name": "Commelina cyanea",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0265
+     },
+     {
+      "scientific_name": "Commelina erecta",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0252
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 2202,
+    "bytes": 5595,
+    "remaining": 364,
+    "candidates": [
+     {
+      "scientific_name": "Commelina communis",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.8297
+     },
+     {
+      "scientific_name": "Commelina cyanea",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0265
+     },
+     {
+      "scientific_name": "Commelina erecta",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0252
+     },
+     {
+      "scientific_name": "Commelina diffusa",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0129
+     },
+     {
+      "scientific_name": "Commelina benghalensis",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0085
+     },
+     {
+      "scientific_name": "Tinantia anomala",
+      "genus": "Tinantia",
+      "family": "Commelinaceae",
+      "confidence": 0.0023
+     },
+     {
+      "scientific_name": "Commelina ensifolia",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0022
+     },
+     {
+      "scientific_name": "Commelina tuberosa",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0019
+     },
+     {
+      "scientific_name": "Commelina virginica",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0011
+     },
+     {
+      "scientific_name": "Commelina caroliniana",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0011
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-343357068",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 523,
+    "bytes": 2076,
+    "remaining": 362,
+    "candidates": [
+     {
+      "scientific_name": "Koelreuteria paniculata",
+      "genus": "Koelreuteria",
+      "family": "Sapindaceae",
+      "confidence": 0.9609
+     },
+     {
+      "scientific_name": "Cardiospermum grandiflorum",
+      "genus": "Cardiospermum",
+      "family": "Sapindaceae",
+      "confidence": 0.0053
+     },
+     {
+      "scientific_name": "Cardiospermum halicacabum",
+      "genus": "Cardiospermum",
+      "family": "Sapindaceae",
+      "confidence": 0.0026
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 611,
+    "bytes": 3690,
+    "remaining": 363,
+    "candidates": [
+     {
+      "scientific_name": "Koelreuteria paniculata",
+      "genus": "Koelreuteria",
+      "family": "Sapindaceae",
+      "confidence": 0.9609
+     },
+     {
+      "scientific_name": "Cardiospermum grandiflorum",
+      "genus": "Cardiospermum",
+      "family": "Sapindaceae",
+      "confidence": 0.0053
+     },
+     {
+      "scientific_name": "Cardiospermum halicacabum",
+      "genus": "Cardiospermum",
+      "family": "Sapindaceae",
+      "confidence": 0.0026
+     },
+     {
+      "scientific_name": "Staphylea pinnata",
+      "genus": "Staphylea",
+      "family": "Staphyleaceae",
+      "confidence": 0.0018
+     },
+     {
+      "scientific_name": "Koelreuteria elegans",
+      "genus": "Koelreuteria",
+      "family": "Sapindaceae",
+      "confidence": 0.0016
+     },
+     {
+      "scientific_name": "Koelreuteria bipinnata",
+      "genus": "Koelreuteria",
+      "family": "Sapindaceae",
+      "confidence": 0.0015
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-330180552",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 504,
+    "bytes": 1980,
+    "remaining": 361,
+    "candidates": [
+     {
+      "scientific_name": "Liriope muscari",
+      "genus": "Liriope",
+      "family": "Asparagaceae",
+      "confidence": 0.8969
+     },
+     {
+      "scientific_name": "Ophiopogon japonicus",
+      "genus": "Ophiopogon",
+      "family": "Asparagaceae",
+      "confidence": 0.0132
+     },
+     {
+      "scientific_name": "Liriope spicata",
+      "genus": "Liriope",
+      "family": "Asparagaceae",
+      "confidence": 0.0129
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 671,
+    "bytes": 3480,
+    "remaining": 360,
+    "candidates": [
+     {
+      "scientific_name": "Liriope muscari",
+      "genus": "Liriope",
+      "family": "Asparagaceae",
+      "confidence": 0.8969
+     },
+     {
+      "scientific_name": "Ophiopogon japonicus",
+      "genus": "Ophiopogon",
+      "family": "Asparagaceae",
+      "confidence": 0.0132
+     },
+     {
+      "scientific_name": "Liriope spicata",
+      "genus": "Liriope",
+      "family": "Asparagaceae",
+      "confidence": 0.0129
+     },
+     {
+      "scientific_name": "Ophiopogon planiscapus",
+      "genus": "Ophiopogon",
+      "family": "Asparagaceae",
+      "confidence": 0.0032
+     },
+     {
+      "scientific_name": "Ophiopogon caulescens",
+      "genus": "Ophiopogon",
+      "family": "Asparagaceae",
+      "confidence": 0.0025
+     },
+     {
+      "scientific_name": "Liriope graminifolia",
+      "genus": "Liriope",
+      "family": "Asparagaceae",
+      "confidence": 0.0012
+     }
+    ]
+   }
+  },
+  {
+   "set": "anam",
+   "id": "inat-328984214",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 581,
+    "bytes": 1956,
+    "remaining": 358,
+    "candidates": [
+     {
+      "scientific_name": "Solanum melongena",
+      "genus": "Solanum",
+      "family": "Solanaceae",
+      "confidence": 0.3186
+     },
+     {
+      "scientific_name": "Solanum campylacanthum",
+      "genus": "Solanum",
+      "family": "Solanaceae",
+      "confidence": 0.0135
+     },
+     {
+      "scientific_name": "Datura metel",
+      "genus": "Datura",
+      "family": "Solanaceae",
+      "confidence": 0.0063
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 623,
+    "bytes": 5437,
+    "remaining": 359,
+    "candidates": [
+     {
+      "scientific_name": "Solanum melongena",
+      "genus": "Solanum",
+      "family": "Solanaceae",
+      "confidence": 0.3186
+     },
+     {
+      "scientific_name": "Solanum campylacanthum",
+      "genus": "Solanum",
+      "family": "Solanaceae",
+      "confidence": 0.0135
+     },
+     {
+      "scientific_name": "Datura metel",
+      "genus": "Datura",
+      "family": "Solanaceae",
+      "confidence": 0.0063
+     },
+     {
+      "scientific_name": "Atropa bella-donna",
+      "genus": "Atropa",
+      "family": "Solanaceae",
+      "confidence": 0.0061
+     },
+     {
+      "scientific_name": "Datura wrightii",
+      "genus": "Datura",
+      "family": "Solanaceae",
+      "confidence": 0.0054
+     },
+     {
+      "scientific_name": "Solanum macrocarpon",
+      "genus": "Solanum",
+      "family": "Solanaceae",
+      "confidence": 0.0052
+     },
+     {
+      "scientific_name": "Trozelia grandiflora",
+      "genus": "Trozelia",
+      "family": "Solanaceae",
+      "confidence": 0.0049
+     },
+     {
+      "scientific_name": "Solanum paniculatum",
+      "genus": "Solanum",
+      "family": "Solanaceae",
+      "confidence": 0.0043
+     },
+     {
+      "scientific_name": "Crotalaria verrucosa",
+      "genus": "Crotalaria",
+      "family": "Fabaceae",
+      "confidence": 0.0038
+     },
+     {
+      "scientific_name": "Dunalia brachyacantha",
+      "genus": "Dunalia",
+      "family": "Solanaceae",
+      "confidence": 0.0036
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-409376495",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 477,
+    "bytes": 942,
+    "remaining": 357,
+    "candidates": [
+     {
+      "scientific_name": "Ginkgo biloba",
+      "genus": "Ginkgo",
+      "family": "Ginkgoaceae",
+      "confidence": 0.9428
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 3929,
+    "bytes": 942,
+    "remaining": 356,
+    "candidates": [
+     {
+      "scientific_name": "Ginkgo biloba",
+      "genus": "Ginkgo",
+      "family": "Ginkgoaceae",
+      "confidence": 0.9428
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-414695708",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 814,
+    "bytes": 2003,
+    "remaining": 354,
+    "candidates": [
+     {
+      "scientific_name": "Phytolacca americana",
+      "genus": "Phytolacca",
+      "family": "Phytolaccaceae",
+      "confidence": 0.8412
+     },
+     {
+      "scientific_name": "Phytolacca rivinoides",
+      "genus": "Phytolacca",
+      "family": "Phytolaccaceae",
+      "confidence": 0.0401
+     },
+     {
+      "scientific_name": "Phytolacca bogotensis",
+      "genus": "Phytolacca",
+      "family": "Phytolaccaceae",
+      "confidence": 0.0243
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 2813,
+    "bytes": 5571,
+    "remaining": 355,
+    "candidates": [
+     {
+      "scientific_name": "Phytolacca americana",
+      "genus": "Phytolacca",
+      "family": "Phytolaccaceae",
+      "confidence": 0.8412
+     },
+     {
+      "scientific_name": "Phytolacca rivinoides",
+      "genus": "Phytolacca",
+      "family": "Phytolaccaceae",
+      "confidence": 0.0401
+     },
+     {
+      "scientific_name": "Phytolacca bogotensis",
+      "genus": "Phytolacca",
+      "family": "Phytolaccaceae",
+      "confidence": 0.0243
+     },
+     {
+      "scientific_name": "Phytolacca heterotepala",
+      "genus": "Phytolacca",
+      "family": "Phytolaccaceae",
+      "confidence": 0.0143
+     },
+     {
+      "scientific_name": "Phytolacca icosandra",
+      "genus": "Phytolacca",
+      "family": "Phytolaccaceae",
+      "confidence": 0.0119
+     },
+     {
+      "scientific_name": "Phytolacca acinosa",
+      "genus": "Phytolacca",
+      "family": "Phytolaccaceae",
+      "confidence": 0.0064
+     },
+     {
+      "scientific_name": "Amaranthus caudatus",
+      "genus": "Amaranthus",
+      "family": "Amaranthaceae",
+      "confidence": 0.0019
+     },
+     {
+      "scientific_name": "Lipandra polysperma",
+      "genus": "Lipandra",
+      "family": "Amaranthaceae",
+      "confidence": 0.0013
+     },
+     {
+      "scientific_name": "Phytolacca polyandra",
+      "genus": "Phytolacca",
+      "family": "Phytolaccaceae",
+      "confidence": 0.0013
+     },
+     {
+      "scientific_name": "Phytolacca japonica",
+      "genus": "Phytolacca",
+      "family": "Phytolaccaceae",
+      "confidence": 0.0012
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-404436364",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 809,
+    "bytes": 1926,
+    "remaining": 353,
+    "candidates": [
+     {
+      "scientific_name": "Commelina communis",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.7847
+     },
+     {
+      "scientific_name": "Commelina cyanea",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0493
+     },
+     {
+      "scientific_name": "Commelina tuberosa",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0398
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 704,
+    "bytes": 5525,
+    "remaining": 352,
+    "candidates": [
+     {
+      "scientific_name": "Commelina communis",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.7847
+     },
+     {
+      "scientific_name": "Commelina cyanea",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0493
+     },
+     {
+      "scientific_name": "Commelina tuberosa",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0398
+     },
+     {
+      "scientific_name": "Commelina erecta",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0278
+     },
+     {
+      "scientific_name": "Commelina benghalensis",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0234
+     },
+     {
+      "scientific_name": "Commelina diffusa",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0117
+     },
+     {
+      "scientific_name": "Commelina obliqua",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0076
+     },
+     {
+      "scientific_name": "Commelina caroliniana",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0062
+     },
+     {
+      "scientific_name": "Commelina dianthifolia",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0031
+     },
+     {
+      "scientific_name": "Commelina ensifolia",
+      "genus": "Commelina",
+      "family": "Commelinaceae",
+      "confidence": 0.0027
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-389626151",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 2013,
+    "bytes": 2138,
+    "remaining": 350,
+    "candidates": [
+     {
+      "scientific_name": "Lagerstroemia speciosa",
+      "genus": "Lagerstroemia",
+      "family": "Lythraceae",
+      "confidence": 0.8136
+     },
+     {
+      "scientific_name": "Lagerstroemia indica",
+      "genus": "Lagerstroemia",
+      "family": "Lythraceae",
+      "confidence": 0.1675
+     },
+     {
+      "scientific_name": "Lagerstroemia subcostata",
+      "genus": "Lagerstroemia",
+      "family": "Lythraceae",
+      "confidence": 0.0038
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 481,
+    "bytes": 2658,
+    "remaining": 351,
+    "candidates": [
+     {
+      "scientific_name": "Lagerstroemia speciosa",
+      "genus": "Lagerstroemia",
+      "family": "Lythraceae",
+      "confidence": 0.8136
+     },
+     {
+      "scientific_name": "Lagerstroemia indica",
+      "genus": "Lagerstroemia",
+      "family": "Lythraceae",
+      "confidence": 0.1675
+     },
+     {
+      "scientific_name": "Lagerstroemia subcostata",
+      "genus": "Lagerstroemia",
+      "family": "Lythraceae",
+      "confidence": 0.0038
+     },
+     {
+      "scientific_name": "Lafoensia acuminata",
+      "genus": "Lafoensia",
+      "family": "Lythraceae",
+      "confidence": 0.0012
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-412279180",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 581,
+    "bytes": 2007,
+    "remaining": 349,
+    "candidates": [
+     {
+      "scientific_name": "Pyrrosia piloselloides",
+      "genus": "Pyrrosia",
+      "family": "Polypodiaceae",
+      "confidence": 0.4928
+     },
+     {
+      "scientific_name": "Pyrrosia nummulariifolia",
+      "genus": "Pyrrosia",
+      "family": "Polypodiaceae",
+      "confidence": 0.0869
+     },
+     {
+      "scientific_name": "Pyrrosia eleagnifolia",
+      "genus": "Pyrrosia",
+      "family": "Polypodiaceae",
+      "confidence": 0.0188
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 714,
+    "bytes": 5624,
+    "remaining": 348,
+    "candidates": [
+     {
+      "scientific_name": "Pyrrosia piloselloides",
+      "genus": "Pyrrosia",
+      "family": "Polypodiaceae",
+      "confidence": 0.4928
+     },
+     {
+      "scientific_name": "Pyrrosia nummulariifolia",
+      "genus": "Pyrrosia",
+      "family": "Polypodiaceae",
+      "confidence": 0.0869
+     },
+     {
+      "scientific_name": "Pyrrosia eleagnifolia",
+      "genus": "Pyrrosia",
+      "family": "Polypodiaceae",
+      "confidence": 0.0188
+     },
+     {
+      "scientific_name": "Sarmienta scandens",
+      "genus": "Sarmienta",
+      "family": "Gesneriaceae",
+      "confidence": 0.0162
+     },
+     {
+      "scientific_name": "Peperomia peruviana",
+      "genus": "Peperomia",
+      "family": "Piperaceae",
+      "confidence": 0.0122
+     },
+     {
+      "scientific_name": "Pyrrosia rupestris",
+      "genus": "Pyrrosia",
+      "family": "Polypodiaceae",
+      "confidence": 0.012
+     },
+     {
+      "scientific_name": "Lepisorus microphyllus",
+      "genus": "Lepisorus",
+      "family": "Polypodiaceae",
+      "confidence": 0.0112
+     },
+     {
+      "scientific_name": "Microgramma vacciniifolia",
+      "genus": "Microgramma",
+      "family": "Polypodiaceae",
+      "confidence": 0.0109
+     },
+     {
+      "scientific_name": "Specklinia microphylla",
+      "genus": "Specklinia",
+      "family": "Orchidaceae",
+      "confidence": 0.0085
+     },
+     {
+      "scientific_name": "Peperomia tuerckheimii",
+      "genus": "Peperomia",
+      "family": "Piperaceae",
+      "confidence": 0.0074
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-412282315",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 812,
+    "bytes": 1947,
+    "remaining": 346,
+    "candidates": [
+     {
+      "scientific_name": "Trifolium alpestre",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.53
+     },
+     {
+      "scientific_name": "Trifolium pratense",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.2927
+     },
+     {
+      "scientific_name": "Trifolium medium",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0609
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 573,
+    "bytes": 4382,
+    "remaining": 347,
+    "candidates": [
+     {
+      "scientific_name": "Trifolium alpestre",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.53
+     },
+     {
+      "scientific_name": "Trifolium pratense",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.2927
+     },
+     {
+      "scientific_name": "Trifolium medium",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0609
+     },
+     {
+      "scientific_name": "Trifolium montanum",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0291
+     },
+     {
+      "scientific_name": "Trifolium hybridum",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0203
+     },
+     {
+      "scientific_name": "Trifolium fragiferum",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0042
+     },
+     {
+      "scientific_name": "Trifolium reflexum",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0018
+     },
+     {
+      "scientific_name": "Trifolium rubens",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0012
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-389961859",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 557,
+    "bytes": 2081,
+    "remaining": 345,
+    "candidates": [
+     {
+      "scientific_name": "Castanea sativa",
+      "genus": "Castanea",
+      "family": "Fagaceae",
+      "confidence": 0.6264
+     },
+     {
+      "scientific_name": "Castanea dentata",
+      "genus": "Castanea",
+      "family": "Fagaceae",
+      "confidence": 0.2604
+     },
+     {
+      "scientific_name": "Castanea crenata",
+      "genus": "Castanea",
+      "family": "Fagaceae",
+      "confidence": 0.065
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 711,
+    "bytes": 4750,
+    "remaining": 344,
+    "candidates": [
+     {
+      "scientific_name": "Castanea sativa",
+      "genus": "Castanea",
+      "family": "Fagaceae",
+      "confidence": 0.6264
+     },
+     {
+      "scientific_name": "Castanea dentata",
+      "genus": "Castanea",
+      "family": "Fagaceae",
+      "confidence": 0.2604
+     },
+     {
+      "scientific_name": "Castanea crenata",
+      "genus": "Castanea",
+      "family": "Fagaceae",
+      "confidence": 0.065
+     },
+     {
+      "scientific_name": "Castanea mollissima",
+      "genus": "Castanea",
+      "family": "Fagaceae",
+      "confidence": 0.0146
+     },
+     {
+      "scientific_name": "Castanopsis indica",
+      "genus": "Castanopsis",
+      "family": "Fagaceae",
+      "confidence": 0.004
+     },
+     {
+      "scientific_name": "Caloncoba welwitschii",
+      "genus": "Caloncoba",
+      "family": "Achariaceae",
+      "confidence": 0.0027
+     },
+     {
+      "scientific_name": "Castanea pumila",
+      "genus": "Castanea",
+      "family": "Fagaceae",
+      "confidence": 0.0018
+     },
+     {
+      "scientific_name": "Adonis vernalis",
+      "genus": "Adonis",
+      "family": "Ranunculaceae",
+      "confidence": 0.0011
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-406707126",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 495,
+    "bytes": 1982,
+    "remaining": 342,
+    "candidates": [
+     {
+      "scientific_name": "Parthenocissus tricuspidata",
+      "genus": "Parthenocissus",
+      "family": "Vitaceae",
+      "confidence": 0.8668
+     },
+     {
+      "scientific_name": "Parthenocissus dalzielii",
+      "genus": "Parthenocissus",
+      "family": "Vitaceae",
+      "confidence": 0.0424
+     },
+     {
+      "scientific_name": "Vitis davidii",
+      "genus": "Vitis",
+      "family": "Vitaceae",
+      "confidence": 0.0113
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 491,
+    "bytes": 1982,
+    "remaining": 343,
+    "candidates": [
+     {
+      "scientific_name": "Parthenocissus tricuspidata",
+      "genus": "Parthenocissus",
+      "family": "Vitaceae",
+      "confidence": 0.8668
+     },
+     {
+      "scientific_name": "Parthenocissus dalzielii",
+      "genus": "Parthenocissus",
+      "family": "Vitaceae",
+      "confidence": 0.0424
+     },
+     {
+      "scientific_name": "Vitis davidii",
+      "genus": "Vitis",
+      "family": "Vitaceae",
+      "confidence": 0.0113
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-388880787",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 557,
+    "bytes": 1905,
+    "remaining": 341,
+    "candidates": [
+     {
+      "scientific_name": "Catharanthus roseus",
+      "genus": "Catharanthus",
+      "family": "Apocynaceae",
+      "confidence": 0.5421
+     },
+     {
+      "scientific_name": "Catharanthus coriaceus",
+      "genus": "Catharanthus",
+      "family": "Apocynaceae",
+      "confidence": 0.0242
+     },
+     {
+      "scientific_name": "Vinca erecta",
+      "genus": "Vinca",
+      "family": "Apocynaceae",
+      "confidence": 0.0174
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 2488,
+    "bytes": 5499,
+    "remaining": 340,
+    "candidates": [
+     {
+      "scientific_name": "Catharanthus roseus",
+      "genus": "Catharanthus",
+      "family": "Apocynaceae",
+      "confidence": 0.5421
+     },
+     {
+      "scientific_name": "Catharanthus coriaceus",
+      "genus": "Catharanthus",
+      "family": "Apocynaceae",
+      "confidence": 0.0242
+     },
+     {
+      "scientific_name": "Vinca erecta",
+      "genus": "Vinca",
+      "family": "Apocynaceae",
+      "confidence": 0.0174
+     },
+     {
+      "scientific_name": "Phlox drummondii",
+      "genus": "Phlox",
+      "family": "Polemoniaceae",
+      "confidence": 0.0149
+     },
+     {
+      "scientific_name": "Adenium multiflorum",
+      "genus": "Adenium",
+      "family": "Apocynaceae",
+      "confidence": 0.0058
+     },
+     {
+      "scientific_name": "Adenium obesum",
+      "genus": "Adenium",
+      "family": "Apocynaceae",
+      "confidence": 0.004
+     },
+     {
+      "scientific_name": "Hibiscus martianus",
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "confidence": 0.0018
+     },
+     {
+      "scientific_name": "Callirhoe digitata",
+      "genus": "Callirhoe",
+      "family": "Malvaceae",
+      "confidence": 0.0014
+     },
+     {
+      "scientific_name": "Catharanthus trichophyllus",
+      "genus": "Catharanthus",
+      "family": "Apocynaceae",
+      "confidence": 0.0014
+     },
+     {
+      "scientific_name": "Alcea setosa",
+      "genus": "Alcea",
+      "family": "Malvaceae",
+      "confidence": 0.0014
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-412552015",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 2699,
+    "bytes": 913,
+    "remaining": 338,
+    "candidates": [
+     {
+      "scientific_name": "Ambrosia trifida",
+      "genus": "Ambrosia",
+      "family": "Asteraceae",
+      "confidence": 0.9935
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 526,
+    "bytes": 913,
+    "remaining": 339,
+    "candidates": [
+     {
+      "scientific_name": "Ambrosia trifida",
+      "genus": "Ambrosia",
+      "family": "Asteraceae",
+      "confidence": 0.9935
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-406961612",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 610,
+    "bytes": 1021,
+    "remaining": 337,
+    "candidates": [
+     {
+      "scientific_name": "Pseudocydonia sinensis",
+      "genus": "Pseudocydonia",
+      "family": "Rosaceae",
+      "confidence": 0.9988
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 532,
+    "bytes": 1021,
+    "remaining": 336,
+    "candidates": [
+     {
+      "scientific_name": "Pseudocydonia sinensis",
+      "genus": "Pseudocydonia",
+      "family": "Rosaceae",
+      "confidence": 0.9988
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-409379832",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 539,
+    "bytes": 1979,
+    "remaining": 334,
+    "candidates": [
+     {
+      "scientific_name": "Oryza sativa",
+      "genus": "Oryza",
+      "family": "Poaceae",
+      "confidence": 0.7517
+     },
+     {
+      "scientific_name": "Glyceria canadensis",
+      "genus": "Glyceria",
+      "family": "Poaceae",
+      "confidence": 0.0968
+     },
+     {
+      "scientific_name": "Leersia oryzoides",
+      "genus": "Leersia",
+      "family": "Poaceae",
+      "confidence": 0.0302
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 602,
+    "bytes": 5672,
+    "remaining": 335,
+    "candidates": [
+     {
+      "scientific_name": "Oryza sativa",
+      "genus": "Oryza",
+      "family": "Poaceae",
+      "confidence": 0.7517
+     },
+     {
+      "scientific_name": "Glyceria canadensis",
+      "genus": "Glyceria",
+      "family": "Poaceae",
+      "confidence": 0.0968
+     },
+     {
+      "scientific_name": "Leersia oryzoides",
+      "genus": "Leersia",
+      "family": "Poaceae",
+      "confidence": 0.0302
+     },
+     {
+      "scientific_name": "Carex paleacea",
+      "genus": "Carex",
+      "family": "Cyperaceae",
+      "confidence": 0.0195
+     },
+     {
+      "scientific_name": "Phaenosperma globosum",
+      "genus": "Phaenosperma",
+      "family": "Poaceae",
+      "confidence": 0.0045
+     },
+     {
+      "scientific_name": "Luziola bahiensis",
+      "genus": "Luziola",
+      "family": "Poaceae",
+      "confidence": 0.0032
+     },
+     {
+      "scientific_name": "Panicum virgatum",
+      "genus": "Panicum",
+      "family": "Poaceae",
+      "confidence": 0.003
+     },
+     {
+      "scientific_name": "Glyceria maxima",
+      "genus": "Glyceria",
+      "family": "Poaceae",
+      "confidence": 0.002
+     },
+     {
+      "scientific_name": "Leersia hexandra",
+      "genus": "Leersia",
+      "family": "Poaceae",
+      "confidence": 0.0016
+     },
+     {
+      "scientific_name": "Coleataenia rigidula",
+      "genus": "Coleataenia",
+      "family": "Poaceae",
+      "confidence": 0.0016
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-401745648",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 546,
+    "bytes": 935,
+    "remaining": 333,
+    "candidates": [
+     {
+      "scientific_name": "Sedum sarmentosum",
+      "genus": "Sedum",
+      "family": "Crassulaceae",
+      "confidence": 0.9857
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 807,
+    "bytes": 935,
+    "remaining": 332,
+    "candidates": [
+     {
+      "scientific_name": "Sedum sarmentosum",
+      "genus": "Sedum",
+      "family": "Crassulaceae",
+      "confidence": 0.9857
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-412738823",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 519,
+    "bytes": 2055,
+    "remaining": 330,
+    "candidates": [
+     {
+      "scientific_name": "Taxus canadensis",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.3347
+     },
+     {
+      "scientific_name": "Tsuga canadensis",
+      "genus": "Tsuga",
+      "family": "Pinaceae",
+      "confidence": 0.2683
+     },
+     {
+      "scientific_name": "Tsuga heterophylla",
+      "genus": "Tsuga",
+      "family": "Pinaceae",
+      "confidence": 0.0696
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 619,
+    "bytes": 5678,
+    "remaining": 331,
+    "candidates": [
+     {
+      "scientific_name": "Taxus canadensis",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.3347
+     },
+     {
+      "scientific_name": "Tsuga canadensis",
+      "genus": "Tsuga",
+      "family": "Pinaceae",
+      "confidence": 0.2683
+     },
+     {
+      "scientific_name": "Tsuga heterophylla",
+      "genus": "Tsuga",
+      "family": "Pinaceae",
+      "confidence": 0.0696
+     },
+     {
+      "scientific_name": "Torreya nucifera",
+      "genus": "Torreya",
+      "family": "Taxaceae",
+      "confidence": 0.0274
+     },
+     {
+      "scientific_name": "Taxus baccata",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.0272
+     },
+     {
+      "scientific_name": "Taxus floridana",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "confidence": 0.0159
+     },
+     {
+      "scientific_name": "Abies firma",
+      "genus": "Abies",
+      "family": "Pinaceae",
+      "confidence": 0.0124
+     },
+     {
+      "scientific_name": "Tsuga caroliniana",
+      "genus": "Tsuga",
+      "family": "Pinaceae",
+      "confidence": 0.0108
+     },
+     {
+      "scientific_name": "Picea orientalis",
+      "genus": "Picea",
+      "family": "Pinaceae",
+      "confidence": 0.0105
+     },
+     {
+      "scientific_name": "Abies cephalonica",
+      "genus": "Abies",
+      "family": "Pinaceae",
+      "confidence": 0.01
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-388357006",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 533,
+    "bytes": 1932,
+    "remaining": 329,
+    "candidates": [
+     {
+      "scientific_name": "Ipomoea quamoclit",
+      "genus": "Ipomoea",
+      "family": "Convolvulaceae",
+      "confidence": 0.843
+     },
+     {
+      "scientific_name": "Ipomoea coccinea",
+      "genus": "Ipomoea",
+      "family": "Convolvulaceae",
+      "confidence": 0.1311
+     },
+     {
+      "scientific_name": "Ipomoea × multifida",
+      "genus": "Ipomoea",
+      "family": "Convolvulaceae",
+      "confidence": 0.0024
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 593,
+    "bytes": 3493,
+    "remaining": 328,
+    "candidates": [
+     {
+      "scientific_name": "Ipomoea quamoclit",
+      "genus": "Ipomoea",
+      "family": "Convolvulaceae",
+      "confidence": 0.843
+     },
+     {
+      "scientific_name": "Ipomoea coccinea",
+      "genus": "Ipomoea",
+      "family": "Convolvulaceae",
+      "confidence": 0.1311
+     },
+     {
+      "scientific_name": "Ipomoea × multifida",
+      "genus": "Ipomoea",
+      "family": "Convolvulaceae",
+      "confidence": 0.0024
+     },
+     {
+      "scientific_name": "Xenostegia pinnata",
+      "genus": "Xenostegia",
+      "family": "Convolvulaceae",
+      "confidence": 0.0022
+     },
+     {
+      "scientific_name": "Ipomoea hederifolia",
+      "genus": "Ipomoea",
+      "family": "Convolvulaceae",
+      "confidence": 0.0019
+     },
+     {
+      "scientific_name": "Ipomoea capillacea",
+      "genus": "Ipomoea",
+      "family": "Convolvulaceae",
+      "confidence": 0.0014
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-406707207",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 607,
+    "bytes": 1901,
+    "remaining": 326,
+    "candidates": [
+     {
+      "scientific_name": "Viola mandshurica",
+      "genus": "Viola",
+      "family": "Violaceae",
+      "confidence": 0.4134
+     },
+     {
+      "scientific_name": "Viola patrinii",
+      "genus": "Viola",
+      "family": "Violaceae",
+      "confidence": 0.1182
+     },
+     {
+      "scientific_name": "Viola sagittata",
+      "genus": "Viola",
+      "family": "Violaceae",
+      "confidence": 0.0963
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 567,
+    "bytes": 5390,
+    "remaining": 327,
+    "candidates": [
+     {
+      "scientific_name": "Viola mandshurica",
+      "genus": "Viola",
+      "family": "Violaceae",
+      "confidence": 0.4134
+     },
+     {
+      "scientific_name": "Viola patrinii",
+      "genus": "Viola",
+      "family": "Violaceae",
+      "confidence": 0.1182
+     },
+     {
+      "scientific_name": "Viola sagittata",
+      "genus": "Viola",
+      "family": "Violaceae",
+      "confidence": 0.0963
+     },
+     {
+      "scientific_name": "Viola betonicifolia",
+      "genus": "Viola",
+      "family": "Violaceae",
+      "confidence": 0.0436
+     },
+     {
+      "scientific_name": "Drimiopsis botryoides",
+      "genus": "Drimiopsis",
+      "family": "Asparagaceae",
+      "confidence": 0.0118
+     },
+     {
+      "scientific_name": "Hosta sieboldii",
+      "genus": "Hosta",
+      "family": "Asparagaceae",
+      "confidence": 0.0094
+     },
+     {
+      "scientific_name": "Echinodorus berteroi",
+      "genus": "Echinodorus",
+      "family": "Alismataceae",
+      "confidence": 0.0066
+     },
+     {
+      "scientific_name": "Rumex acetosa",
+      "genus": "Rumex",
+      "family": "Polygonaceae",
+      "confidence": 0.006
+     },
+     {
+      "scientific_name": "Aquarius paniculatus",
+      "genus": "Aquarius",
+      "family": "Alismataceae",
+      "confidence": 0.005
+     },
+     {
+      "scientific_name": "Viola prionantha",
+      "genus": "Viola",
+      "family": "Violaceae",
+      "confidence": 0.0043
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-407497162",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 542,
+    "bytes": 2153,
+    "remaining": 325,
+    "candidates": [
+     {
+      "scientific_name": "Symphyotrichum ericoides",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.3659
+     },
+     {
+      "scientific_name": "Symphyotrichum pilosum",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.2528
+     },
+     {
+      "scientific_name": "Symphyotrichum lanceolatum",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.1486
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 634,
+    "bytes": 6145,
+    "remaining": 324,
+    "candidates": [
+     {
+      "scientific_name": "Symphyotrichum ericoides",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.3659
+     },
+     {
+      "scientific_name": "Symphyotrichum pilosum",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.2528
+     },
+     {
+      "scientific_name": "Symphyotrichum lanceolatum",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.1486
+     },
+     {
+      "scientific_name": "Symphyotrichum racemosum",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.0483
+     },
+     {
+      "scientific_name": "Symphyotrichum praealtum",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.0284
+     },
+     {
+      "scientific_name": "Symphyotrichum oolentangiense",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.0186
+     },
+     {
+      "scientific_name": "Symphyotrichum drummondii",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.006
+     },
+     {
+      "scientific_name": "Symphyotrichum puniceum",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.0051
+     },
+     {
+      "scientific_name": "Symphyotrichum novi-belgii",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.0051
+     },
+     {
+      "scientific_name": "Symphyotrichum tradescanti",
+      "genus": "Symphyotrichum",
+      "family": "Asteraceae",
+      "confidence": 0.005
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-412098591",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 463,
+    "bytes": 1432,
+    "remaining": 322,
+    "candidates": [
+     {
+      "scientific_name": "Paederia foetida",
+      "genus": "Paederia",
+      "family": "Rubiaceae",
+      "confidence": 0.9835
+     },
+     {
+      "scientific_name": "Pandorea pandorana",
+      "genus": "Pandorea",
+      "family": "Bignoniaceae",
+      "confidence": 0.0011
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 504,
+    "bytes": 1432,
+    "remaining": 323,
+    "candidates": [
+     {
+      "scientific_name": "Paederia foetida",
+      "genus": "Paederia",
+      "family": "Rubiaceae",
+      "confidence": 0.9835
+     },
+     {
+      "scientific_name": "Pandorea pandorana",
+      "genus": "Pandorea",
+      "family": "Bignoniaceae",
+      "confidence": 0.0011
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-385064570",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 553,
+    "bytes": 1862,
+    "remaining": 321,
+    "candidates": [
+     {
+      "scientific_name": "Lilium lancifolium",
+      "genus": "Lilium",
+      "family": "Liliaceae",
+      "confidence": 0.9491
+     },
+     {
+      "scientific_name": "Lilium leichtlinii",
+      "genus": "Lilium",
+      "family": "Liliaceae",
+      "confidence": 0.0262
+     },
+     {
+      "scientific_name": "Lilium superbum",
+      "genus": "Lilium",
+      "family": "Liliaceae",
+      "confidence": 0.0082
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 574,
+    "bytes": 3270,
+    "remaining": 320,
+    "candidates": [
+     {
+      "scientific_name": "Lilium lancifolium",
+      "genus": "Lilium",
+      "family": "Liliaceae",
+      "confidence": 0.9491
+     },
+     {
+      "scientific_name": "Lilium leichtlinii",
+      "genus": "Lilium",
+      "family": "Liliaceae",
+      "confidence": 0.0262
+     },
+     {
+      "scientific_name": "Lilium superbum",
+      "genus": "Lilium",
+      "family": "Liliaceae",
+      "confidence": 0.0082
+     },
+     {
+      "scientific_name": "Lilium michiganense",
+      "genus": "Lilium",
+      "family": "Liliaceae",
+      "confidence": 0.0026
+     },
+     {
+      "scientific_name": "Lilium amabile",
+      "genus": "Lilium",
+      "family": "Liliaceae",
+      "confidence": 0.0014
+     },
+     {
+      "scientific_name": "Lilium henryi",
+      "genus": "Lilium",
+      "family": "Liliaceae",
+      "confidence": 0.0013
+     }
+    ]
+   }
+  },
+  {
+   "set": "user",
+   "id": "inat-393381509",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 491,
+    "bytes": 2031,
+    "remaining": 318,
+    "candidates": [
+     {
+      "scientific_name": "Lygodium japonicum",
+      "genus": "Lygodium",
+      "family": "Schizaeaceae",
+      "confidence": 0.3962
+     },
+     {
+      "scientific_name": "Peucedanum oreoselinum",
+      "genus": "Peucedanum",
+      "family": "Apiaceae",
+      "confidence": 0.1242
+     },
+     {
+      "scientific_name": "Crataegus rhipidophylla",
+      "genus": "Crataegus",
+      "family": "Rosaceae",
+      "confidence": 0.0601
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 1703,
+    "bytes": 5682,
+    "remaining": 319,
+    "candidates": [
+     {
+      "scientific_name": "Lygodium japonicum",
+      "genus": "Lygodium",
+      "family": "Schizaeaceae",
+      "confidence": 0.3962
+     },
+     {
+      "scientific_name": "Peucedanum oreoselinum",
+      "genus": "Peucedanum",
+      "family": "Apiaceae",
+      "confidence": 0.1242
+     },
+     {
+      "scientific_name": "Crataegus rhipidophylla",
+      "genus": "Crataegus",
+      "family": "Rosaceae",
+      "confidence": 0.0601
+     },
+     {
+      "scientific_name": "Papaver cambricum",
+      "genus": "Papaver",
+      "family": "Papaveraceae",
+      "confidence": 0.0103
+     },
+     {
+      "scientific_name": "Cardamine impatiens",
+      "genus": "Cardamine",
+      "family": "Brassicaceae",
+      "confidence": 0.01
+     },
+     {
+      "scientific_name": "Nemophila parviflora",
+      "genus": "Nemophila",
+      "family": "Boraginaceae",
+      "confidence": 0.0084
+     },
+     {
+      "scientific_name": "Petroselinum crispum",
+      "genus": "Petroselinum",
+      "family": "Apiaceae",
+      "confidence": 0.0072
+     },
+     {
+      "scientific_name": "Clematis forsteri",
+      "genus": "Clematis",
+      "family": "Ranunculaceae",
+      "confidence": 0.0072
+     },
+     {
+      "scientific_name": "Cystopteris fragilis",
+      "genus": "Cystopteris",
+      "family": "Aspleniaceae",
+      "confidence": 0.0064
+     },
+     {
+      "scientific_name": "Oenanthe aquatica",
+      "genus": "Oenanthe",
+      "family": "Apiaceae",
+      "confidence": 0.0064
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "ginkgo",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 560,
+    "bytes": 1966,
+    "remaining": 317,
+    "candidates": [
+     {
+      "scientific_name": "Ginkgo biloba",
+      "genus": "Ginkgo",
+      "family": "Ginkgoaceae",
+      "confidence": 0.9365
+     },
+     {
+      "scientific_name": "Populus tremula",
+      "genus": "Populus",
+      "family": "Salicaceae",
+      "confidence": 0.0031
+     },
+     {
+      "scientific_name": "Fagus sylvatica",
+      "genus": "Fagus",
+      "family": "Fagaceae",
+      "confidence": 0.003
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 500,
+    "bytes": 5687,
+    "remaining": 316,
+    "candidates": [
+     {
+      "scientific_name": "Ginkgo biloba",
+      "genus": "Ginkgo",
+      "family": "Ginkgoaceae",
+      "confidence": 0.9365
+     },
+     {
+      "scientific_name": "Populus tremula",
+      "genus": "Populus",
+      "family": "Salicaceae",
+      "confidence": 0.0031
+     },
+     {
+      "scientific_name": "Fagus sylvatica",
+      "genus": "Fagus",
+      "family": "Fagaceae",
+      "confidence": 0.003
+     },
+     {
+      "scientific_name": "Ulmus pumila",
+      "genus": "Ulmus",
+      "family": "Ulmaceae",
+      "confidence": 0.0023
+     },
+     {
+      "scientific_name": "Cercidiphyllum japonicum",
+      "genus": "Cercidiphyllum",
+      "family": "Cercidiphyllaceae",
+      "confidence": 0.0021
+     },
+     {
+      "scientific_name": "Quercus robur",
+      "genus": "Quercus",
+      "family": "Fagaceae",
+      "confidence": 0.0018
+     },
+     {
+      "scientific_name": "Populus nigra",
+      "genus": "Populus",
+      "family": "Salicaceae",
+      "confidence": 0.0017
+     },
+     {
+      "scientific_name": "Tilia platyphyllos",
+      "genus": "Tilia",
+      "family": "Malvaceae",
+      "confidence": 0.0015
+     },
+     {
+      "scientific_name": "Tilia cordata",
+      "genus": "Tilia",
+      "family": "Malvaceae",
+      "confidence": 0.0014
+     },
+     {
+      "scientific_name": "Tilia × europaea",
+      "genus": "Tilia",
+      "family": "Malvaceae",
+      "confidence": 0.0013
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "yoshino-cherry",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 565,
+    "bytes": 1927,
+    "remaining": 314,
+    "candidates": [
+     {
+      "scientific_name": "Prunus × yedoensis",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.1885
+     },
+     {
+      "scientific_name": "Prunus × subhirtella",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.1216
+     },
+     {
+      "scientific_name": "Prunus amygdalus",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.1173
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 625,
+    "bytes": 5448,
+    "remaining": 315,
+    "candidates": [
+     {
+      "scientific_name": "Prunus × yedoensis",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.1885
+     },
+     {
+      "scientific_name": "Prunus × subhirtella",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.1216
+     },
+     {
+      "scientific_name": "Prunus amygdalus",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.1173
+     },
+     {
+      "scientific_name": "Prunus cerasifera",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.0684
+     },
+     {
+      "scientific_name": "Prunus davidiana",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.0659
+     },
+     {
+      "scientific_name": "Prunus avium",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.0513
+     },
+     {
+      "scientific_name": "Prunus cerasus",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.0372
+     },
+     {
+      "scientific_name": "Prunus cyclamina",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.033
+     },
+     {
+      "scientific_name": "Prunus serrulata",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.0328
+     },
+     {
+      "scientific_name": "Prunus mandshurica",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.0306
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "korean-rhododendron",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 518,
+    "bytes": 1985,
+    "remaining": 313,
+    "candidates": [
+     {
+      "scientific_name": "Rhododendron mucronulatum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.8345
+     },
+     {
+      "scientific_name": "Rhododendron dauricum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0477
+     },
+     {
+      "scientific_name": "Rhododendron dilatatum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0363
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 619,
+    "bytes": 5572,
+    "remaining": 312,
+    "candidates": [
+     {
+      "scientific_name": "Rhododendron mucronulatum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.8345
+     },
+     {
+      "scientific_name": "Rhododendron dauricum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0477
+     },
+     {
+      "scientific_name": "Rhododendron dilatatum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0363
+     },
+     {
+      "scientific_name": "Rhododendron wadanum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0357
+     },
+     {
+      "scientific_name": "Rhododendron reticulatum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0057
+     },
+     {
+      "scientific_name": "Rhododendron sichotense",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0053
+     },
+     {
+      "scientific_name": "Rhododendron yedoense",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0045
+     },
+     {
+      "scientific_name": "Rhododendron prinophyllum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0017
+     },
+     {
+      "scientific_name": "Rhododendron lapponicum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0016
+     },
+     {
+      "scientific_name": "Rhododendron calostrotum",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "confidence": 0.0014
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "dandelion",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 484,
+    "bytes": 1959,
+    "remaining": 310,
+    "candidates": [
+     {
+      "scientific_name": "Taraxacum sect. Taraxacum",
+      "genus": "Taraxacum",
+      "family": "Asteraceae",
+      "confidence": 0.4292
+     },
+     {
+      "scientific_name": "Taraxacum mediterraneum",
+      "genus": "Taraxacum",
+      "family": "Asteraceae",
+      "confidence": 0.1086
+     },
+     {
+      "scientific_name": "Taraxacum campylodes",
+      "genus": "Taraxacum",
+      "family": "Asteraceae",
+      "confidence": 0.0515
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 632,
+    "bytes": 5447,
+    "remaining": 311,
+    "candidates": [
+     {
+      "scientific_name": "Taraxacum sect. Taraxacum",
+      "genus": "Taraxacum",
+      "family": "Asteraceae",
+      "confidence": 0.4292
+     },
+     {
+      "scientific_name": "Taraxacum mediterraneum",
+      "genus": "Taraxacum",
+      "family": "Asteraceae",
+      "confidence": 0.1086
+     },
+     {
+      "scientific_name": "Taraxacum campylodes",
+      "genus": "Taraxacum",
+      "family": "Asteraceae",
+      "confidence": 0.0515
+     },
+     {
+      "scientific_name": "Taraxacum mongolicum",
+      "genus": "Taraxacum",
+      "family": "Asteraceae",
+      "confidence": 0.0176
+     },
+     {
+      "scientific_name": "Taraxacum obliquilobum",
+      "genus": "Taraxacum",
+      "family": "Asteraceae",
+      "confidence": 0.0151
+     },
+     {
+      "scientific_name": "Taraxacum palustre",
+      "genus": "Taraxacum",
+      "family": "Asteraceae",
+      "confidence": 0.0115
+     },
+     {
+      "scientific_name": "Taraxacum pubescens",
+      "genus": "Taraxacum",
+      "family": "Asteraceae",
+      "confidence": 0.0102
+     },
+     {
+      "scientific_name": "Crepis sancta",
+      "genus": "Crepis",
+      "family": "Asteraceae",
+      "confidence": 0.0074
+     },
+     {
+      "scientific_name": "Leontodon hispidus",
+      "genus": "Leontodon",
+      "family": "Asteraceae",
+      "confidence": 0.0067
+     },
+     {
+      "scientific_name": "Taraxacum erythrospermum",
+      "genus": "Taraxacum",
+      "family": "Asteraceae",
+      "confidence": 0.0051
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "rose-of-sharon",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 500,
+    "bytes": 1962,
+    "remaining": 309,
+    "candidates": [
+     {
+      "scientific_name": "Hibiscus syriacus",
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "confidence": 0.8014
+     },
+     {
+      "scientific_name": "Hibiscus mutabilis",
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "confidence": 0.0389
+     },
+     {
+      "scientific_name": "Hibiscus moscheutos",
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "confidence": 0.0113
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 526,
+    "bytes": 5394,
+    "remaining": 308,
+    "candidates": [
+     {
+      "scientific_name": "Hibiscus syriacus",
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "confidence": 0.8014
+     },
+     {
+      "scientific_name": "Hibiscus mutabilis",
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "confidence": 0.0389
+     },
+     {
+      "scientific_name": "Hibiscus moscheutos",
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "confidence": 0.0113
+     },
+     {
+      "scientific_name": "Malva olbia",
+      "genus": "Malva",
+      "family": "Malvaceae",
+      "confidence": 0.0044
+     },
+     {
+      "scientific_name": "Hibiscus laevis",
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "confidence": 0.0039
+     },
+     {
+      "scientific_name": "Hibiscus hamabo",
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "confidence": 0.0037
+     },
+     {
+      "scientific_name": "Malva subovata",
+      "genus": "Malva",
+      "family": "Malvaceae",
+      "confidence": 0.0034
+     },
+     {
+      "scientific_name": "Hibiscus cameronii",
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "confidence": 0.0031
+     },
+     {
+      "scientific_name": "Hibiscus sinosyriacus",
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "confidence": 0.0026
+     },
+     {
+      "scientific_name": "Malva thuringiaca",
+      "genus": "Malva",
+      "family": "Malvaceae",
+      "confidence": 0.0024
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "korean-red-pine",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 507,
+    "bytes": 1992,
+    "remaining": 307,
+    "candidates": [
+     {
+      "scientific_name": "Pinus pinea",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.4869
+     },
+     {
+      "scientific_name": "Pinus sylvestris",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.1082
+     },
+     {
+      "scientific_name": "Pinus densiflora",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.0556
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 2051,
+    "bytes": 5618,
+    "remaining": 307,
+    "candidates": [
+     {
+      "scientific_name": "Pinus pinea",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.4869
+     },
+     {
+      "scientific_name": "Pinus sylvestris",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.1082
+     },
+     {
+      "scientific_name": "Pinus densiflora",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.0556
+     },
+     {
+      "scientific_name": "Pinus halepensis",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.0146
+     },
+     {
+      "scientific_name": "Pinus montezumae",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.0133
+     },
+     {
+      "scientific_name": "Pinus taeda",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.0114
+     },
+     {
+      "scientific_name": "Pinus pinaster",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.0095
+     },
+     {
+      "scientific_name": "Pinus hwangshanensis",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.0072
+     },
+     {
+      "scientific_name": "Pinus nigra",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.006
+     },
+     {
+      "scientific_name": "Pinus torreyana",
+      "genus": "Pinus",
+      "family": "Pinaceae",
+      "confidence": 0.0058
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "japanese-maple",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 475,
+    "bytes": 2036,
+    "remaining": 307,
+    "candidates": [
+     {
+      "scientific_name": "Acer palmatum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.8005
+     },
+     {
+      "scientific_name": "Acer japonicum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.078
+     },
+     {
+      "scientific_name": "Acer shirasawanum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.0072
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 501,
+    "bytes": 5625,
+    "remaining": 304,
+    "candidates": [
+     {
+      "scientific_name": "Acer palmatum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.8005
+     },
+     {
+      "scientific_name": "Acer japonicum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.078
+     },
+     {
+      "scientific_name": "Acer shirasawanum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.0072
+     },
+     {
+      "scientific_name": "Acer pseudosieboldianum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.007
+     },
+     {
+      "scientific_name": "Acer micranthum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.0056
+     },
+     {
+      "scientific_name": "Acer robustum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.0055
+     },
+     {
+      "scientific_name": "Acer mandshuricum",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.0051
+     },
+     {
+      "scientific_name": "Acer miyabei",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.0042
+     },
+     {
+      "scientific_name": "Acer ukurunduense",
+      "genus": "Acer",
+      "family": "Sapindaceae",
+      "confidence": 0.0031
+     },
+     {
+      "scientific_name": "Clematis alpina",
+      "genus": "Clematis",
+      "family": "Ranunculaceae",
+      "confidence": 0.0021
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "sunflower",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 536,
+    "bytes": 2071,
+    "remaining": 302,
+    "candidates": [
+     {
+      "scientific_name": "Helianthus giganteus",
+      "genus": "Helianthus",
+      "family": "Asteraceae",
+      "confidence": 0.5875
+     },
+     {
+      "scientific_name": "Helianthus annuus",
+      "genus": "Helianthus",
+      "family": "Asteraceae",
+      "confidence": 0.3565
+     },
+     {
+      "scientific_name": "Helianthus petiolaris",
+      "genus": "Helianthus",
+      "family": "Asteraceae",
+      "confidence": 0.0068
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 550,
+    "bytes": 3705,
+    "remaining": 303,
+    "candidates": [
+     {
+      "scientific_name": "Helianthus giganteus",
+      "genus": "Helianthus",
+      "family": "Asteraceae",
+      "confidence": 0.5875
+     },
+     {
+      "scientific_name": "Helianthus annuus",
+      "genus": "Helianthus",
+      "family": "Asteraceae",
+      "confidence": 0.3565
+     },
+     {
+      "scientific_name": "Helianthus petiolaris",
+      "genus": "Helianthus",
+      "family": "Asteraceae",
+      "confidence": 0.0068
+     },
+     {
+      "scientific_name": "Tithonia tubaeformis",
+      "genus": "Tithonia",
+      "family": "Asteraceae",
+      "confidence": 0.0013
+     },
+     {
+      "scientific_name": "Helianthella quinquenervis",
+      "genus": "Helianthella",
+      "family": "Asteraceae",
+      "confidence": 0.0012
+     },
+     {
+      "scientific_name": "Helianthus paradoxus",
+      "genus": "Helianthus",
+      "family": "Asteraceae",
+      "confidence": 0.0011
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "cosmos",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 608,
+    "bytes": 1874,
+    "remaining": 301,
+    "candidates": [
+     {
+      "scientific_name": "Cosmos caudatus",
+      "genus": "Cosmos",
+      "family": "Asteraceae",
+      "confidence": 0.7143
+     },
+     {
+      "scientific_name": "Cosmos parviflorus",
+      "genus": "Cosmos",
+      "family": "Asteraceae",
+      "confidence": 0.0479
+     },
+     {
+      "scientific_name": "Cosmos bipinnatus",
+      "genus": "Cosmos",
+      "family": "Asteraceae",
+      "confidence": 0.0379
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 587,
+    "bytes": 5287,
+    "remaining": 300,
+    "candidates": [
+     {
+      "scientific_name": "Cosmos caudatus",
+      "genus": "Cosmos",
+      "family": "Asteraceae",
+      "confidence": 0.7143
+     },
+     {
+      "scientific_name": "Cosmos parviflorus",
+      "genus": "Cosmos",
+      "family": "Asteraceae",
+      "confidence": 0.0479
+     },
+     {
+      "scientific_name": "Cosmos bipinnatus",
+      "genus": "Cosmos",
+      "family": "Asteraceae",
+      "confidence": 0.0379
+     },
+     {
+      "scientific_name": "Cosmos crithmifolius",
+      "genus": "Cosmos",
+      "family": "Asteraceae",
+      "confidence": 0.0176
+     },
+     {
+      "scientific_name": "Dahlia merckii",
+      "genus": "Dahlia",
+      "family": "Asteraceae",
+      "confidence": 0.0137
+     },
+     {
+      "scientific_name": "Cosmos peucedanifolius",
+      "genus": "Cosmos",
+      "family": "Asteraceae",
+      "confidence": 0.0129
+     },
+     {
+      "scientific_name": "Dahlia tenuicaulis",
+      "genus": "Dahlia",
+      "family": "Asteraceae",
+      "confidence": 0.0048
+     },
+     {
+      "scientific_name": "Sabatia kennedyana",
+      "genus": "Sabatia",
+      "family": "Gentianaceae",
+      "confidence": 0.0038
+     },
+     {
+      "scientific_name": "Dahlia excelsa",
+      "genus": "Dahlia",
+      "family": "Asteraceae",
+      "confidence": 0.0033
+     },
+     {
+      "scientific_name": "Dahlia imperialis",
+      "genus": "Dahlia",
+      "family": "Asteraceae",
+      "confidence": 0.0031
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "kobus-magnolia",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 564,
+    "bytes": 2086,
+    "remaining": 298,
+    "candidates": [
+     {
+      "scientific_name": "Magnolia stellata",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "confidence": 0.2912
+     },
+     {
+      "scientific_name": "Magnolia kobus",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "confidence": 0.1257
+     },
+     {
+      "scientific_name": "Prunus × yedoensis",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.0635
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 553,
+    "bytes": 5781,
+    "remaining": 299,
+    "candidates": [
+     {
+      "scientific_name": "Magnolia stellata",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "confidence": 0.2912
+     },
+     {
+      "scientific_name": "Magnolia kobus",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "confidence": 0.1257
+     },
+     {
+      "scientific_name": "Prunus × yedoensis",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.0635
+     },
+     {
+      "scientific_name": "Prunus avium",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.0491
+     },
+     {
+      "scientific_name": "Magnolia salicifolia",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "confidence": 0.042
+     },
+     {
+      "scientific_name": "Prunus cerasus",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "confidence": 0.037
+     },
+     {
+      "scientific_name": "Magnolia denudata",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "confidence": 0.0243
+     },
+     {
+      "scientific_name": "Magnolia × soulangeana",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "confidence": 0.0217
+     },
+     {
+      "scientific_name": "Cornus florida",
+      "genus": "Cornus",
+      "family": "Cornaceae",
+      "confidence": 0.0202
+     },
+     {
+      "scientific_name": "Amelanchier × lamarckii",
+      "genus": "Amelanchier",
+      "family": "Rosaceae",
+      "confidence": 0.0192
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "white-clover",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 488,
+    "bytes": 1905,
+    "remaining": 297,
+    "candidates": [
+     {
+      "scientific_name": "Trifolium repens",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.7282
+     },
+     {
+      "scientific_name": "Trifolium nigrescens",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.1804
+     },
+     {
+      "scientific_name": "Trifolium stoloniferum",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0194
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 550,
+    "bytes": 4810,
+    "remaining": 296,
+    "candidates": [
+     {
+      "scientific_name": "Trifolium repens",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.7282
+     },
+     {
+      "scientific_name": "Trifolium nigrescens",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.1804
+     },
+     {
+      "scientific_name": "Trifolium stoloniferum",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0194
+     },
+     {
+      "scientific_name": "Trifolium occidentale",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0179
+     },
+     {
+      "scientific_name": "Trifolium reflexum",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0069
+     },
+     {
+      "scientific_name": "Trifolium amabile",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0059
+     },
+     {
+      "scientific_name": "Trifolium hybridum",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0032
+     },
+     {
+      "scientific_name": "Trifolium glomeratum",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0011
+     },
+     {
+      "scientific_name": "Trifolium clypeatum",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "confidence": 0.0011
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "green-foxtail",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 545,
+    "bytes": 1990,
+    "remaining": 294,
+    "candidates": [
+     {
+      "scientific_name": "Setaria viridis",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.4294
+     },
+     {
+      "scientific_name": "Setaria italica",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.3125
+     },
+     {
+      "scientific_name": "Setaria verticillata",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.0795
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 2185,
+    "bytes": 5690,
+    "remaining": 295,
+    "candidates": [
+     {
+      "scientific_name": "Setaria viridis",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.4294
+     },
+     {
+      "scientific_name": "Setaria italica",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.3125
+     },
+     {
+      "scientific_name": "Setaria verticillata",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.0795
+     },
+     {
+      "scientific_name": "Setaria macrostachya",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.0363
+     },
+     {
+      "scientific_name": "Setaria pumila",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.0338
+     },
+     {
+      "scientific_name": "Setaria grisebachii",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.0074
+     },
+     {
+      "scientific_name": "Setaria leucopila",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.0054
+     },
+     {
+      "scientific_name": "Setaria adhaerens",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.0053
+     },
+     {
+      "scientific_name": "Echinochloa crus-pavonis",
+      "genus": "Echinochloa",
+      "family": "Poaceae",
+      "confidence": 0.0044
+     },
+     {
+      "scientific_name": "Setaria faberi",
+      "genus": "Setaria",
+      "family": "Poaceae",
+      "confidence": 0.0032
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "sycamore",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 636,
+    "bytes": 2050,
+    "remaining": 293,
+    "candidates": [
+     {
+      "scientific_name": "Platanus occidentalis",
+      "genus": "Platanus",
+      "family": "Platanaceae",
+      "confidence": 0.4248
+     },
+     {
+      "scientific_name": "Platanus × hispanica",
+      "genus": "Platanus",
+      "family": "Platanaceae",
+      "confidence": 0.3021
+     },
+     {
+      "scientific_name": "Platanus orientalis",
+      "genus": "Platanus",
+      "family": "Platanaceae",
+      "confidence": 0.1694
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 617,
+    "bytes": 5787,
+    "remaining": 292,
+    "candidates": [
+     {
+      "scientific_name": "Platanus occidentalis",
+      "genus": "Platanus",
+      "family": "Platanaceae",
+      "confidence": 0.4248
+     },
+     {
+      "scientific_name": "Platanus × hispanica",
+      "genus": "Platanus",
+      "family": "Platanaceae",
+      "confidence": 0.3021
+     },
+     {
+      "scientific_name": "Platanus orientalis",
+      "genus": "Platanus",
+      "family": "Platanaceae",
+      "confidence": 0.1694
+     },
+     {
+      "scientific_name": "Platanus racemosa",
+      "genus": "Platanus",
+      "family": "Platanaceae",
+      "confidence": 0.0089
+     },
+     {
+      "scientific_name": "Quercus robur",
+      "genus": "Quercus",
+      "family": "Fagaceae",
+      "confidence": 0.0076
+     },
+     {
+      "scientific_name": "Quercus velutina",
+      "genus": "Quercus",
+      "family": "Fagaceae",
+      "confidence": 0.0034
+     },
+     {
+      "scientific_name": "Quercus pubescens",
+      "genus": "Quercus",
+      "family": "Fagaceae",
+      "confidence": 0.0027
+     },
+     {
+      "scientific_name": "Quercus acerifolia",
+      "genus": "Quercus",
+      "family": "Fagaceae",
+      "confidence": 0.0024
+     },
+     {
+      "scientific_name": "Sterculia setigera",
+      "genus": "Sterculia",
+      "family": "Malvaceae",
+      "confidence": 0.002
+     },
+     {
+      "scientific_name": "Platanus wrightii",
+      "genus": "Platanus",
+      "family": "Platanaceae",
+      "confidence": 0.002
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "zelkova",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 547,
+    "bytes": 2013,
+    "remaining": 290,
+    "candidates": [
+     {
+      "scientific_name": "Ceiba pentandra",
+      "genus": "Ceiba",
+      "family": "Malvaceae",
+      "confidence": 0.2178
+     },
+     {
+      "scientific_name": "Samanea saman",
+      "genus": "Samanea",
+      "family": "Fabaceae",
+      "confidence": 0.0872
+     },
+     {
+      "scientific_name": "Adansonia digitata",
+      "genus": "Adansonia",
+      "family": "Malvaceae",
+      "confidence": 0.0481
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 545,
+    "bytes": 5718,
+    "remaining": 291,
+    "candidates": [
+     {
+      "scientific_name": "Ceiba pentandra",
+      "genus": "Ceiba",
+      "family": "Malvaceae",
+      "confidence": 0.2178
+     },
+     {
+      "scientific_name": "Samanea saman",
+      "genus": "Samanea",
+      "family": "Fabaceae",
+      "confidence": 0.0872
+     },
+     {
+      "scientific_name": "Adansonia digitata",
+      "genus": "Adansonia",
+      "family": "Malvaceae",
+      "confidence": 0.0481
+     },
+     {
+      "scientific_name": "Camphora officinarum",
+      "genus": "Camphora",
+      "family": "Lauraceae",
+      "confidence": 0.0301
+     },
+     {
+      "scientific_name": "Fraxinus ornus",
+      "genus": "Fraxinus",
+      "family": "Oleaceae",
+      "confidence": 0.0141
+     },
+     {
+      "scientific_name": "Styphnolobium japonicum",
+      "genus": "Styphnolobium",
+      "family": "Fabaceae",
+      "confidence": 0.011
+     },
+     {
+      "scientific_name": "Planchonella lifuana",
+      "genus": "Planchonella",
+      "family": "Sapotaceae",
+      "confidence": 0.0087
+     },
+     {
+      "scientific_name": "Fraxinus excelsior",
+      "genus": "Fraxinus",
+      "family": "Oleaceae",
+      "confidence": 0.008
+     },
+     {
+      "scientific_name": "Quercus robur",
+      "genus": "Quercus",
+      "family": "Fagaceae",
+      "confidence": 0.0078
+     },
+     {
+      "scientific_name": "Enterolobium cyclocarpum",
+      "genus": "Enterolobium",
+      "family": "Fabaceae",
+      "confidence": 0.0077
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "monstera",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 579,
+    "bytes": 1936,
+    "remaining": 289,
+    "candidates": [
+     {
+      "scientific_name": "Monstera deliciosa",
+      "genus": "Monstera",
+      "family": "Araceae",
+      "confidence": 0.8003
+     },
+     {
+      "scientific_name": "Monstera adansonii",
+      "genus": "Monstera",
+      "family": "Araceae",
+      "confidence": 0.035
+     },
+     {
+      "scientific_name": "Monstera dubia",
+      "genus": "Monstera",
+      "family": "Araceae",
+      "confidence": 0.023
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 627,
+    "bytes": 5371,
+    "remaining": 288,
+    "candidates": [
+     {
+      "scientific_name": "Monstera deliciosa",
+      "genus": "Monstera",
+      "family": "Araceae",
+      "confidence": 0.8003
+     },
+     {
+      "scientific_name": "Monstera adansonii",
+      "genus": "Monstera",
+      "family": "Araceae",
+      "confidence": 0.035
+     },
+     {
+      "scientific_name": "Monstera dubia",
+      "genus": "Monstera",
+      "family": "Araceae",
+      "confidence": 0.023
+     },
+     {
+      "scientific_name": "Monstera siltepecana",
+      "genus": "Monstera",
+      "family": "Araceae",
+      "confidence": 0.0114
+     },
+     {
+      "scientific_name": "Monstera punctulata",
+      "genus": "Monstera",
+      "family": "Araceae",
+      "confidence": 0.0051
+     },
+     {
+      "scientific_name": "Rhaphidophora decursiva",
+      "genus": "Rhaphidophora",
+      "family": "Araceae",
+      "confidence": 0.0048
+     },
+     {
+      "scientific_name": "Philodendron bipinnatifidum",
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "confidence": 0.003
+     },
+     {
+      "scientific_name": "Monstera epipremnoides",
+      "genus": "Monstera",
+      "family": "Araceae",
+      "confidence": 0.0028
+     },
+     {
+      "scientific_name": "Monstera acuminata",
+      "genus": "Monstera",
+      "family": "Araceae",
+      "confidence": 0.0028
+     },
+     {
+      "scientific_name": "Rhaphidophora crassicaulis",
+      "genus": "Rhaphidophora",
+      "family": "Araceae",
+      "confidence": 0.0021
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "pothos",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 480,
+    "bytes": 1991,
+    "remaining": 286,
+    "candidates": [
+     {
+      "scientific_name": "Epipremnum pinnatum",
+      "genus": "Epipremnum",
+      "family": "Araceae",
+      "confidence": 0.8085
+     },
+     {
+      "scientific_name": "Epipremnum aureum",
+      "genus": "Epipremnum",
+      "family": "Araceae",
+      "confidence": 0.1607
+     },
+     {
+      "scientific_name": "Philodendron giganteum",
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "confidence": 0.0019
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 551,
+    "bytes": 2529,
+    "remaining": 287,
+    "candidates": [
+     {
+      "scientific_name": "Epipremnum pinnatum",
+      "genus": "Epipremnum",
+      "family": "Araceae",
+      "confidence": 0.8085
+     },
+     {
+      "scientific_name": "Epipremnum aureum",
+      "genus": "Epipremnum",
+      "family": "Araceae",
+      "confidence": 0.1606
+     },
+     {
+      "scientific_name": "Philodendron giganteum",
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "confidence": 0.0019
+     },
+     {
+      "scientific_name": "Philodendron burle-marxii",
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "confidence": 0.0011
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "rubber-plant",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 547,
+    "bytes": 2045,
+    "remaining": 285,
+    "candidates": [
+     {
+      "scientific_name": "Ficus elastica",
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "confidence": 0.8629
+     },
+     {
+      "scientific_name": "Ficus robusta",
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "confidence": 0.0084
+     },
+     {
+      "scientific_name": "Ficus rubiginosa",
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "confidence": 0.0031
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 2118,
+    "bytes": 2582,
+    "remaining": 284,
+    "candidates": [
+     {
+      "scientific_name": "Ficus elastica",
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "confidence": 0.8629
+     },
+     {
+      "scientific_name": "Ficus robusta",
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "confidence": 0.0084
+     },
+     {
+      "scientific_name": "Ficus rubiginosa",
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "confidence": 0.0031
+     },
+     {
+      "scientific_name": "Manilkara kauki",
+      "genus": "Manilkara",
+      "family": "Sapotaceae",
+      "confidence": 0.0015
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "snake-plant",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 478,
+    "bytes": 1973,
+    "remaining": 282,
+    "candidates": [
+     {
+      "scientific_name": "Dracaena trifasciata",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "confidence": 0.5374
+     },
+     {
+      "scientific_name": "Dracaena zeylanica",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "confidence": 0.0194
+     },
+     {
+      "scientific_name": "Dracaena zebra",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "confidence": 0.0132
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 496,
+    "bytes": 4604,
+    "remaining": 283,
+    "candidates": [
+     {
+      "scientific_name": "Dracaena trifasciata",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "confidence": 0.5374
+     },
+     {
+      "scientific_name": "Dracaena zeylanica",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "confidence": 0.0194
+     },
+     {
+      "scientific_name": "Dracaena zebra",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "confidence": 0.0132
+     },
+     {
+      "scientific_name": "Dracaena stuckyi",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "confidence": 0.0126
+     },
+     {
+      "scientific_name": "Dracaena hyacinthoides",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "confidence": 0.0099
+     },
+     {
+      "scientific_name": "Dracaena aethiopica",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "confidence": 0.0035
+     },
+     {
+      "scientific_name": "Dracaena aubrytiana",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "confidence": 0.0022
+     },
+     {
+      "scientific_name": "Dracaena masoniana",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "confidence": 0.0022
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "zz-plant",
+   "first": 3,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 517,
+    "bytes": 1964,
+    "remaining": 281,
+    "candidates": [
+     {
+      "scientific_name": "Zamioculcas zamiifolia",
+      "genus": "Zamioculcas",
+      "family": "Araceae",
+      "confidence": 0.5748
+     },
+     {
+      "scientific_name": "Zamia furfuracea",
+      "genus": "Zamia",
+      "family": "Zamiaceae",
+      "confidence": 0.0029
+     },
+     {
+      "scientific_name": "Dictamnus albus",
+      "genus": "Dictamnus",
+      "family": "Rutaceae",
+      "confidence": 0.0022
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 490,
+    "bytes": 1964,
+    "remaining": 281,
+    "candidates": [
+     {
+      "scientific_name": "Zamioculcas zamiifolia",
+      "genus": "Zamioculcas",
+      "family": "Araceae",
+      "confidence": 0.5748
+     },
+     {
+      "scientific_name": "Zamia furfuracea",
+      "genus": "Zamia",
+      "family": "Zamiaceae",
+      "confidence": 0.0029
+     },
+     {
+      "scientific_name": "Dictamnus albus",
+      "genus": "Dictamnus",
+      "family": "Rutaceae",
+      "confidence": 0.0022
+     }
+    ]
+   }
+  },
+  {
+   "set": "wiki",
+   "id": "spider-plant",
+   "first": 10,
+   "n3": {
+    "nb": 3,
+    "ok": true,
+    "elapsed_ms": 615,
+    "bytes": 1963,
+    "remaining": 278,
+    "candidates": [
+     {
+      "scientific_name": "Chlorophytum comosum",
+      "genus": "Chlorophytum",
+      "family": "Asparagaceae",
+      "confidence": 0.7545
+     },
+     {
+      "scientific_name": "Chlorophytum capense",
+      "genus": "Chlorophytum",
+      "family": "Asparagaceae",
+      "confidence": 0.2165
+     },
+     {
+      "scientific_name": "Rohdea nepalensis",
+      "genus": "Rohdea",
+      "family": "Asparagaceae",
+      "confidence": 0.0013
+     }
+    ]
+   },
+   "n10": {
+    "nb": 10,
+    "ok": true,
+    "elapsed_ms": 709,
+    "bytes": 1963,
+    "remaining": 279,
+    "candidates": [
+     {
+      "scientific_name": "Chlorophytum comosum",
+      "genus": "Chlorophytum",
+      "family": "Asparagaceae",
+      "confidence": 0.7545
+     },
+     {
+      "scientific_name": "Chlorophytum capense",
+      "genus": "Chlorophytum",
+      "family": "Asparagaceae",
+      "confidence": 0.2165
+     },
+     {
+      "scientific_name": "Rohdea nepalensis",
+      "genus": "Rohdea",
+      "family": "Asparagaceae",
+      "confidence": 0.0013
+     }
+    ]
+   }
+  }
+ ]
+}
